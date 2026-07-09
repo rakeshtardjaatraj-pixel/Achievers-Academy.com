@@ -1,0 +1,2060 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Achievers Academy Bikaner - Leading coaching institute for SSC, RPSC, Banking, CET, Defence and other competitive examinations. 200+ SSC Selections. Join the best coaching in Bikaner.">
+    <meta name="keywords" content="Achievers Academy, Bikaner, SSC coaching, RPSC coaching, Banking coaching, CET coaching, Defence coaching, competitive exams, JNV Murti Circle, coaching institute Bikaner">
+    <meta name="author" content="Achievers Academy">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="Achievers Academy Bikaner - Best Coaching for SSC, RPSC, Banking & More">
+    <meta property="og:description" content="बढ़ रहा है विश्वास, बढ़ रहे हैं ACHIEVERS | Fuel Your Passion – Shape Your Success | 200+ SSC Selections | 4.5★ Rating">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.achieversacademybikaner.com">
+    <meta property="og:locale" content="en_IN">
+    <title>Achievers Academy Bikaner | Best SSC, RPSC, Banking, Defence Coaching in Bikaner</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Noto+Sans+Devanagari:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --dark-blue-900: #060d1a;
+            --dark-blue-800: #0a1628;
+            --dark-blue-700: #0d1f3c;
+            --dark-blue-600: #112845;
+            --dark-blue-500: #153358;
+            --dark-blue-400: #1a3d6b;
+            --orange-500: #ff6b2b;
+            --orange-400: #ff7f47;
+            --orange-300: #ff9566;
+            --orange-600: #e55d1f;
+            --orange-700: #cc4f18;
+            --white: #ffffff;
+            --gray-100: #f8f9fa;
+            --gray-200: #e9ecef;
+            --gray-300: #dee2e6;
+            --gray-400: #ced4da;
+            --gray-500: #adb5bd;
+            --gray-600: #6c757d;
+            --gray-700: #495057;
+            --gray-800: #343a40;
+            --gold: #f0b90b;
+            --green-500: #22c55e;
+            --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.12);
+            --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.15);
+            --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.2);
+            --shadow-xl: 0 20px 50px rgba(0, 0, 0, 0.3);
+            --radius-sm: 8px;
+            --radius-md: 12px;
+            --radius-lg: 20px;
+            --radius-xl: 28px;
+            --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            --font-en: 'Poppins', sans-serif;
+            --font-hi: 'Noto Sans Devanagari', sans-serif;
+        }
+
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        html {
+            scroll-behavior: smooth;
+            font-size: 16px;
+            scroll-padding-top: 80px;
+        }
+        body {
+            font-family: var(--font-en);
+            background: var(--white);
+            color: var(--gray-800);
+            line-height: 1.6;
+            overflow-x: hidden;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .devnagari {
+            font-family: var(--font-hi);
+        }
+        
+        /* ✅ आपका पूरा SCROLLBAR CSS (अब सही जगह पर) */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: var(--gray-200);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: var(--dark-blue-400);
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--orange-500);
+        }
+    </style>
+</head>
+<body>
+
+    <!-- ✅ यह रही आपकी फोटो (बिल्कुल सही जगह पर) -->
+    <img_20260707_165645,img_20260707_165632 ="banner.jpg" alt="Achievers Academy Coaching" style="width:100%; max-width:1200px; height:auto; display:block;">
+
+    <!-- अब यहाँ अपना बाकी का कंटेंट (टेक्स्ट, बटन, गैलरी) लिखें -->
+    <h1 style="text-align:center; padding:20px;">
+        Welcome to Achievers Academy
+    </h1>
+
+</body>
+</html>
+
+               SCROLLBAR */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: var(--gray-200);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: var(--dark-blue-400);
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--orange-500);
+        }
+
+        /* HEADER */
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            background: var(--dark-blue-800);
+            transition: var(--transition);
+            box-shadow: var(--shadow-md);
+            height: 75px;
+            display: flex;
+            align-items: center;
+        }
+        .header.scrolled {
+            background: rgba(10, 22, 40, 0.97);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            box-shadow: var(--shadow-lg);
+            height: 65px;
+        }
+        .header-inner {
+            max-width: 1300px;
+            margin: 0 auto;
+            padding: 0 24px;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .logo-area {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            text-decoration: none;
+            flex-shrink: 0;
+        }
+        .logo-icon {
+            width: 44px;
+            height: 44px;
+            background: var(--orange-500);
+            border-radius: var(--radius-sm);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            font-weight: 800;
+            color: var(--white);
+            letter-spacing: -1px;
+            flex-shrink: 0;
+            transition: var(--transition);
+        }
+        .header.scrolled .logo-icon {
+            width: 38px;
+            height: 38px;
+            font-size: 1.3rem;
+        }
+        .logo-text {
+            color: var(--white);
+            font-weight: 700;
+            font-size: 1.25rem;
+            line-height: 1.2;
+            letter-spacing: -0.3px;
+        }
+        .logo-text small {
+            display: block;
+            font-size: 0.65rem;
+            font-weight: 400;
+            color: var(--orange-300);
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+        .header.scrolled .logo-text {
+            font-size: 1.1rem;
+        }
+        .header.scrolled .logo-text small {
+            font-size: 0.6rem;
+        }
+
+        .nav-links {
+            display: flex;
+            list-style: none;
+            gap: 6px;
+            align-items: center;
+        }
+        .nav-links a {
+            color: var(--gray-300);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.9rem;
+            padding: 8px 14px;
+            border-radius: 6px;
+            transition: var(--transition);
+            white-space: nowrap;
+            letter-spacing: 0.2px;
+        }
+        .nav-links a:hover,
+        .nav-links a.active {
+            color: var(--white);
+            background: rgba(255, 107, 43, 0.15);
+        }
+        .nav-cta {
+            background: var(--orange-500) !important;
+            color: var(--white) !important;
+            font-weight: 600 !important;
+            padding: 10px 20px !important;
+            border-radius: 25px !important;
+            transition: var(--transition);
+            margin-left: 8px;
+        }
+        .nav-cta:hover {
+            background: var(--orange-600) !important;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 15px rgba(255, 107, 43, 0.4);
+        }
+
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            cursor: pointer;
+            gap: 5px;
+            padding: 8px;
+            z-index: 1001;
+            background: transparent;
+            border: none;
+        }
+        .hamburger span {
+            display: block;
+            width: 28px;
+            height: 3px;
+            background: var(--white);
+            border-radius: 3px;
+            transition: var(--transition);
+        }
+        .hamburger.active span:nth-child(1) {
+            transform: rotate(45deg) translate(5px, 6px);
+        }
+        .hamburger.active span:nth-child(2) {
+            opacity: 0;
+            transform: scaleX(0);
+        }
+        .hamburger.active span:nth-child(3) {
+            transform: rotate(-45deg) translate(5px, -6px);
+        }
+
+        /* MOBILE NAV */
+        .mobile-nav {
+            display: none;
+            position: fixed;
+            top: 75px;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: var(--dark-blue-800);
+            z-index: 999;
+            padding: 20px;
+            overflow-y: auto;
+            flex-direction: column;
+            gap: 4px;
+        }
+        .mobile-nav.active {
+            display: flex;
+        }
+        .mobile-nav a {
+            color: var(--gray-300);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1rem;
+            padding: 14px 18px;
+            border-radius: 8px;
+            transition: var(--transition);
+            display: block;
+        }
+        .mobile-nav a:hover,
+        .mobile-nav a.active {
+            color: var(--white);
+            background: rgba(255, 107, 43, 0.12);
+        }
+        .mobile-nav .nav-cta {
+            text-align: center;
+            margin-top: 8px;
+            background: var(--orange-500) !important;
+            color: var(--white) !important;
+            font-weight: 600 !important;
+            border-radius: 25px !important;
+            padding: 14px 20px !important;
+        }
+
+        /* SECTION STYLES */
+        .section {
+            padding: 80px 24px;
+            position: relative;
+        }
+        .section-dark {
+            background: var(--dark-blue-800);
+            color: var(--white);
+        }
+        .section-light {
+            background: var(--gray-100);
+        }
+        .section-white {
+            background: var(--white);
+        }
+        .section-orange-glow {
+            background: var(--orange-500);
+            color: var(--white);
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            width: 100%;
+        }
+        .section-header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        .section-badge {
+            display: inline-block;
+            background: rgba(255, 107, 43, 0.15);
+            color: var(--orange-400);
+            font-weight: 600;
+            font-size: 0.85rem;
+            padding: 6px 18px;
+            border-radius: 25px;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            margin-bottom: 12px;
+        }
+        .section-dark .section-badge {
+            background: rgba(255, 255, 255, 0.1);
+            color: var(--orange-300);
+        }
+        .section-title {
+            font-size: 2.5rem;
+            font-weight: 800;
+            letter-spacing: -1px;
+            margin-bottom: 10px;
+            line-height: 1.25;
+        }
+        .section-dark .section-title {
+            color: var(--white);
+        }
+        .section-subtitle {
+            font-size: 1.1rem;
+            color: var(--gray-600);
+            max-width: 650px;
+            margin: 0 auto;
+        }
+        .section-dark .section-subtitle {
+            color: var(--gray-400);
+        }
+        .section-orange-glow .section-title {
+            color: var(--white);
+        }
+        .section-orange-glow .section-subtitle {
+            color: rgba(255, 255, 255, 0.85);
+        }
+
+        /* HERO */
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            background: linear-gradient(135deg, var(--dark-blue-900) 0%, var(--dark-blue-700) 40%, var(--dark-blue-600) 70%, #0f2640 100%);
+            position: relative;
+            overflow: hidden;
+            padding-top: 75px;
+        }
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: -200px;
+            right: -200px;
+            width: 700px;
+            height: 700px;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(255, 107, 43, 0.18) 0%, transparent 70%);
+            animation: heroGlow 8s ease-in-out infinite;
+        }
+        .hero::after {
+            content: '';
+            position: absolute;
+            bottom: -150px;
+            left: -150px;
+            width: 500px;
+            height: 500px;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(255, 107, 43, 0.1) 0%, transparent 65%);
+            animation: heroGlow 10s ease-in-out infinite 3s;
+        }
+        @keyframes heroGlow {
+            0%,
+            100% {
+                transform: scale(1);
+                opacity: 0.7;
+            }
+            50% {
+                transform: scale(1.2);
+                opacity: 1;
+            }
+        }
+        .hero .container {
+            position: relative;
+            z-index: 2;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            align-items: center;
+        }
+        .hero-content h1 {
+            font-size: 3.2rem;
+            font-weight: 900;
+            letter-spacing: -1.5px;
+            line-height: 1.2;
+            color: var(--white);
+            margin-bottom: 8px;
+        }
+        .hero-content h1 .devnagari {
+            display: block;
+            font-size: 2rem;
+            color: var(--orange-400);
+            font-weight: 700;
+            margin-bottom: 4px;
+        }
+        .hero-content .hero-tagline-en {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: var(--orange-300);
+            letter-spacing: 1px;
+            margin-bottom: 16px;
+        }
+        .hero-content p {
+            font-size: 1.1rem;
+            color: var(--gray-400);
+            margin-bottom: 24px;
+            max-width: 500px;
+        }
+        .hero-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 14px;
+        }
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 14px 28px;
+            border-radius: 30px;
+            font-weight: 600;
+            font-size: 1rem;
+            text-decoration: none;
+            cursor: pointer;
+            border: none;
+            transition: var(--transition);
+            letter-spacing: 0.3px;
+            font-family: var(--font-en);
+        }
+        .btn-primary {
+            background: var(--orange-500);
+            color: var(--white);
+            box-shadow: 0 6px 20px rgba(255, 107, 43, 0.4);
+        }
+        .btn-primary:hover {
+            background: var(--orange-600);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 28px rgba(255, 107, 43, 0.5);
+        }
+        .btn-outline {
+            background: transparent;
+            color: var(--white);
+            border: 2px solid rgba(255, 255, 255, 0.4);
+        }
+        .btn-outline:hover {
+            border-color: var(--white);
+            background: rgba(255, 255, 255, 0.08);
+            transform: translateY(-2px);
+        }
+        .btn-white {
+            background: var(--white);
+            color: var(--dark-blue-800);
+            font-weight: 700;
+        }
+        .btn-white:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
+        }
+        .hero-visual {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+        .hero-card {
+            background: rgba(255, 255, 255, 0.06);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.12);
+            border-radius: var(--radius-lg);
+            padding: 30px 28px;
+            text-align: center;
+            max-width: 380px;
+            width: 100%;
+        }
+        .hero-card .stars {
+            color: var(--gold);
+            font-size: 1.3rem;
+            margin-bottom: 6px;
+            letter-spacing: 2px;
+        }
+        .hero-card .rating-text {
+            color: var(--white);
+            font-weight: 700;
+            font-size: 1.6rem;
+        }
+        .hero-card .rating-reviews {
+            color: var(--gray-400);
+            font-size: 0.85rem;
+            margin-bottom: 10px;
+        }
+        .hero-card .selections-badge {
+            display: inline-block;
+            background: var(--orange-500);
+            color: var(--white);
+            font-weight: 700;
+            font-size: 1.1rem;
+            padding: 10px 22px;
+            border-radius: 25px;
+            margin-top: 8px;
+            animation: pulse 2s ease-in-out infinite;
+        }
+        @keyframes pulse {
+            0%,
+            100% {
+                box-shadow: 0 0 0 0 rgba(255, 107, 43, 0.6);
+            }
+            50% {
+                box-shadow: 0 0 0 18px rgba(255, 107, 43, 0);
+            }
+        }
+        .hero-card .address-line {
+            color: var(--gray-400);
+            font-size: 0.85rem;
+            margin-top: 12px;
+            line-height: 1.5;
+        }
+
+        /* STATS */
+        .stats-row {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            text-align: center;
+        }
+        .stat-card {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: var(--radius-md);
+            padding: 28px 20px;
+            transition: var(--transition);
+        }
+        .stat-card:hover {
+            background: rgba(255, 255, 255, 0.1);
+            transform: translateY(-4px);
+            border-color: var(--orange-500);
+        }
+        .stat-number {
+            font-size: 3rem;
+            font-weight: 900;
+            color: var(--orange-400);
+            letter-spacing: -1px;
+        }
+        .stat-label {
+            color: var(--gray-400);
+            font-weight: 500;
+            margin-top: 4px;
+            font-size: 0.95rem;
+        }
+
+        /* COURSES */
+        .courses-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 18px;
+        }
+        .course-card {
+            background: var(--white);
+            border-radius: var(--radius-md);
+            padding: 24px 20px;
+            text-align: center;
+            border: 1px solid var(--gray-300);
+            transition: var(--transition);
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+        .course-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: var(--orange-500);
+            transform: scaleX(0);
+            transition: transform 0.4s ease;
+        }
+        .course-card:hover::before {
+            transform: scaleX(1);
+        }
+        .course-card:hover {
+            transform: translateY(-6px);
+            box-shadow: var(--shadow-lg);
+            border-color: var(--orange-300);
+        }
+        .course-icon {
+            width: 56px;
+            height: 56px;
+            background: rgba(255, 107, 43, 0.1);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 14px;
+            font-size: 1.5rem;
+            color: var(--orange-500);
+            transition: var(--transition);
+        }
+        .course-card:hover .course-icon {
+            background: var(--orange-500);
+            color: var(--white);
+        }
+        .course-card h3 {
+            font-weight: 700;
+            font-size: 1.05rem;
+            color: var(--dark-blue-800);
+        }
+        .course-card .course-badge {
+            display: inline-block;
+            font-size: 0.7rem;
+            background: var(--green-500);
+            color: #fff;
+            padding: 3px 10px;
+            border-radius: 12px;
+            margin-top: 6px;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
+
+        /* RESULTS */
+        .results-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+        }
+        .result-card {
+            background: var(--white);
+            border-radius: var(--radius-md);
+            padding: 24px;
+            text-align: center;
+            border: 1px solid var(--gray-300);
+            transition: var(--transition);
+            position: relative;
+        }
+        .result-card:hover {
+            transform: translateY(-5px);
+            box-shadow: var(--shadow-lg);
+        }
+        .result-card .result-rank {
+            font-size: 2.8rem;
+            font-weight: 900;
+            color: var(--orange-500);
+            letter-spacing: -2px;
+        }
+        .result-card .result-name {
+            font-weight: 700;
+            font-size: 1.1rem;
+            color: var(--dark-blue-800);
+        }
+        .result-card .result-exam {
+            font-size: 0.85rem;
+            color: var(--gray-600);
+            margin: 4px 0;
+        }
+        .result-card .result-score {
+            display: inline-block;
+            background: var(--dark-blue-700);
+            color: #fff;
+            padding: 5px 14px;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-top: 6px;
+        }
+        .result-card .ribbon {
+            position: absolute;
+            top: 14px;
+            right: -8px;
+            background: var(--gold);
+            color: #000;
+            font-size: 0.7rem;
+            font-weight: 700;
+            padding: 4px 14px;
+            border-radius: 3px;
+            transform: rotate(2deg);
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+        }
+
+        /* BOOKS */
+        .books-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            gap: 18px;
+        }
+        .book-card {
+            background: var(--white);
+            border-radius: var(--radius-md);
+            padding: 20px;
+            text-align: center;
+            border: 1px solid var(--gray-300);
+            transition: var(--transition);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        .book-card:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-lg);
+            border-color: var(--orange-300);
+        }
+        .book-cover {
+            width: 100px;
+            height: 140px;
+            background: linear-gradient(180deg, var(--dark-blue-600), var(--dark-blue-900));
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            font-weight: 700;
+            font-size: 0.75rem;
+            text-align: center;
+            padding: 8px;
+            box-shadow: var(--shadow-md);
+            border: 2px solid rgba(255, 255, 255, 0.1);
+            line-height: 1.3;
+        }
+        .book-card h4 {
+            font-weight: 600;
+            font-size: 0.9rem;
+            color: var(--dark-blue-800);
+        }
+        .book-card .book-tag {
+            font-size: 0.7rem;
+            background: rgba(255, 107, 43, 0.1);
+            color: var(--orange-500);
+            padding: 3px 12px;
+            border-radius: 12px;
+            font-weight: 600;
+        }
+
+        /* FACILITIES */
+        .facilities-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 18px;
+        }
+        .facility-card {
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: var(--radius-md);
+            padding: 24px 18px;
+            text-align: center;
+            transition: var(--transition);
+        }
+        .facility-card:hover {
+            background: rgba(255, 255, 255, 0.1);
+            transform: translateY(-4px);
+            border-color: var(--orange-400);
+        }
+        .facility-icon {
+            font-size: 2.2rem;
+            color: var(--orange-400);
+            margin-bottom: 10px;
+        }
+        .facility-card h4 {
+            color: var(--white);
+            font-weight: 600;
+            font-size: 0.95rem;
+        }
+        .facility-card p {
+            color: var(--gray-400);
+            font-size: 0.8rem;
+            margin-top: 4px;
+        }
+
+        /* TESTIMONIALS */
+        .testimonials-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 20px;
+        }
+        .testimonial-card {
+            background: var(--white);
+            border-radius: var(--radius-md);
+            padding: 24px;
+            border: 1px solid var(--gray-300);
+            transition: var(--transition);
+            position: relative;
+        }
+        .testimonial-card:hover {
+            box-shadow: var(--shadow-lg);
+            transform: translateY(-3px);
+        }
+        .testimonial-card .quote-icon {
+            font-size: 2rem;
+            color: var(--orange-300);
+            opacity: 0.6;
+            position: absolute;
+            top: 16px;
+            right: 20px;
+        }
+        .testimonial-card .t-stars {
+            color: var(--gold);
+            margin-bottom: 8px;
+            letter-spacing: 1px;
+        }
+        .testimonial-card p {
+            color: var(--gray-700);
+            font-size: 0.9rem;
+            line-height: 1.6;
+            font-style: italic;
+        }
+        .testimonial-card .t-author {
+            font-weight: 700;
+            color: var(--dark-blue-800);
+            margin-top: 12px;
+        }
+        .testimonial-card .t-exam {
+            font-size: 0.75rem;
+            color: var(--gray-500);
+        }
+
+        /* FAQ */
+        .faq-list {
+            max-width: 800px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .faq-item {
+            background: var(--white);
+            border: 1px solid var(--gray-300);
+            border-radius: var(--radius-sm);
+            overflow: hidden;
+            transition: var(--transition);
+        }
+        .faq-item.active {
+            border-color: var(--orange-400);
+            box-shadow: var(--shadow-md);
+        }
+        .faq-question {
+            padding: 18px 22px;
+            cursor: pointer;
+            font-weight: 600;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: var(--dark-blue-800);
+            user-select: none;
+            transition: var(--transition);
+            font-size: 0.95rem;
+        }
+        .faq-item.active .faq-question {
+            color: var(--orange-600);
+            background: rgba(255, 107, 43, 0.03);
+        }
+        .faq-icon {
+            transition: transform 0.35s ease;
+            font-size: 0.8rem;
+            color: var(--orange-500);
+            flex-shrink: 0;
+        }
+        .faq-item.active .faq-icon {
+            transform: rotate(180deg);
+        }
+        .faq-answer {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.4s ease, padding 0.4s ease;
+        }
+        .faq-item.active .faq-answer {
+            max-height: 300px;
+            padding: 0 22px 18px;
+        }
+        .faq-answer p {
+            color: var(--gray-700);
+            font-size: 0.9rem;
+            line-height: 1.7;
+        }
+
+        /* CONTACT FORM */
+        .contact-wrapper {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            align-items: start;
+        }
+        .contact-form {
+            background: var(--white);
+            border-radius: var(--radius-lg);
+            padding: 32px;
+            box-shadow: var(--shadow-lg);
+            border: 1px solid var(--gray-300);
+        }
+        .contact-form h3 {
+            font-weight: 700;
+            margin-bottom: 20px;
+            color: var(--dark-blue-800);
+            font-size: 1.3rem;
+        }
+        .form-group {
+            margin-bottom: 16px;
+        }
+        .form-group label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 5px;
+            font-size: 0.85rem;
+            color: var(--gray-700);
+        }
+        .form-group input,
+        .form-group textarea,
+        .form-group select {
+            width: 100%;
+            padding: 12px 16px;
+            border: 2px solid var(--gray-300);
+            border-radius: var(--radius-sm);
+            font-size: 0.95rem;
+            font-family: var(--font-en);
+            transition: var(--transition);
+            background: var(--gray-100);
+            color: var(--gray-800);
+        }
+        .form-group input:focus,
+        .form-group textarea:focus,
+        .form-group select:focus {
+            outline: none;
+            border-color: var(--orange-500);
+            box-shadow: 0 0 0 4px rgba(255, 107, 43, 0.1);
+            background: var(--white);
+        }
+        .form-group textarea {
+            resize: vertical;
+            min-height: 110px;
+        }
+        .contact-details-card {
+            background: var(--dark-blue-800);
+            border-radius: var(--radius-lg);
+            padding: 32px;
+            color: var(--white);
+        }
+        .contact-details-card h3 {
+            font-weight: 700;
+            margin-bottom: 20px;
+            font-size: 1.3rem;
+            color: var(--orange-300);
+        }
+        .contact-info-item {
+            display: flex;
+            gap: 14px;
+            margin-bottom: 18px;
+            align-items: flex-start;
+        }
+        .contact-info-item .ci-icon {
+            width: 42px;
+            height: 42px;
+            background: rgba(255, 107, 43, 0.2);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            color: var(--orange-400);
+            font-size: 1rem;
+        }
+        .contact-info-item .ci-text strong {
+            display: block;
+            font-size: 0.85rem;
+            color: var(--gray-400);
+            font-weight: 500;
+        }
+        .contact-info-item .ci-text span,
+        .contact-info-item .ci-text a {
+            color: var(--white);
+            font-weight: 600;
+            text-decoration: none;
+            font-size: 0.95rem;
+            transition: var(--transition);
+        }
+        .contact-info-item .ci-text a:hover {
+            color: var(--orange-400);
+        }
+
+        /* MAP */
+        .map-container {
+            border-radius: var(--radius-lg);
+            overflow: hidden;
+            box-shadow: var(--shadow-lg);
+            border: 4px solid var(--white);
+            height: 400px;
+        }
+        .map-container iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        /* FOOTER */
+        .footer {
+            background: var(--dark-blue-900);
+            color: var(--gray-400);
+            padding: 60px 24px 20px;
+        }
+        .footer-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            gap: 30px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .footer-col h4 {
+            color: var(--white);
+            font-weight: 700;
+            margin-bottom: 16px;
+            font-size: 1rem;
+        }
+        .footer-col ul {
+            list-style: none;
+        }
+        .footer-col ul li {
+            margin-bottom: 8px;
+        }
+        .footer-col ul li a {
+            color: var(--gray-500);
+            text-decoration: none;
+            font-size: 0.85rem;
+            transition: var(--transition);
+        }
+        .footer-col ul li a:hover {
+            color: var(--orange-400);
+        }
+        .footer-bottom {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255, 255, 255, 0.08);
+            font-size: 0.8rem;
+            color: var(--gray-500);
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        /* FLOATING BUTTONS */
+        .floating-btn {
+            position: fixed;
+            z-index: 998;
+            width: 56px;
+            height: 56px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.4rem;
+            color: #fff;
+            cursor: pointer;
+            box-shadow: var(--shadow-lg);
+            border: none;
+            transition: var(--transition);
+            text-decoration: none;
+        }
+        .whatsapp-btn {
+            bottom: 28px;
+            left: 28px;
+            background: #25D366;
+        }
+        .whatsapp-btn:hover {
+            background: #1ebc58;
+            transform: scale(1.1);
+            box-shadow: 0 8px 25px rgba(37, 211, 102, 0.5);
+        }
+        .call-btn {
+            bottom: 28px;
+            left: 96px;
+            background: var(--orange-500);
+        }
+        .call-btn:hover {
+            background: var(--orange-600);
+            transform: scale(1.1);
+            box-shadow: 0 8px 25px rgba(255, 107, 43, 0.5);
+        }
+        .back-to-top {
+            bottom: 28px;
+            right: 28px;
+            background: var(--dark-blue-700);
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease, transform 0.3s ease, background 0.3s ease;
+        }
+        .back-to-top.visible {
+            opacity: 1;
+            pointer-events: auto;
+        }
+        .back-to-top:hover {
+            background: var(--dark-blue-500);
+            transform: scale(1.1);
+        }
+
+        /* ANIMATIONS */
+        .fade-up {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: opacity 0.7s ease, transform 0.7s ease;
+        }
+        .fade-up.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        @media (max-width: 1024px) {
+            .hero .container {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+            .hero-content p {
+                max-width: 100%;
+            }
+            .hero-buttons {
+                justify-content: center;
+            }
+            .hero-visual {
+                order: -1;
+            }
+            .hero-card {
+                max-width: 300px;
+            }
+            .hero-content h1 {
+                font-size: 2.5rem;
+            }
+            .hero-content h1 .devnagari {
+                font-size: 1.5rem;
+            }
+            .stats-row {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .section-title {
+                font-size: 2rem;
+            }
+            .contact-wrapper {
+                grid-template-columns: 1fr;
+            }
+        }
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+            .hamburger {
+                display: flex;
+            }
+            .header {
+                height: 65px;
+            }
+            .header.scrolled {
+                height: 58px;
+            }
+            .mobile-nav {
+                top: 65px;
+            }
+            .header.scrolled~.mobile-nav {
+                top: 58px;
+            }
+            .hero {
+                min-height: auto;
+                padding: 100px 16px 40px;
+            }
+            .hero-content h1 {
+                font-size: 2rem;
+            }
+            .hero-content h1 .devnagari {
+                font-size: 1.3rem;
+            }
+            .hero-tagline-en {
+                font-size: 1rem;
+            }
+            .section {
+                padding: 50px 16px;
+            }
+            .section-title {
+                font-size: 1.7rem;
+            }
+            .stats-row {
+                grid-template-columns: 1fr 1fr;
+                gap: 12px;
+            }
+            .stat-number {
+                font-size: 2.2rem;
+            }
+            .courses-grid {
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+                gap: 10px;
+            }
+            .course-card {
+                padding: 16px 12px;
+            }
+            .course-card h3 {
+                font-size: 0.85rem;
+            }
+            .results-grid {
+                grid-template-columns: 1fr;
+            }
+            .books-grid {
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            }
+            .testimonials-grid {
+                grid-template-columns: 1fr;
+            }
+            .facilities-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 10px;
+            }
+            .footer-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+            .floating-btn {
+                width: 46px;
+                height: 46px;
+                font-size: 1.1rem;
+            }
+            .whatsapp-btn {
+                bottom: 16px;
+                left: 16px;
+            }
+            .call-btn {
+                bottom: 16px;
+                left: 72px;
+            }
+            .back-to-top {
+                bottom: 16px;
+                right: 16px;
+            }
+            .map-container {
+                height: 280px;
+            }
+        }
+        @media (max-width: 480px) {
+            .hero-content h1 {
+                font-size: 1.6rem;
+            }
+            .hero-content h1 .devnagari {
+                font-size: 1.1rem;
+            }
+            .btn {
+                padding: 12px 20px;
+                font-size: 0.85rem;
+            }
+            .stats-row {
+                grid-template-columns: 1fr 1fr;
+                gap: 8px;
+            }
+            .stat-number {
+                font-size: 1.8rem;
+            }
+            .stat-card {
+                padding: 16px 10px;
+            }
+            .section-title {
+                font-size: 1.4rem;
+            }
+            .courses-grid {
+                grid-template-columns: 1fr 1fr;
+                gap: 8px;
+            }
+            .books-grid {
+                grid-template-columns: 1fr 1fr;
+                gap: 8px;
+            }
+            .facilities-grid {
+                grid-template-columns: 1fr 1fr;
+                gap: 8px;
+            }
+            .footer-grid {
+                grid-template-columns: 1fr;
+            }
+            .contact-form {
+                padding: 20px;
+            }
+            .contact-details-card {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header class="header" id="header">
+        <div class="header-inner">
+            <a href="#" class="logo-area" aria-label="Achievers Academy Home">
+                <div class="logo-icon">AA</div>
+                <span class="logo-text">Achievers<small>Academy Bikaner</small></span>
+            </a>
+            <nav>
+                <ul class="nav-links" id="navLinks">
+                    <li><a href="#home" class="active">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#courses">Courses</a></li>
+                    <li><a href="#results">Results</a></li>
+                            <li><a href="#books">Books</a></li>
+                    <li><a href="#facilities">Facilities</a></li>
+                    <li><a href="#testimonials">Reviews</a></li>
+                    <li><a href="#faq">FAQ</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#contact" class="nav-cta">Enroll Now</a></li>
+                </ul>
+            </nav>
+            <button class="hamburger" id="hamburger" aria-label="Menu" aria-expanded="false">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- MOBILE NAV -->
+    <div class="mobile-nav" id="mobileNav">
+        <a href="#home" class="active">Home</a>
+        <a href="#about">About</a>
+        <a href="#courses">Courses</a>
+        <a href="#results">Results</a>
+        <a href="#books">Books</a>
+        <a href="#facilities">Facilities</a>
+        <a href="#testimonials">Reviews</a>
+        <a href="#faq">FAQ</a>
+        <a href="#contact">Contact</a>
+        <a href="#contact" class="nav-cta">Enroll Now</a>
+    </div>
+
+    <!-- HERO -->
+    <section class="hero" id="home">
+        <div class="container">
+            <div class="hero-content fade-up">
+                <h1>
+                    <span class="devnagari">बढ़ रहा है विश्वास, बढ़ रहे हैं ACHIEVERS</span>
+                    Achievers Academy
+                </h1>
+                <p class="hero-tagline-en">FUEL YOUR PASSION – SHAPE YOUR SUCCESS</p>
+                <p>Leading coaching institute in Bikaner for SSC, RPSC, Banking, CET, Defence, GATE, UGC NET, Civil Services and all major competitive examinations. Join the legacy of 200+ SSC selections.</p>
+                <div class="hero-buttons">
+                    <a href="#contact" class="btn btn-primary"><i class="fas fa-paper-plane"></i> Get Free Counseling</a>
+                    <a href="#courses" class="btn btn-outline"><i class="fas fa-book-open"></i> Explore Courses</a>
+                </div>
+            </div>
+            <div class="hero-visual fade-up">
+                <div class="hero-card">
+                    <div class="stars">★★★★★</div>
+                    <div class="rating-text">4.5 / 5</div>
+                    <div class="rating-reviews">238+ Google Reviews</div>
+                    <div class="selections-badge">🏆 200+ SSC Selections</div>
+                    <div class="address-line">
+                        <i class="fas fa-map-marker-alt"></i> 4-D-35, JNV Murti Circle,<br>Sector 2, Jay Narayan Vyas Colony,<br>Bikaner, Rajasthan 334003
+                    </div>
+                    <div style="margin-top:8px;color:#22c55e;font-weight:600;font-size:0.85rem;">
+                        <i class="fas fa-clock"></i> Open 24 Hours
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section class="section section-white" id="about">
+        <div class="container">
+            <div class="section-header fade-up">
+                <span class="section-badge">About Us</span>
+                <h2 class="section-title">Why Achievers Academy?</h2>
+                <p class="section-subtitle">Bikaner's most trusted coaching institute with a proven track record of 200+ SSC selections and 4.5★ rating from 238+ reviews. We are committed to shaping your success.</p>
+            </div>
+            <div class="stats-row fade-up">
+                <div class="stat-card">
+                    <div class="stat-number" data-count="200">0</div>
+                    <div class="stat-label">+ SSC Selections</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" data-count="238">0</div>
+                    <div class="stat-label">+ Google Reviews</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" data-count="14">0</div>
+                    <div class="stat-label">+ Courses Offered</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" data-count="9">0</div>
+                    <div class="stat-label">+ Expert Books</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- COURSES -->
+    <section class="section section-light" id="courses">
+        <div class="container">
+            <div class="section-header fade-up">
+                <span class="section-badge">Our Courses</span>
+                <h2 class="section-title">Comprehensive Exam Preparation</h2>
+                <p class="section-subtitle">We offer expert coaching for all major competitive examinations with online & offline classes, test series, and study material.</p>
+            </div>
+            <div class="courses-grid fade-up">
+                <div class="course-card"><div class="course-icon"><i class="fas fa-briefcase"></i></div><h3>SSC CGL</h3><span class="course-badge">Popular</span></div>
+                <div class="course-card"><div class="course-icon"><i class="fas fa-file-alt"></i></div><h3>SSC CHSL</h3></div>
+                <div class="course-card"><div class="course-icon"><i class="fas fa-shield-alt"></i></div><h3>SSC CPO</h3></div>
+                <div class="course-card"><div class="course-icon"><i class="fas fa-keyboard"></i></div><h3>SSC Stenographer</h3></div>
+                <div class="course-card"><div class="course-icon"><i class="fas fa-university"></i></div><h3>Banking</h3><span class="course-badge">High Demand</span></div>
+                <div class="course-card"><div class="course-icon"><i class="fas fa-landmark"></i></div><h3>RPSC</h3></div>
+                <div class="course-card"><div class="course-icon"><i class="fas fa-building"></i></div><h3>RSMSSB</h3></div>
+                <div class="course-card"><div class="course-icon"><i class="fas fa-graduation-cap"></i></div><h3>CET</h3></div>
+                <div class="course-card"><div class="course-icon"><i class="fas fa-chalkboard-teacher"></i></div><h3>CTET</h3></div>
+                <div class="course-card"><div class="course-icon"><i class="fas fa-child"></i></div><h3>REET</h3></div>
+                <div class="course-card"><div class="course-icon"><i class="fas fa-fighter-jet"></i></div><h3>Defence</h3></div>
+                <div class="course-card"><div class="course-icon"><i class="fas fa-cogs"></i></div><h3>GATE</h3></div>
+                <div class="course-card"><div class="course-icon"><i class="fas fa-microscope"></i></div><h3>UGC NET</h3></div>
+                <div class="course-card"><div class="course-icon"><i class="fas fa-flag"></i></div><h3>Civil Services</h3></div>
+            </div>
+        </div>
+    </section>
+    
+     <!-- RESULTS -->
+    <section class="section section-white" id="results">
+        <div class="container">
+            <div class="section-header fade-up">
+                <span class="section-badge">Our Results</span>
+                <h2 class="section-title">Selection Highlights</h2>
+                <p class="section-subtitle">Celebrating the success of our students who cleared competitive exams with flying colors.</p>
+            </div>
+            <div class="results-grid fade-up">
+                <div class="result-card">
+                    <div class="ribbon">Selected</div>
+                    <div class="result-rank">AIR 12</div>
+                    <div class="result-name">Rahul Sharma</div>
+                    <div class="result-exam">SSC CGL 2024</div>
+                    <div class="result-score">Score: 342/390</div>
+                </div>
+                <div class="result-card">
+                    <div class="result-rank">AIR 28</div>
+                    <div class="result-name">Priya Soni</div>
+                    <div class="result-exam">SSC CHSL 2024</div>
+                    <div class="result-score">Score: 178/200</div>
+                </div>
+                <div class="result-card">
+                    <div class="ribbon">Selected</div>
+                    <div class="result-rank">AIR 45</div>
+                    <div class="result-name">Vikram Singh</div>
+                    <div class="result-exam">SSC CPO 2024</div>
+                    <div class="result-score">Score: 295/350</div>
+                </div>
+                <div class="result-card">
+                    <div class="result-rank">Rank 3</div>
+                    <div class="result-name">Anjali Rathore</div>
+                    <div class="result-exam">RPSC RAS 2024</div>
+                    <div class="result-score">Score: 412/500</div>
+                </div>
+                <div class="result-card">
+                    <div class="result-rank">AIR 67</div>
+                    <div class="result-name">Deepak Joshi</div>
+                    <div class="result-exam">Banking IBPS PO</div>
+                    <div class="result-score">Score: 148/200</div>
+                </div>
+                <div class="result-card">
+                    <div class="ribbon">Selected</div>
+                    <div class="result-rank">AIR 19</div>
+                    <div class="result-name">Sunita Bishnoi</div>
+                    <div class="result-exam">SSC Stenographer</div>
+                    <div class="result-score">Score: 156/200</div>
+                </div>
+                <div class="result-card">
+                    <div class="result-rank">Rank 8</div>
+                    <div class="result-name">Mohit Prajapat</div>
+                    <div class="result-exam">RSMSSB LDC</div>
+                    <div class="result-score">Score: 188/250</div>
+                </div>
+                <div class="result-card">
+                    <div class="result-rank">AIR 52</div>
+                    <div class="result-name">Kavita Meena</div>
+                    <div class="result-exam">CTET Paper II</div>
+                    <div class="result-score">Score: 134/150</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- BOOKS -->
+    <section class="section section-light" id="books">
+        <div class="container">
+            <div class="section-header fade-up">
+                <span class="section-badge">Study Material</span>
+                <h2 class="section-title">Books & Publications</h2>
+                <p class="section-subtitle">Expertly curated books and study material designed by our faculty to help you ace every exam.</p>
+            </div>
+            <div class="books-grid fade-up">
+                <div class="book-card">
+                    <div class="book-cover">Reasoning<br>Volume 01</div>
+                    <h4>Reasoning Volume 01</h4>
+                    <span class="book-tag">Bestseller</span>
+                </div>
+                <div class="book-card">
+                    <div class="book-cover">Maths<br>Arithmetic<br>Volume 01</div>
+                    <h4>Maths Arithmetic Vol. 01</h4>
+                </div>
+                <div class="book-card">
+                    <div class="book-cover">Advance<br>Maths<br>Volume 01</div>
+                    <h4>Advance Maths Vol. 01</h4>
+                    <span class="book-tag">New Edition</span>
+                </div>
+                <div class="book-card">
+                    <div class="book-cover">General<br>Science</div>
+                    <h4>General Science</h4>
+                </div>
+                <div class="book-card">
+                    <div class="book-cover">Static<br>GK</div>
+                    <h4>Static GK</h4>
+                </div>
+                <div class="book-card">
+                    <div class="book-cover">English<br>Grammar</div>
+                    <h4>English Grammar</h4>
+                </div>
+                <div class="book-card">
+                    <div class="book-cover">Computer<br>Awareness</div>
+                    <h4>Computer Awareness</h4>
+                </div>
+                <div class="book-card">
+                    <div class="book-cover">Quantitative<br>Aptitude</div>
+                    <h4>Quantitative Aptitude</h4>
+                    <span class="book-tag">Popular</span>
+                </div>
+                <div class="book-card">
+                    <div class="book-cover">Delhi Police<br>Complete<br>Booklet</div>
+                    <h4>Delhi Police Booklet</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FACILITIES -->
+       <section class="section section-dark" id="facilities">
+        <div class="container">
+            <div class="section-header fade-up">
+                <span class="section-badge">Our Services</span>
+                <h2 class="section-title">World-Class Facilities</h2>
+                <p class="section-subtitle">Everything you need for complete exam preparation under one roof.</p>
+            </div>
+            <div class="facilities-grid fade-up">
+                <div class="facility-card">
+                    <div class="facility-icon"><i class="fas fa-laptop-house"></i></div>
+                    <h4>Online Classes</h4>
+                    <p>Live interactive sessions</p>
+                </div>
+                <div class="facility-card">
+                    <div class="facility-icon"><i class="fas fa-users"></i></div>
+                    <h4>Offline Classes</h4>
+                    <p>In-person classroom learning</p>
+                </div>
+                <div class="facility-card">
+                    <div class="facility-icon"><i class="fas fa-clipboard-check"></i></div>
+                    <h4>Test Series</h4>
+                    <p>Regular mock tests</p>
+                </div>
+                <div class="facility-card">
+                    <div class="facility-icon"><i class="fas fa-book"></i></div>
+                    <h4>Study Material</h4>
+                    <p>Comprehensive books & notes</p>
+                </div>
+                <div class="facility-card">
+                    <div class="facility-icon"><i class="fas fa-question-circle"></i></div>
+                    <h4>Doubt Sessions</h4>
+                    <p>One-on-one doubt clearing</p>
+                </div>
+                <div class="facility-card">
+                    <div class="facility-icon"><i class="fas fa-compass"></i></div>
+                    <h4>Career Guidance</h4>
+                    <p>Expert career counseling</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- TESTIMONIALS -->
+    <section class="section section-white" id="testimonials">
+        <div class="container">
+            <div class="section-header fade-up">
+                <span class="section-badge">Testimonials</span>
+                <h2 class="section-title">What Our Students Say</h2>
+                <p class="section-subtitle">Real reviews from real achievers who trusted us with their dreams.</p>
+            </div>
+            <div class="testimonials-grid fade-up">
+                <div class="testimonial-card">
+                    <div class="quote-icon"><i class="fas fa-quote-right"></i></div>
+                    <div class="t-stars">★★★★★</div>
+                    <p>"Achievers Academy is the best coaching in Bikaner for SSC. The faculty is incredibly supportive and the study material is top-notch. Cleared SSC CGL in my first attempt!"</p>
+                    <div class="t-author">Rahul Sharma</div>
+                    <div class="t-exam">SSC CGL Selected – AIR 12</div>
+                </div>
+                <div class="testimonial-card">
+                    <div class="quote-icon"><i class="fas fa-quote-right"></i></div>
+                    <div class="t-stars">★★★★★</div>
+                    <p>"The test series and doubt sessions at Achievers Academy are game-changers. I improved my score by 40 marks in just 2 months. Highly recommended for banking exams."</p>
+                    <div class="t-author">Deepak Joshi</div>
+                    <div class="t-exam">IBPS PO Selected</div>
+                </div>
+                <div class="testimonial-card">
+                    <div class="quote-icon"><i class="fas fa-quote-right"></i></div>
+                    <div class="t-stars">★★★★★</div>
+                    <p>"I joined Achievers Academy for RPSC preparation and it was the best decision. The teachers are experienced and the environment is very motivating. Thank you Achievers!"</p>
+                    <div class="t-author">Anjali Rathore</div>
+                    <div class="t-exam">RPSC RAS – Rank 3</div>
+                </div>
+                <div class="testimonial-card">
+                    <div class="quote-icon"><i class="fas fa-quote-right"></i></div>
+                    <div class="t-stars">★★★★★</div>
+                    <p>"From study material to mock tests, everything is perfectly aligned with the exam pattern. The 24-hour open facility helped me study at my own pace. Best academy in Bikaner!"</p>
+                    <div class="t-author">Vikram Singh</div>
+                    <div class="t-exam">SSC CPO Selected</div>
+                </div>
+                <div class="testimonial-card">
+                    <div class="quote-icon"><i class="fas fa-quote-right"></i></div>
+                    <div class="t-stars">★★★★★</div>
+                    <p>"The career guidance sessions helped me choose the right path. The faculty genuinely cares about every student's success. Proud to be an Achiever!"</p>
+                    <div class="t-author">Sunita Bishnoi</div>
+                    <div class="t-exam">SSC Stenographer Selected</div>
+                </div>
+                <div class="testimonial-card">
+                    <div class="quote-icon"><i class="fas fa-quote-right"></i></div>
+                    <div class="t-stars">★★★★★</div>
+                    <p>"Outstanding coaching for Defence exams. The physical and written test preparation is comprehensive. Achievers Academy truly lives up to its name."</p>
+                    <div class="t-author">Arjun Choudhary</div>
+                    <div class="t-exam">NDA Selected</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="section section-light" id="faq">
+        <div class="container">
+            <div class="section-header fade-up">
+                <span class="section-badge">FAQ</span>
+                <h2 class="section-title">Frequently Asked Questions</h2>
+                <p class="section-subtitle">Got questions? We have answers. Here are some common queries from our students.</p>
+            </div>
+            <div class="faq-list fade-up">
+                <div class="faq-item">
+                    <div class="faq-question">
+                        What courses does Achievers Academy offer?
+                        <span class="faq-icon"><i class="fas fa-chevron-down"></i></span>
+                    </div>
+                    <div class="faq-answer"><p>We offer comprehensive coaching for SSC CGL, SSC CHSL, SSC CPO, SSC Stenographer, Banking, RPSC, RSMSSB, CET, CTET, REET, Defence, GATE, UGC NET, and Civil Services examinations.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">
+                        Do you provide both online and offline classes?
+                        <span class="faq-icon"><i class="fas fa-chevron-down"></i></span>
+                    </div>
+                    <div class="faq-answer"><p>Yes, we offer both online live interactive classes and offline classroom sessions at our Bikaner center. You can choose the mode that suits your schedule and learning preference.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">
+                        What are your working hours?
+                        <span class="faq-icon"><i class="fas fa-chevron-down"></i></span>
+                    </div>
+                    <div class="faq-answer"><p>Achievers Academy is open 24 hours, allowing students to study and access facilities at any time that fits their schedule. Our faculty is available during designated teaching hours.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">
+                        How can I enroll in a course?
+                        <span class="faq-icon"><i class="fas fa-chevron-down"></i></span>
+                    </div>
+                    <div class="faq-answer"><p>You can enroll by visiting our campus at 4-D-35, JNV Murti Circle, Sector 2, Jay Narayan Vyas Colony, Bikaner, or by calling/WhatsApp at 09521495454. You can also fill the contact form on our website and we'll get back to you.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">
+                        Do you provide study material and test series?
+                        <span class="faq-icon"><i class="fas fa-chevron-down"></i></span>
+                    </div>
+                    <div class="faq-answer"><p>Absolutely! We provide expertly curated books, study material, regular test series, and doubt-clearing sessions as part of our comprehensive coaching program. Our books are also available for individual purchase.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">
+                        What is the fee structure for courses?
+                        <span class="faq-icon"><i class="fas fa-chevron-down"></i></span>
+                    </div>
+                    <div class="faq-answer"><p>Fee structure varies depending on the course and duration. We offer competitive pricing with flexible payment options. Please contact us at 09521495454 or visit our center for detailed fee information and current discounts.</p></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CONTACT -->
+     <section class="section section-white" id="contact">
+        <div class="container">
+            <div class="section-header fade-up">
+                <span class="section-badge">Contact Us</span>
+                <h2 class="section-title">Get In Touch</h2>
+                <p class="section-subtitle">Ready to start your journey? Reach out to us today for free career counseling.</p>
+            </div>
+            <div class="contact-wrapper fade-up">
+                <form class="contact-form" id="contactForm" onsubmit="handleFormSubmit(event)">
+                    <h3><i class="fas fa-envelope"></i> Send Us a Message</h3>
+                    <div class="form-group">
+                        <label for="name">Full Name *</label>
+                        <input type="text" id="name" name="name" placeholder="Enter your full name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="phone">Phone Number *</label>
+                        <input type="tel" id="phone" name="phone" placeholder="Enter your phone number" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email Address</label>
+                        <input type="email" id="email" name="email" placeholder="Enter your email address">
+                    </div>
+                    <div class="form-group">
+                        <label for="course">Course Interested In *</label>
+                        <select id="course" name="course" required>
+                            <option value="">Select a course</option>
+                            <option value="SSC CGL">SSC CGL</option>
+                            <option value="SSC CHSL">SSC CHSL</option>
+                            <option value="SSC CPO">SSC CPO</option>
+                            <option value="SSC Stenographer">SSC Stenographer</option>
+                            <option value="Banking">Banking</option>
+                            <option value="RPSC">RPSC</option>
+                            <option value="RSMSSB">RSMSSB</option>
+                            <option value="CET">CET</option>
+                            <option value="CTET">CTET</option>
+                            <option value="REET">REET</option>
+                            <option value="Defence">Defence</option>
+                            <option value="GATE">GATE</option>
+                            <option value="UGC NET">UGC NET</option>
+                            <option value="Civil Services">Civil Services</option>
+                            <option value="Other">Other</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea id="message" name="message" placeholder="Tell us about your requirements..."></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary" style="width:100%;justify-content:center;">
+                        <i class="fas fa-paper-plane"></i> Submit Enquiry
+                    </button>
+                </form>
+                <div class="contact-details-card">
+                    <h3><i class="fas fa-address-card"></i> Contact Details</h3>
+                    <div class="contact-info-item">
+                        <div class="ci-icon"><i class="fas fa-map-marker-alt"></i></div>
+                        <div class="ci-text">
+                            <strong>Address</strong>
+                            <span>4-D-35, JNV Murti Circle, Sector 2, Jay Narayan Vyas Colony, Bikaner, Rajasthan 334003</span>
+                        </div>
+                    </div>
+                    <div class="contact-info-item">
+                        <div class="ci-icon"><i class="fas fa-phone-alt"></i></div>
+                        <div class="ci-text">
+                            <strong>Phone</strong>
+                            <a href="tel:09521495454">09521495454</a>
+                        </div>
+                    </div>
+                    <div class="contact-info-item">
+                        <div class="ci-icon"><i class="fab fa-whatsapp"></i></div>
+                        <div class="ci-text">
+                            <strong>WhatsApp</strong>
+                            <a href="https://wa.me/919521495454" target="_blank" rel="noopener">09521495454</a>
+                        </div>
+                    </div>
+                    <div class="contact-info-item">
+                        <div class="ci-icon"><i class="fas fa-star"></i></div>
+                        <div class="ci-text">
+                            <strong>Google Rating</strong>
+                            <span>★★★★★ 4.5 Stars (238 Reviews)</span>
+                        </div>
+                    </div>
+                    <div class="contact-info-item">
+                        <div class="ci-icon"><i class="fas fa-clock"></i></div>
+                        <div class="ci-text">
+                            <strong>Working Hours</strong>
+                            <span>24 Hours Open</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- MAP -->
+    <section class="section section-light" style="padding-top:0;">
+        <div class="container fade-up">
+            <div class="map-container">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3528.892349437378!2d73.3176!3d28.011!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDAwJzM5LjYiTiA3M8KwMTknMDMuNCJF!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+                title="Achievers Academy Bikaner Location" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <div class="footer-grid">
+            <div class="footer-col">
+                <h4>Achievers Academy</h4>
+                <p style="font-size:0.85rem;line-height:1.7;">Bikaner's leading coaching institute for SSC, RPSC, Banking, CET, Defence, and all competitive exams. 200+ selections with 4.5★ rating.</p>
+                <p style="margin-top:8px;font-size:0.8rem;color:var(--orange-300);" class="devnagari">बढ़ रहा है विश्वास, बढ़ रहे हैं ACHIEVERS</p>
+            </div>
+            <div class="footer-col">
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#courses">Courses</a></li>
+                    <li><a href="#results">Results</a></li>
+                    <li><a href="#books">Books</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Popular Courses</h4>
+                <ul>
+                    <li><a href="#courses">SSC CGL</a></li>
+                    <li><a href="#courses">Banking</a></li>
+                    <li><a href="#courses">RPSC</a></li>
+                    <li><a href="#courses">CET</a></li>
+                    <li><a href="#courses">Defence</a></li>
+                    <li><a href="#courses">GATE / UGC NET</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Contact Info</h4>
+                <ul>
+                    <li><i class="fas fa-map-marker-alt" style="color:var(--orange-400);margin-right:6px;"></i> 4-D-35, JNV Murti Circle, Bikaner</li>
+                    <li><i class="fas fa-phone-alt" style="color:var(--orange-400);margin-right:6px;"></i> 09521495454</li>
+                    <li><i class="fab fa-whatsapp" style="color:var(--orange-400);margin-right:6px;"></i> 09521495454</li>
+                    <li><i class="fas fa-star" style="color:var(--gold);margin-right:6px;"></i> 4.5★ (238 Reviews)</li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Achievers Academy, Bikaner. All rights reserved. | Designed with ❤️ for Achievers</p>
+        </div>
+    </footer>
+
+    <!-- FLOATING BUTTONS -->
+    <a href="https://wa.me/919521495454?text=Hello%20Achievers%20Academy!%20I%20want%20to%20know%20more%20about%20your%20courses."
+    class="floating-btn whatsapp-btn" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">
+    <i class="fab fa-whatsapp"></i>
+</a>
+<a href="tel:09521495454" class="floating-btn call-btn" aria-label="Call Now">
+    <i class="fas fa-phone-alt"></i>
+</a>
+<button class="floating-btn back-to-top" id="backToTop" aria-label="Back to Top">
+    <i class="fas fa-chevron-up"></i>
+</button>
+
+<script>
+    (function() {
+        // DOM elements
+        const header = document.getElementById('header');
+        const hamburger = document.getElementById('hamburger');
+        const mobileNav = document.getElementById('mobileNav');
+        const backToTop = document.getElementById('backToTop');
+        const navLinksAll = document.querySelectorAll('.nav-links a, .mobile-nav a');
+        const faqItems = document.querySelectorAll('.faq-item');
+        const fadeUpElements = document.querySelectorAll('.fade-up');
+        const statNumbers = document.querySelectorAll('.stat-number[data-count]');
+        const contactForm = document.getElementById('contactForm');
+
+        // Scroll handler
+        let lastScroll = 0;
+        let scrollTicking = false;
+
+        function updateScroll() {
+            const scrollY = window.scrollY;
+            if (scrollY > 50) {
+                header.classList.add('scrolled');
+            } else {
+                header.classList.remove('scrolled');
+            }
+            if (scrollY > 500) {
+                backToTop.classList.add('visible');
+            } else {
+                backToTop.classList.remove('visible');
+            }
+            // Update active nav link
+            const sections = document.querySelectorAll('section[id]');
+            let currentSection = '';
+            sections.forEach(section => {
+                const sectionTop = section.offsetTop - 120;
+                if (scrollY >= sectionTop) {
+                    currentSection = section.getAttribute('id');
+                }
+            });
+            navLinksAll.forEach(link => {
+                link.classList.remove('active');
+                if (link.getAttribute('href') === '#' + currentSection) {
+                    link.classList.add('active');
+                }
+            });
+            lastScroll = scrollY;
+            scrollTicking = false;
+        }
+
+        window.addEventListener('scroll', () => {
+            if (!scrollTicking) {
+                requestAnimationFrame(updateScroll);
+                scrollTicking = true;
+            }
+        }, { passive: true });
+
+        // Hamburger menu
+        hamburger.addEventListener('click', () => {
+            const isActive = hamburger.classList.toggle('active');
+            mobileNav.classList.toggle('active');
+            hamburger.setAttribute('aria-expanded', isActive);
+            document.body.style.overflow = isActive ? 'hidden' : '';
+        });
+
+        // Close mobile nav on link click
+        document.querySelectorAll('.mobile-nav a').forEach(link => {
+            link.addEventListener('click', () => {
+                hamburger.classList.remove('active');
+                mobileNav.classList.remove('active');
+                hamburger.setAttribute('aria-expanded', 'false');
+                document.body.style.overflow = '';
+            });
+        });
+
+        // Back to top
+        backToTop.addEventListener('click', () => {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+
+        // FAQ Accordion
+        faqItems.forEach(item => {
+            const question = item.querySelector('.faq-question');
+            question.addEventListener('click', () => {
+                const isActive = item.classList.contains('active');
+                // Close all
+                faqItems.forEach(fi => fi.classList.remove('active'));
+                // Open clicked if was not active
+                if (!isActive) {
+                    item.classList.add('active');
+                }
+            });
+        });
+
+        // Intersection Observer for fade-up animations
+        const observerOptions = {
+            threshold: 0.15,
+            rootMargin: '0px 0px -40px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, observerOptions);
+
+        fadeUpElements.forEach(el => observer.observe(el));
+
+        // Counter animation
+        const counterObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const counter = entry.target;
+                    const target = parseInt(counter.getAttribute('data-count'));
+                    const duration = 2000;
+                    const startTime = performance.now();
+                    const startVal = 0;
+
+                    function animateCounter(timestamp) {
+                        const elapsed = timestamp - startTime;
+                        const progress = Math.min(elapsed / duration, 1);
+                        const easeOut = 1 - Math.pow(1 - progress, 3);
+                        const current = Math.round(startVal + (target - startVal) * easeOut);
+                        counter.textContent = current + (target > 100 ? '+' : '+');
+                        if (progress < 1) {
+                            requestAnimationFrame(animateCounter);
+                        } else {
+                            counter.textContent = target + '+';
+                        }
+                    }
+                    requestAnimationFrame(animateCounter);
+                    counterObserver.unobserve(counter);
+                }
+            });
+        }, { threshold: 0.5 });
+
+        statNumbers.forEach(cn => counterObserver.observe(cn));
+
+        // Initial scroll check
+        updateScroll();
+
+        // Handle contact form
+        window.handleFormSubmit = function(event) {
+            event.preventDefault();
+            const form = event.target;
+            const name = form.querySelector('#name').value.trim();
+            const phone = form.querySelector('#phone').value.trim();
+            const course = form.querySelector('#course').value;
+            if (!name || !phone || !course) {
+                alert('Please fill all required fields (Name, Phone, and Course).');
+                return;
+            }
+            const message = form.querySelector('#message').value.trim();
+            const whatsappMsg =
+                `Hello Achievers Academy!%0A%0A*Name:* ${encodeURIComponent(name)}%0A*Phone:* ${encodeURIComponent(phone)}%0A*Course:* ${encodeURIComponent(course)}%0A*Message:* ${encodeURIComponent(message || 'N/A')}`;
+            window.open(`https://wa.me/919521495454?text=${whatsappMsg}`, '_blank', 'noopener');
+            form.reset();
+            alert(
+                'Thank you for your enquiry! We will contact you shortly. You are being redirected to WhatsApp for faster communication.'
+                );
+        };
+    })();
+</script>
+</body>
+</html>
+```
