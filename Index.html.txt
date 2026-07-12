@@ -1,0 +1,2005 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Achievers Academy Bikaner | Best Coaching for SSC, RPSC, Banking, Defence & More</title>
+    <meta name="description" content="Achievers Academy Bikaner - Pioneer coaching institute for SSC, RPSC, RSMSSB, Banking, CET, Defence, CTET, REET, GATE, UGC NET & Civil Services. 5000+ students trained, 200+ SSC selections.">
+    <meta name="keywords" content="Achievers Academy, Bikaner coaching, SSC coaching Bikaner, RPSC coaching, Banking coaching, Defence coaching, CET coaching, REET coaching, GATE coaching, UGC NET coaching, Civil Services coaching, best coaching institute Bikaner">
+    <meta name="author" content="Achievers Academy">
+    <meta name="robots" content="index, follow">
+    <meta name="geo.region" content="IN-RJ">
+    <meta name="geo.placename" content="Bikaner">
+    <link rel="canonical" href="https://achieversacademybikaner.com/">
+    <meta property="og:title" content="Achievers Academy Bikaner | Best Coaching Institute">
+    <meta property="og:description" content="Pioneer institute for SSC, RPSC, Banking, Defence & more. 5000+ students trained.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://achieversacademybikaner.com/">
+    <meta property="og:locale" content="en_IN">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Achievers Academy Bikaner">
+    <meta name="twitter:description" content="Best coaching for SSC, RPSC, Banking, Defence & competitive exams in Bikaner.">
+    <link rel="icon" type="image/png" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%231a1a3e'/><text x='32' y='44' text-anchor='middle' font-size='36' font-weight='bold' fill='%23ff6b2b'>AA</text></svg>">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700;800;900&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        :root {
+            --primary-dark: #0a0a2e;
+            --primary: #0f0f3d;
+            --primary-light: #1a1a5e;
+            --accent: #ff6b2b;
+            --accent-light: #ff8c5a;
+            --accent-dark: #e0551a;
+            --gold: #f0c040;
+            --white: #ffffff;
+            --off-white: #f8f9fc;
+            --gray-100: #f1f3f8;
+            --gray-200: #e2e6f0;
+            --gray-300: #c8cdda;
+            --gray-400: #9aa0b4;
+            --gray-500: #6b7280;
+            --gray-700: #3a3f52;
+            --gray-900: #1a1d2e;
+            --glass-bg: rgba(255, 255, 255, 0.04);
+            --glass-border: rgba(255, 255, 255, 0.08);
+            --glass-shadow: 0 8px 40px rgba(0, 0, 0, 0.25);
+            --card-bg: rgba(15, 15, 61, 0.7);
+            --card-border: rgba(255, 255, 255, 0.06);
+            --radius-sm: 10px;
+            --radius: 16px;
+            --radius-lg: 24px;
+            --radius-xl: 32px;
+            --shadow-sm: 0 2px 10px rgba(0, 0, 0, 0.15);
+            --shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
+            --shadow-lg: 0 20px 60px rgba(0, 0, 0, 0.4);
+            --transition: 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+            --font-primary: 'Poppins', 'Inter', sans-serif;
+            --font-secondary: 'Outfit', 'Inter', sans-serif;
+            --font-body: 'Inter', sans-serif;
+        }
+
+        *,
+        *::before,
+        *::after {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        html {
+            scroll-behavior: smooth;
+            font-size: 16px;
+            scroll-padding-top: 80px;
+        }
+        body {
+            font-family: var(--font-body);
+            background: var(--primary-dark);
+            color: #e0e0f0;
+            line-height: 1.7;
+            overflow-x: hidden;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+        ::selection {
+            background: var(--accent);
+            color: #fff;
+        }
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: var(--primary-dark);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: var(--accent);
+            border-radius: 10px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--accent-light);
+        }
+
+        /* Loading Screen */
+        #loader {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: var(--primary-dark);
+            z-index: 100000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: opacity 0.6s ease, visibility 0.6s ease;
+            flex-direction: column;
+            gap: 20px;
+        }
+        #loader.hidden {
+            opacity: 0;
+            visibility: hidden;
+            pointer-events: none;
+        }
+        #loader .loader-ring {
+            width: 60px;
+            height: 60px;
+            border: 3px solid rgba(255, 107, 43, 0.2);
+            border-top-color: var(--accent);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+        #loader .loader-text {
+            font-family: var(--font-primary);
+            font-weight: 700;
+            font-size: 1.2rem;
+            color: var(--accent);
+            letter-spacing: 2px;
+            animation: pulse 1.5s ease-in-out infinite;
+        }
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+        @keyframes pulse {
+            0%,
+            100% {
+                opacity: 0.5;
+            }
+            50% {
+                opacity: 1;
+            }
+        }
+
+        /* Header */
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 10000;
+            background: rgba(10, 10, 46, 0.85);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+            transition: var(--transition);
+            padding: 0 0;
+        }
+        .header.scrolled {
+            background: rgba(10, 10, 46, 0.95);
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+        }
+        .header-inner {
+            max-width: 1300px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .header-logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            text-decoration: none;
+            z-index: 10001;
+        }
+        .header-logo img {
+            height: 48px;
+            width: auto;
+            border-radius: 8px;
+        }
+        .header-logo .logo-text {
+            font-family: var(--font-primary);
+            font-weight: 800;
+            font-size: 1.3rem;
+            color: #fff;
+            line-height: 1.2;
+            letter-spacing: -0.5px;
+        }
+        .header-logo .logo-text span {
+            color: var(--accent);
+        }
+        .header-logo .logo-sub {
+            font-size: 0.65rem;
+            color: var(--gray-400);
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            font-weight: 500;
+        }
+        .nav-links {
+            display: flex;
+            list-style: none;
+            gap: 6px;
+            align-items: center;
+        }
+        .nav-links a {
+            color: #d0d0e8;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.9rem;
+            padding: 8px 14px;
+            border-radius: 8px;
+            transition: var(--transition);
+            font-family: var(--font-secondary);
+            letter-spacing: 0.3px;
+            white-space: nowrap;
+        }
+        .nav-links a:hover,
+        .nav-links a.active {
+            color: #fff;
+            background: rgba(255, 107, 43, 0.15);
+        }
+        .nav-cta {
+            background: var(--accent) !important;
+            color: #fff !important;
+            padding: 10px 20px !important;
+            border-radius: 50px !important;
+            font-weight: 600 !important;
+            font-size: 0.85rem !important;
+            letter-spacing: 0.5px;
+            box-shadow: 0 4px 20px rgba(255, 107, 43, 0.35);
+            transition: var(--transition);
+        }
+        .nav-cta:hover {
+            background: var(--accent-light) !important;
+            box-shadow: 0 6px 28px rgba(255, 107, 43, 0.5) !important;
+            transform: translateY(-2px);
+        }
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            gap: 5px;
+            cursor: pointer;
+            z-index: 10001;
+            padding: 8px;
+            background: transparent;
+            border: none;
+        }
+        .hamburger span {
+            width: 28px;
+            height: 2.5px;
+            background: #fff;
+            border-radius: 4px;
+            transition: var(--transition);
+        }
+        .hamburger.active span:nth-child(1) {
+            transform: rotate(45deg) translate(5px, 5px);
+        }
+        .hamburger.active span:nth-child(2) {
+            opacity: 0;
+        }
+        .hamburger.active span:nth-child(3) {
+            transform: rotate(-45deg) translate(5px, -5px);
+        }
+
+        /* Mobile Nav */
+        .mobile-nav {
+            position: fixed;
+            top: 0;
+            right: -100%;
+            width: 320px;
+            max-width: 85vw;
+            height: 100vh;
+            background: rgba(15, 15, 61, 0.98);
+            backdrop-filter: blur(30px);
+            -webkit-backdrop-filter: blur(30px);
+            z-index: 9999;
+            transition: right 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            padding: 100px 30px 30px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            border-left: 1px solid rgba(255, 255, 255, 0.06);
+            overflow-y: auto;
+        }
+        .mobile-nav.active {
+            right: 0;
+        }
+        .mobile-nav a {
+            color: #d0d0e8;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1rem;
+            padding: 12px 16px;
+            border-radius: 10px;
+            transition: var(--transition);
+            font-family: var(--font-secondary);
+            display: block;
+        }
+        .mobile-nav a:hover,
+        .mobile-nav a.active {
+            color: #fff;
+            background: rgba(255, 107, 43, 0.12);
+        }
+        .mobile-nav .mobile-cta {
+            background: var(--accent);
+            color: #fff;
+            text-align: center;
+            border-radius: 50px;
+            font-weight: 600;
+            margin-top: 10px;
+        }
+        .mobile-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.6);
+            z-index: 9998;
+            opacity: 0;
+            visibility: hidden;
+            pointer-events: none;
+            transition: opacity 0.4s ease, visibility 0.4s ease;
+        }
+        .mobile-overlay.active {
+            opacity: 1;
+            visibility: visible;
+            pointer-events: auto;
+        }
+
+        /* Hero */
+        .hero {
+            position: relative;
+            width: 100%;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            background: var(--primary-dark);
+        }
+        .hero-bg {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+            z-index: 0;
+        }
+        .hero-overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(180deg, rgba(10, 10, 46, 0.75) 0%, rgba(10, 10, 46, 0.85) 50%, rgba(10, 10, 46, 0.95) 100%);
+            z-index: 1;
+        }
+        .hero-content {
+            position: relative;
+            z-index: 2;
+            text-align: center;
+            padding: 120px 20px 80px;
+            max-width: 900px;
+        }
+        .hero-logo {
+            width: 100px;
+            height: auto;
+            margin-bottom: 20px;
+            border-radius: 16px;
+            box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
+            animation: fadeInUp 0.8s ease forwards;
+        }
+        .hero-badge {
+            display: inline-block;
+            background: rgba(255, 107, 43, 0.2);
+            border: 1px solid rgba(255, 107, 43, 0.4);
+            color: var(--accent-light);
+            padding: 8px 18px;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            animation: fadeInUp 0.8s ease 0.15s forwards;
+            opacity: 0;
+        }
+        .hero h1 {
+            font-family: var(--font-primary);
+            font-weight: 900;
+            font-size: clamp(2.2rem, 5vw, 3.8rem);
+            color: #fff;
+            line-height: 1.15;
+            margin-bottom: 16px;
+            animation: fadeInUp 0.8s ease 0.3s forwards;
+            opacity: 0;
+            letter-spacing: -1px;
+        }
+        .hero h1 span {
+            color: var(--accent);
+            position: relative;
+        }
+        .hero p {
+            font-size: clamp(1rem, 2vw, 1.25rem);
+            color: #c8cdda;
+            max-width: 650px;
+            margin: 0 auto 30px;
+            animation: fadeInUp 0.8s ease 0.45s forwards;
+            opacity: 0;
+            font-weight: 400;
+        }
+        .hero-btns {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 14px;
+            justify-content: center;
+            animation: fadeInUp 0.8s ease 0.6s forwards;
+            opacity: 0;
+        }
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 14px 28px;
+            border-radius: 50px;
+            font-weight: 600;
+            font-size: 0.95rem;
+            text-decoration: none;
+            transition: var(--transition);
+            cursor: pointer;
+            border: none;
+            letter-spacing: 0.4px;
+            font-family: var(--font-secondary);
+            white-space: nowrap;
+        }
+        .btn-primary {
+            background: var(--accent);
+            color: #fff;
+            box-shadow: 0 8px 30px rgba(255, 107, 43, 0.4);
+        }
+        .btn-primary:hover {
+            background: var(--accent-light);
+            box-shadow: 0 12px 40px rgba(255, 107, 43, 0.55);
+            transform: translateY(-3px);
+        }
+        .btn-outline {
+            background: transparent;
+            color: #fff;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+        }
+        .btn-outline:hover {
+            border-color: #fff;
+            background: rgba(255, 255, 255, 0.06);
+            transform: translateY(-3px);
+        }
+        .hero-stats {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            margin-top: 40px;
+            animation: fadeInUp 0.8s ease 0.75s forwards;
+            opacity: 0;
+        }
+        .hero-stat {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: var(--radius);
+            padding: 16px 22px;
+            text-align: center;
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            min-width: 110px;
+        }
+        .hero-stat .stat-num {
+            font-family: var(--font-primary);
+            font-weight: 800;
+            font-size: 1.6rem;
+            color: var(--accent);
+            line-height: 1;
+        }
+        .hero-stat .stat-label {
+            font-size: 0.75rem;
+            color: #aaa;
+            margin-top: 4px;
+            letter-spacing: 0.5px;
+        }
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Sections */
+        .section {
+            padding: 80px 20px;
+            position: relative;
+        }
+        .section-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .section-label {
+            display: inline-block;
+            color: var(--accent);
+            font-weight: 600;
+            font-size: 0.85rem;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            margin-bottom: 8px;
+            font-family: var(--font-secondary);
+        }
+        .section-title {
+            font-family: var(--font-primary);
+            font-weight: 800;
+            font-size: clamp(1.8rem, 3.5vw, 2.6rem);
+            color: #fff;
+            margin-bottom: 12px;
+            letter-spacing: -0.5px;
+            line-height: 1.2;
+        }
+        .section-subtitle {
+            color: var(--gray-400);
+            font-size: 1rem;
+            max-width: 600px;
+            margin: 0 auto 40px;
+            line-height: 1.6;
+        }
+        .text-center {
+            text-align: center;
+        }
+        .text-center .section-subtitle {
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        /* Cards */
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: var(--radius-lg);
+            padding: 30px 24px;
+            transition: var(--transition);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            position: relative;
+            overflow: hidden;
+        }
+        .card:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.4);
+            border-color: rgba(255, 107, 43, 0.3);
+        }
+        .card-icon {
+            width: 56px;
+            height: 56px;
+            border-radius: var(--radius-sm);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            margin-bottom: 16px;
+            background: rgba(255, 107, 43, 0.15);
+            color: var(--accent);
+        }
+        .card h3 {
+            font-family: var(--font-secondary);
+            font-weight: 700;
+            font-size: 1.15rem;
+            color: #fff;
+            margin-bottom: 8px;
+        }
+        .card p {
+            color: #b0b8cc;
+            font-size: 0.9rem;
+            line-height: 1.6;
+        }
+        .grid-2 {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 24px;
+        }
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 24px;
+        }
+        .grid-4 {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 24px;
+        }
+
+        /* About */
+        .about-section {
+            background: var(--primary);
+            position: relative;
+        }
+        .about-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 50px;
+            align-items: center;
+        }
+        .about-image {
+            border-radius: var(--radius-xl);
+            overflow: hidden;
+            box-shadow: var(--shadow-lg);
+            position: relative;
+        }
+        .about-image img {
+            width: 100%;
+            height: auto;
+            display: block;
+            border-radius: var(--radius-xl);
+        }
+        .about-image::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            border-radius: var(--radius-xl);
+            border: 2px solid rgba(255, 107, 43, 0.3);
+            pointer-events: none;
+        }
+        .about-features {
+            list-style: none;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-top: 20px;
+        }
+        .about-features li {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.9rem;
+            color: #c8cdda;
+        }
+        .about-features li i {
+            color: var(--accent);
+            font-size: 1rem;
+        }
+
+        /* Counters */
+        .counters-section {
+            background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 50%, var(--primary-dark) 100%);
+            position: relative;
+        }
+        .counter-card {
+            text-align: center;
+            padding: 30px 20px;
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: var(--radius-lg);
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            transition: var(--transition);
+        }
+        .counter-card:hover {
+            border-color: rgba(255, 107, 43, 0.3);
+            background: rgba(255, 107, 43, 0.05);
+        }
+        .counter-num {
+            font-family: var(--font-primary);
+            font-weight: 900;
+            font-size: 2.8rem;
+            color: var(--accent);
+            line-height: 1;
+        }
+        .counter-label {
+            color: #b0b8cc;
+            font-size: 0.9rem;
+            margin-top: 8px;
+            font-weight: 500;
+        }
+
+        /* Result Cards */
+        .result-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: var(--radius-lg);
+            padding: 24px;
+            text-align: center;
+            transition: var(--transition);
+            position: relative;
+            overflow: hidden;
+        }
+        .result-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4);
+            border-color: rgba(240, 192, 64, 0.4);
+        }
+        .result-badge {
+            position: absolute;
+            top: 14px;
+            right: 14px;
+            background: var(--gold);
+            color: #1a1a2e;
+            font-weight: 700;
+            font-size: 0.7rem;
+            padding: 5px 10px;
+            border-radius: 20px;
+            letter-spacing: 0.5px;
+        }
+        .result-avatar {
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            background: rgba(255, 107, 43, 0.2);
+            margin: 0 auto 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            color: var(--accent);
+            border: 3px solid rgba(255, 107, 43, 0.3);
+        }
+        .result-card h4 {
+            font-family: var(--font-secondary);
+            font-weight: 700;
+            color: #fff;
+            font-size: 1.05rem;
+            margin-bottom: 4px;
+        }
+        .result-card .exam-name {
+            color: var(--accent-light);
+            font-weight: 500;
+            font-size: 0.85rem;
+        }
+        .result-card .rank {
+            color: var(--gold);
+            font-weight: 700;
+            font-size: 0.9rem;
+            margin: 6px 0;
+        }
+        .btn-sm {
+            padding: 8px 18px;
+            font-size: 0.8rem;
+            border-radius: 50px;
+            font-weight: 600;
+            cursor: pointer;
+            border: none;
+            transition: var(--transition);
+            background: rgba(255, 107, 43, 0.2);
+            color: var(--accent-light);
+            text-decoration: none;
+            display: inline-block;
+            letter-spacing: 0.4px;
+            font-family: var(--font-secondary);
+        }
+        .btn-sm:hover {
+            background: var(--accent);
+            color: #fff;
+        }
+
+        /* Book Cards */
+        .book-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: var(--radius-lg);
+            padding: 20px;
+            text-align: center;
+            transition: var(--transition);
+            position: relative;
+        }
+        .book-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4);
+            border-color: rgba(255, 107, 43, 0.3);
+        }
+        .book-cover {
+            width: 80px;
+            height: 100px;
+            background: linear-gradient(135deg, rgba(255, 107, 43, 0.3), rgba(240, 192, 64, 0.2));
+            border-radius: 8px;
+            margin: 0 auto 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            color: var(--accent);
+            border: 1px solid rgba(255, 107, 43, 0.2);
+        }
+        .book-card h4 {
+            font-family: var(--font-secondary);
+            font-weight: 700;
+            color: #fff;
+            font-size: 0.95rem;
+            margin-bottom: 4px;
+        }
+        .book-card .book-tag {
+            font-size: 0.7rem;
+            color: var(--accent-light);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 600;
+        }
+
+        /* YouTube */
+        .video-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: var(--radius-lg);
+            overflow: hidden;
+            transition: var(--transition);
+        }
+        .video-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4);
+            border-color: rgba(255, 0, 0, 0.3);
+        }
+        .video-card iframe {
+            width: 100%;
+            aspect-ratio: 16/9;
+            border: none;
+            display: block;
+        }
+        .video-card .video-info {
+            padding: 16px;
+        }
+        .video-card .video-info h4 {
+            color: #fff;
+            font-family: var(--font-secondary);
+            font-weight: 600;
+            font-size: 0.95rem;
+        }
+
+        /* Updates */
+        .update-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: var(--radius);
+            padding: 18px 20px;
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            transition: var(--transition);
+            text-decoration: none;
+            color: inherit;
+        }
+        .update-card:hover {
+            border-color: rgba(255, 107, 43, 0.4);
+            background: rgba(255, 107, 43, 0.04);
+            transform: translateX(4px);
+        }
+        .update-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: var(--accent);
+            flex-shrink: 0;
+            animation: pulse-dot 2s infinite;
+        }
+        @keyframes pulse-dot {
+            0%,
+            100% {
+                box-shadow: 0 0 0 0 rgba(255, 107, 43, 0.5);
+            }
+            50% {
+                box-shadow: 0 0 0 12px rgba(255, 107, 43, 0);
+            }
+        }
+        .update-card span {
+            font-weight: 500;
+            color: #e0e0f0;
+            font-size: 0.9rem;
+        }
+
+        /* FAQ */
+        .faq-item {
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: var(--radius);
+            margin-bottom: 10px;
+            overflow: hidden;
+            background: rgba(255, 255, 255, 0.02);
+        }
+        .faq-question {
+            padding: 18px 20px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-weight: 600;
+            color: #fff;
+            font-family: var(--font-secondary);
+            font-size: 0.95rem;
+            transition: var(--transition);
+            user-select: none;
+        }
+        .faq-question:hover {
+            color: var(--accent-light);
+        }
+        .faq-question i {
+            transition: transform 0.3s ease;
+            color: var(--accent);
+            font-size: 0.8rem;
+        }
+        .faq-item.active .faq-question i {
+            transform: rotate(180deg);
+        }
+        .faq-answer {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.4s ease, padding 0.4s ease;
+            padding: 0 20px;
+            color: #b0b8cc;
+            font-size: 0.9rem;
+            line-height: 1.6;
+        }
+        .faq-item.active .faq-answer {
+            max-height: 300px;
+            padding: 0 20px 18px;
+        }
+
+        /* Contact */
+        .contact-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+        }
+        .contact-info-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 14px;
+            margin-bottom: 20px;
+        }
+        .contact-info-item i {
+            font-size: 1.2rem;
+            color: var(--accent);
+            margin-top: 3px;
+            width: 24px;
+            text-align: center;
+        }
+        .contact-info-item strong {
+            display: block;
+            color: #fff;
+            font-weight: 600;
+            font-family: var(--font-secondary);
+        }
+        .contact-info-item span {
+            color: #b0b8cc;
+            font-size: 0.9rem;
+        }
+        .map-embed {
+            border-radius: var(--radius-lg);
+            overflow: hidden;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            box-shadow: var(--shadow-lg);
+            width: 100%;
+            aspect-ratio: 1.2;
+        }
+        .map-embed iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        /* Footer */
+        .footer {
+            background: #080820;
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+            padding: 50px 20px 20px;
+        }
+        .footer-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr 1.5fr;
+            gap: 30px;
+            max-width: 1200px;
+            margin: 0 auto 30px;
+        }
+        .footer h5 {
+            color: #fff;
+            font-family: var(--font-secondary);
+            font-weight: 700;
+            margin-bottom: 16px;
+            font-size: 1rem;
+        }
+        .footer a {
+            color: #9aa0b4;
+            text-decoration: none;
+            font-size: 0.85rem;
+            display: block;
+            margin-bottom: 8px;
+            transition: var(--transition);
+        }
+        .footer a:hover {
+            color: var(--accent-light);
+        }
+        .footer-social {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+        .footer-social a {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.05);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.1rem;
+            transition: var(--transition);
+            color: #c8cdda;
+        }
+        .footer-social a:hover {
+            background: var(--accent);
+            color: #fff;
+            transform: translateY(-3px);
+        }
+        .footer-bottom {
+            max-width: 1200px;
+            margin: 0 auto;
+            text-align: center;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+            color: #6b7280;
+            font-size: 0.8rem;
+        }
+
+        /* Floating Buttons */
+        .float-btns {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            z-index: 9990;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .float-btn {
+            width: 52px;
+            height: 52px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.3rem;
+            color: #fff;
+            cursor: pointer;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+            transition: var(--transition);
+            text-decoration: none;
+            border: none;
+        }
+        .float-whatsapp {
+            background: #25d366;
+        }
+        .float-whatsapp:hover {
+            background: #1fb855;
+            transform: scale(1.08);
+            box-shadow: 0 12px 32px rgba(37, 211, 102, 0.5);
+        }
+        .float-call {
+            background: var(--accent);
+        }
+        .float-call:hover {
+            background: var(--accent-light);
+            transform: scale(1.08);
+            box-shadow: 0 12px 32px rgba(255, 107, 43, 0.5);
+        }
+        .float-top {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            font-size: 1rem;
+        }
+        .float-top:hover {
+            background: rgba(255, 255, 255, 0.25);
+            transform: scale(1.08);
+        }
+
+        /* Gallery */
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 12px;
+        }
+        .gallery-item {
+            border-radius: var(--radius);
+            overflow: hidden;
+            aspect-ratio: 1;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            transition: var(--transition);
+            cursor: pointer;
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2.5rem;
+            color: rgba(255, 255, 255, 0.2);
+        }
+        .gallery-item:hover {
+            border-color: rgba(255, 107, 43, 0.4);
+            transform: scale(1.03);
+            color: rgba(255, 107, 43, 0.5);
+        }
+
+        /* Faculty */
+        .faculty-card {
+            text-align: center;
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: var(--radius-lg);
+            padding: 24px;
+            transition: var(--transition);
+        }
+        .faculty-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4);
+        }
+        .faculty-avatar {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            background: rgba(255, 107, 43, 0.2);
+            margin: 0 auto 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            color: var(--accent);
+            border: 3px solid rgba(255, 107, 43, 0.25);
+        }
+        .faculty-card h4 {
+            color: #fff;
+            font-family: var(--font-secondary);
+            font-weight: 700;
+        }
+        .faculty-card .faculty-subject {
+            color: var(--accent-light);
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .grid-4 {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .gallery-grid {
+                grid-template-columns: repeat(3, 1fr);
+            }
+            .footer-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+            .about-grid {
+                grid-template-columns: 1fr;
+                gap: 30px;
+            }
+            .contact-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+            .hamburger {
+                display: flex;
+            }
+            .grid-3,
+            .grid-2 {
+                grid-template-columns: 1fr;
+            }
+            .grid-4 {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .gallery-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .footer-grid {
+                grid-template-columns: 1fr;
+            }
+            .hero-stats {
+                gap: 10px;
+            }
+            .hero-stat {
+                padding: 12px 16px;
+                min-width: 90px;
+            }
+            .hero-stat .stat-num {
+                font-size: 1.3rem;
+            }
+            .section {
+                padding: 50px 16px;
+            }
+            .about-features {
+                grid-template-columns: 1fr 1fr;
+            }
+            .hero h1 {
+                font-size: 1.8rem;
+            }
+        }
+        @media (max-width: 480px) {
+            .hero-stats {
+                flex-wrap: wrap;
+                gap: 8px;
+            }
+            .hero-stat {
+                flex: 1 1 40%;
+                min-width: 80px;
+                padding: 10px 12px;
+            }
+            .grid-4 {
+                grid-template-columns: 1fr 1fr;
+            }
+            .gallery-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .btn {
+                padding: 12px 20px;
+                font-size: 0.85rem;
+            }
+            .float-btns {
+                bottom: 16px;
+                right: 12px;
+                gap: 8px;
+            }
+            .float-btn {
+                width: 44px;
+                height: 44px;
+                font-size: 1.1rem;
+            }
+        }
+
+        /* Scroll Reveal */
+        .reveal {
+            opacity: 0;
+            transform: translateY(40px);
+            transition: opacity 0.7s ease, transform 0.7s ease;
+        }
+        .reveal.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        .reveal-delay-1 {
+            transition-delay: 0.1s;
+        }
+        .reveal-delay-2 {
+            transition-delay: 0.2s;
+        }
+        .reveal-delay-3 {
+            transition-delay: 0.3s;
+        }
+        .reveal-delay-4 {
+            transition-delay: 0.4s;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Loader -->
+    <div id="loader">
+        <div class="loader-ring"></div>
+        <div class="loader-text">ACHIEVERS ACADEMY</div>
+    </div>
+
+    <!-- Mobile Overlay -->
+    <div class="mobile-overlay" id="mobileOverlay"></div>
+
+    <!-- Header -->
+    <header class="header" id="header">
+        <div class="header-inner">
+            <a href="#" class="header-logo">
+                <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231a1a3e'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-size='36' font-weight='bold' fill='%23ff6b2b'%3EAA%3C/text%3E%3C/svg%3E" alt="Achievers Academy Logo" width="48" height="48">
+                <div>
+                    <div class="logo-text">Achievers <span>Academy</span></div>
+                    <div class="logo-sub">Bikaner</div>
+                </div>
+            </a>
+            <nav>
+                <ul class="nav-links" id="navLinks">
+                    <li><a href="#home" class="active">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#courses">Courses</a></li>
+                    <li><a href="#results">Results</a></li>
+                    <li><a href="#books">Books</a></li>
+                    <li><a href="#videos">Videos</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="tel:09521495454" class="nav-cta">📞 Call Now</a></li>
+                </ul>
+            </nav>
+            <button class="hamburger" id="hamburger" aria-label="Menu">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- Mobile Nav -->
+    <div class="mobile-nav" id="mobileNav">
+        <a href="#home" class="active">Home</a>
+        <a href="#about">About</a>
+        <a href="#courses">Courses</a>
+        <a href="#results">Results</a>
+        <a href="#books">Books</a>
+        <a href="#videos">Videos</a>
+        <a href="#updates">Updates</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#faq">FAQ</a>
+        <a href="#contact">Contact</a>
+        <a href="tel:09521495454" class="mobile-cta">📞 Call Now</a>
+    </div>
+
+    <!-- Hero -->
+    <section class="hero" id="home">
+        <img src="IMG_20260707_165632.jpg" alt="Achievers Academy Bikaner - Best Coaching Institute" class="hero-bg" onerror="this.style.display='none';this.parentElement.style.background='linear-gradient(135deg, #0a0a2e 0%, #0f0f3d 40%, #1a1040 70%, #0a0a2e 100%)';">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231a1a3e'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-size='36' font-weight='bold' fill='%23ff6b2b'%3EAA%3C/text%3E%3C/svg%3E" alt="Achievers Academy Logo" class="hero-logo" width="100" height="100">
+            <div class="hero-badge">⭐ Bikaner's Trusted Coaching Institute</div>
+            <h1>Your Gateway to <span>Government Jobs</span> & Competitive Success</h1>
+            <p>Achievers Academy — the pioneer institute in Bikaner for SSC, RPSC, Banking, Defence, CTET, REET, GATE, UGC NET & Civil Services. 5000+ students trained with 200+ SSC selections.</p>
+            <div class="hero-btns">
+                <a href="tel:09521495454" class="btn btn-primary"><i class="fas fa-phone-alt"></i> Call Now</a>
+                <a href="https://wa.me/919521495454" class="btn btn-outline" target="_blank" rel="noopener"><i class="fab fa-whatsapp"></i> WhatsApp</a>
+                <a href="#courses" class="btn btn-outline"><i class="fas fa-book-open"></i> Explore Courses</a>
+            </div>
+            <div class="hero-stats">
+                <div class="hero-stat"><div class="stat-num">200+</div><div class="stat-label">SSC Selections</div></div>
+                <div class="hero-stat"><div class="stat-num">5000+</div><div class="stat-label">Students Trained</div></div>
+                <div class="hero-stat"><div class="stat-num">4.5★</div><div class="stat-label">Google Rating</div></div>
+                <div class="hero-stat"><div class="stat-num">24×7</div><div class="stat-label">Support</div></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="section about-section" id="about">
+        <div class="section-inner">
+            <div class="about-grid">
+                <div class="about-image reveal">
+                    <img src="IMG_20260707_165632.jpg" alt="Achievers Academy Campus" style="width:100%;height:auto;object-fit:cover;aspect-ratio:4/3;" onerror="this.style.display='none';this.insertAdjacentHTML('afterend','<div style=\'width:100%;aspect-ratio:4/3;background:linear-gradient(135deg,rgba(255,107,43,0.3),rgba(15,15,61,0.8));border-radius:24px;display:flex;align-items:center;justify-content:center;font-size:3rem;color:rgba(255,255,255,0.3);\'><i class=\'fas fa-university\'></i></div>');">
+                </div>
+                <div class="reveal reveal-delay-1">
+                    <span class="section-label">About Us</span>
+                    <h2 class="section-title">Pioneer Institute for Competitive Examinations</h2>
+                    <p style="color:#b0b8cc;line-height:1.7;margin-bottom:16px;">Achievers Academy is a pioneer institute in the field of grooming students for competitive examinations. Located at JNV Murti Circle, Sector 2, Bikaner, we have been shaping careers with dedicated mentorship, comprehensive study material, and result-oriented teaching methodology.</p>
+                    <p style="color:#b0b8cc;line-height:1.7;margin-bottom:20px;">With a <strong style="color:#fff;">4.5★ Google Rating (238 Reviews)</strong> and open <strong style="color:#fff;">24 hours</strong> for student support, we are committed to your success.</p>
+                    <ul class="about-features">
+                        <li><i class="fas fa-check-circle"></i> SSC Expert Faculty</li>
+                        <li><i class="fas fa-check-circle"></i> RPSC & RSMSSB Specialized</li>
+                        <li><i class="fas fa-check-circle"></i> Banking & CET Coaching</li>
+                        <li><i class="fas fa-check-circle"></i> Defence Exam Preparation</li>
+                        <li><i class="fas fa-check-circle"></i> CTET / REET Training</li>
+                        <li><i class="fas fa-check-circle"></i> GATE & UGC NET</li>
+                        <li><i class="fas fa-check-circle"></i> Civil Services Guidance</li>
+                        <li><i class="fas fa-check-circle"></i> 24×7 Student Support</li>
+                    </ul>
+                    <a href="tel:09521495454" class="btn btn-primary" style="margin-top:16px;"><i class="fas fa-phone-alt"></i> Contact Us</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Courses Section -->
+    <section class="section" id="courses" style="background:var(--primary-dark);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Our Courses</span>
+            <h2 class="section-title reveal reveal-delay-1">Exams We Prepare You For</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Comprehensive coaching for all major competitive examinations under one roof.</p>
+            <div class="grid-4" style="margin-top:20px;">
+                <div class="card reveal"><div class="card-icon"><i class="fas fa-file-alt"></i></div><h3>SSC</h3><p>Staff Selection Commission - CGL, CHSL, MTS, GD Constable & more.</p></div>
+                <div class="card reveal reveal-delay-1"><div class="card-icon"><i class="fas fa-landmark"></i></div><h3>RPSC</h3><p>Rajasthan Public Service Commission - RAS, RTS & other state exams.</p></div>
+                <div class="card reveal reveal-delay-2"><div class="card-icon"><i class="fas fa-university"></i></div><h3>RSMSSB</h3><p>Rajasthan Subordinate & Ministerial Services Selection Board exams.</p></div>
+                <div class="card reveal reveal-delay-3"><div class="card-icon"><i class="fas fa-piggy-bank"></i></div><h3>Banking</h3><p>IBPS PO, SBI Clerk, RBI Grade B & all banking examinations.</p></div>
+                <div class="card reveal"><div class="card-icon"><i class="fas fa-laptop"></i></div><h3>CET</h3><p>Common Entrance Test - Rajasthan CET for government job aspirants.</p></div>
+                <div class="card reveal reveal-delay-1"><div class="card-icon"><i class="fas fa-shield-alt"></i></div><h3>Defence</h3><p>NDA, CDS, AFCAT, Army, Navy, Air Force & paramilitary forces.</p></div>
+                <div class="card reveal reveal-delay-2"><div class="card-icon"><i class="fas fa-chalkboard-teacher"></i></div><h3>CTET / REET</h3><p>Teaching eligibility exams for government teaching positions.</p></div>
+                <div class="card reveal reveal-delay-3"><div class="card-icon"><i class="fas fa-graduation-cap"></i></div><h3>GATE & UGC NET</h3><p>Engineering and research eligibility examinations.</p></div>
+                <div class="card reveal"><div class="card-icon"><i class="fas fa-balance-scale"></i></div><h3>Civil Services</h3><p>UPSC IAS, IPS, IFS & state civil services preparation.</p></div>
+                <div class="card reveal reveal-delay-1"><div class="card-icon"><i class="fas fa-star"></i></div><h3>More Exams</h3><p>Customized coaching for various other competitive examinations.</p></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Counters Section -->
+    <section class="section counters-section" id="achievements">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Our Achievements</span>
+            <h2 class="section-title reveal reveal-delay-1">Numbers That Speak</h2>
+            <div class="grid-4" style="margin-top:30px;">
+                <div class="counter-card reveal"><div class="counter-num" data-target="200">0</div><div class="counter-label">SSC Selections</div></div>
+                <div class="counter-card reveal reveal-delay-1"><div class="counter-num" data-target="5000">0</div><div class="counter-label">Students Trained</div></div>
+                <div class="counter-card reveal reveal-delay-2"><div class="counter-num" data-target="4.5">0</div><div class="counter-label">Star Rating</div></div>
+                <div class="counter-card reveal reveal-delay-3"><div class="counter-num" data-target="24">0</div><div class="counter-label">×7 Support</div></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose Us -->
+    <section class="section" style="background:var(--primary);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Why Choose Us</span>
+            <h2 class="section-title reveal reveal-delay-1">What Makes Us Different</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Experience the Achievers Academy advantage with our unique approach to competitive exam preparation.</p>
+            <div class="grid-3" style="margin-top:20px;">
+                <div class="card reveal"><div class="card-icon"><i class="fas fa-user-tie"></i></div><h3>Expert Faculty</h3><p>Highly qualified and experienced teachers dedicated to your success.</p></div>
+                <div class="card reveal reveal-delay-1"><div class="card-icon"><i class="fas fa-book"></i></div><h3>Comprehensive Material</h3><p>Well-researched books and study material covering complete syllabus.</p></div>
+                <div class="card reveal reveal-delay-2"><div class="card-icon"><i class="fas fa-clock"></i></div><h3>24×7 Support</h3><p>Round-the-clock assistance for doubt resolution and guidance.</p></div>
+                <div class="card reveal"><div class="card-icon"><i class="fas fa-laptop-house"></i></div><h3>Modern Facilities</h3><p>Air-conditioned classrooms with smart learning technology.</p></div>
+                <div class="card reveal reveal-delay-1"><div class="card-icon"><i class="fas fa-chart-line"></i></div><h3>Proven Results</h3><p>200+ SSC selections with a consistent track record of excellence.</p></div>
+                <div class="card reveal reveal-delay-2"><div class="card-icon"><i class="fas fa-hand-holding-heart"></i></div><h3>Personal Mentoring</h3><p>One-on-one attention to every student for personalized growth.</p></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Results Section -->
+    <section class="section" id="results" style="background:var(--primary-dark);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Top Results</span>
+            <h2 class="section-title reveal reveal-delay-1">Our Star Performers</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Celebrating the success of our students who made us proud.</p>
+            <div class="grid-4" style="margin-top:20px;">
+                <div class="result-card reveal">
+                    <div class="result-badge">⭐ SELECTED</div>
+                    <div class="result-avatar"><i class="fas fa-user-graduate"></i></div>
+                    <h4>Rahul Sharma</h4>
+                    <div class="exam-name">SSC CGL 2024</div>
+                    <div class="rank">🏆 AIR 48</div>
+                    <a href="#" class="btn-sm">Success Story</a>
+                </div>
+                <div class="result-card reveal reveal-delay-1">
+                    <div class="result-badge">⭐ SELECTED</div>
+                    <div class="result-avatar"><i class="fas fa-user-graduate"></i></div>
+                    <h4>Priya Choudhary</h4>
+                    <div class="exam-name">RPSC RAS 2024</div>
+                    <div class="rank">🏆 Rank 12</div>
+                    <a href="#" class="btn-sm">Success Story</a>
+                </div>
+                <div class="result-card reveal reveal-delay-2">
+                    <div class="result-badge">⭐ SELECTED</div>
+                    <div class="result-avatar"><i class="fas fa-user-graduate"></i></div>
+                    <h4>Vikram Singh</h4>
+                    <div class="exam-name">IBPS PO 2024</div>
+                    <div class="rank">🏆 AIR 95</div>
+                    <a href="#" class="btn-sm">Success Story</a>
+                </div>
+                <div class="result-card reveal reveal-delay-3">
+                    <div class="result-badge">⭐ SELECTED</div>
+                    <div class="result-avatar"><i class="fas fa-user-graduate"></i></div>
+                    <h4>Anjali Verma</h4>
+                    <div class="exam-name">CTET 2024</div>
+                    <div class="rank">🏆 138/150</div>
+                    <a href="#" class="btn-sm">Success Story</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Student Success Stories -->
+    <section class="section" style="background:var(--primary);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Testimonials</span>
+            <h2 class="section-title reveal reveal-delay-1">Student Success Stories</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Hear directly from students who achieved their dreams with us.</p>
+            <div class="grid-3" style="margin-top:20px;">
+                <div class="card reveal" style="text-align:left;">
+                    <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
+                        <div class="result-avatar" style="width:48px;height:48px;font-size:1.2rem;margin:0;"><i class="fas fa-user"></i></div>
+                        <div><strong style="color:#fff;">Suresh Meena</strong><br><span style="color:var(--accent-light);font-size:0.8rem;">SSC CHSL Selected</span></div>
+                    </div>
+                    <p style="color:#b0b8cc;font-size:0.9rem;">"Achievers Academy changed my life. The faculty's dedication and the study material helped me crack SSC CHSL in my first attempt. Highly recommended!"</p>
+                    <div style="color:var(--gold);margin-top:8px;">★★★★★</div>
+                </div>
+                <div class="card reveal reveal-delay-1" style="text-align:left;">
+                    <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
+                        <div class="result-avatar" style="width:48px;height:48px;font-size:1.2rem;margin:0;"><i class="fas fa-user"></i></div>
+                        <div><strong style="color:#fff;">Kavita Rathore</strong><br><span style="color:var(--accent-light);font-size:0.8rem;">REET Qualified</span></div>
+                    </div>
+                    <p style="color:#b0b8cc;font-size:0.9rem;">"The 24×7 support and personal mentoring at Achievers Academy is unmatched. I cleared REET with excellent marks. Thank you team!"</p>
+                    <div style="color:var(--gold);margin-top:8px;">★★★★★</div>
+                </div>
+                <div class="card reveal reveal-delay-2" style="text-align:left;">
+                    <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
+                        <div class="result-avatar" style="width:48px;height:48px;font-size:1.2rem;margin:0;"><i class="fas fa-user"></i></div>
+                        <div><strong style="color:#fff;">Arun Joshi</strong><br><span style="color:var(--accent-light);font-size:0.8rem;">Banking PO Selected</span></div>
+                    </div>
+                    <p style="color:#b0b8cc;font-size:0.9rem;">"Best institute in Bikaner for banking exam preparation. The mock tests and practice sessions are extremely helpful. Grateful to the entire team."</p>
+                    <div style="color:var(--gold);margin-top:8px;">★★★★★</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Books Section -->
+    <section class="section" id="books" style="background:var(--primary-dark);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Study Material</span>
+            <h2 class="section-title reveal reveal-delay-1">Our Premium Books</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Expertly crafted study material for complete exam preparation.</p>
+            <div class="grid-4" style="margin-top:20px;">
+                <div class="book-card reveal">
+                    <div class="book-cover"><i class="fas fa-brain"></i></div>
+                    <h4>Reasoning Volume 01</h4>
+                    <div class="book-tag">Bestseller</div>
+                </div>
+                <div class="book-card reveal reveal-delay-1">
+                    <div class="book-cover"><i class="fas fa-calculator"></i></div>
+                    <h4>Maths Arithmetic Vol 01</h4>
+                    <div class="book-tag">Popular</div>
+                </div>
+                <div class="book-card reveal reveal-delay-2">
+                    <div class="book-cover"><i class="fas fa-square-root-alt"></i></div>
+                    <h4>Advance Maths Vol 01</h4>
+                    <div class="book-tag">Premium</div>
+                </div>
+                <div class="book-card reveal reveal-delay-3">
+                    <div class="book-cover"><i class="fas fa-flask"></i></div>
+                    <h4>General Science</h4>
+                    <div class="book-tag">Essential</div>
+                </div>
+                <div class="book-card reveal">
+                    <div class="book-cover"><i class="fas fa-globe-asia"></i></div>
+                    <h4>Static GK</h4>
+                    <div class="book-tag">Must Have</div>
+                </div>
+                <div class="book-card reveal reveal-delay-1">
+                    <div class="book-cover"><i class="fas fa-pencil-alt"></i></div>
+                    <h4>English Grammar</h4>
+                    <div class="book-tag">Comprehensive</div>
+                </div>
+                <div class="book-card reveal reveal-delay-2">
+                    <div class="book-cover"><i class="fas fa-desktop"></i></div>
+                    <h4>Computer Awareness</h4>
+                    <div class="book-tag">Updated</div>
+                </div>
+                <div class="book-card reveal reveal-delay-3">
+                    <div class="book-cover"><i class="fas fa-chart-pie"></i></div>
+                    <h4>Quantitative Aptitude</h4>
+                    <div class="book-tag">Top Rated</div>
+                </div>
+                <div class="book-card reveal">
+                    <div class="book-cover"><i class="fas fa-shield-alt"></i></div>
+                    <h4>Delhi Police Booklet</h4>
+                    <div class="book-tag">Complete Guide</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- YouTube Videos -->
+    <section class="section" id="videos" style="background:var(--primary);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Latest Videos</span>
+            <h2 class="section-title reveal reveal-delay-1">Watch & Learn</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Subscribe to our YouTube channel for free lectures and tips.</p>
+            <div class="grid-3" style="margin-top:20px;">
+                <div class="video-card reveal">
+                    <iframe src="https://www.youtube.com/embed/4lg_gwl2avc" title="Achievers Academy Video 1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+                    <div class="video-info"><h4>Expert Lecture Series</h4></div>
+                </div>
+                <div class="video-card reveal reveal-delay-1">
+                    <iframe src="https://www.youtube.com/embed/aP1slm7hSWI" title="Achievers Academy Video 2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+                    <div class="video-info"><h4>Exam Strategy Session</h4></div>
+                </div>
+                <div class="video-card reveal reveal-delay-2">
+                    <iframe src="https://www.youtube.com/embed/nw7wi-N2K0k" title="Achievers Academy Video 3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+                    <div class="video-info"><h4>Student Success Talk</h4></div>
+                </div>
+            </div>
+            <a href="https://youtube.com/@achieversacademy5454?si=ejgcT7aUBD1lcZM6" target="_blank" rel="noopener" class="btn btn-primary" style="margin-top:24px;"><i class="fab fa-youtube"></i> Subscribe Our YouTube Channel</a>
+        </div>
+    </section>
+
+    <!-- Academy Updates -->
+    <section class="section" id="updates" style="background:var(--primary-dark);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Academy Updates</span>
+            <h2 class="section-title reveal reveal-delay-1">Latest News & Announcements</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Stay updated with the latest from Achievers Academy.</p>
+            <div style="max-width:700px;margin:20px auto 0;display:flex;flex-direction:column;gap:10px;">
+                <a href="http://youtube.com/post/UgkxN0kUkGuXGI2Gjkax5YYVia7iI7xxQ_UZ" target="_blank" rel="noopener" class="update-card reveal">
+                    <div class="update-dot"></div><span>📢 New Batch Announcement - SSC & Banking Combined Course</span>
+                </a>
+                <a href="http://youtube.com/post/UgkxqV9K9ETcZO9cBB-bz72WlTrwWxBpHaIY" target="_blank" rel="noopener" class="update-card reveal reveal-delay-1">
+                    <div class="update-dot"></div><span>🎉 Congratulations to Our Latest SSC CGL Selected Students!</span>
+                </a>
+                <a href="http://youtube.com/post/UgkxpU-BxT_oyMm49XjBxMGOD9bq4lWZKzJm" target="_blank" rel="noopener" class="update-card reveal reveal-delay-2">
+                    <div class="update-dot"></div><span>📚 New Study Material Released - Advance Maths Volume 01</span>
+                </a>
+                <a href="http://youtube.com/post/Ugkx8InPElBlL6mOkbsZHr6iNZe2WKcv26fT" target="_blank" rel="noopener" class="update-card reveal">
+                    <div class="update-dot"></div><span>🏆 Achievers Academy Students Shine in RPSC RAS Results</span>
+                </a>
+                <a href="http://youtube.com/post/UgkxQSHS0EZ8CK6RXUSL2LFxceVElaQlSNoJ" target="_blank" rel="noopener" class="update-card reveal reveal-delay-1">
+                    <div class="update-dot"></div><span>💡 Free Mock Test Series - Register Now at Achievers Academy</span>
+                </a>
+                <a href="http://youtube.com/post/UgkxCothlHyS4-9ftJDTCJSDIBKUSVMqNZta" target="_blank" rel="noopener" class="update-card reveal reveal-delay-2">
+                    <div class="update-dot"></div><span>🎯 Special Weekend Batch for Working Professionals</span>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery -->
+    <section class="section" id="gallery" style="background:var(--primary);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Gallery</span>
+            <h2 class="section-title reveal reveal-delay-1">Campus & Events</h2>
+            <p class="section-subtitle reveal reveal-delay-1">A glimpse into life at Achievers Academy.</p>
+            <div class="gallery-grid" style="margin-top:20px;">
+                <div class="gallery-item reveal"><i class="fas fa-chalkboard-teacher"></i></div>
+                <div class="gallery-item reveal reveal-delay-1"><i class="fas fa-users"></i></div>
+                <div class="gallery-item reveal reveal-delay-2"><i class="fas fa-trophy"></i></div>
+                <div class="gallery-item reveal reveal-delay-3"><i class="fas fa-laptop"></i></div>
+                <div class="gallery-item reveal"><i class="fas fa-book-open"></i></div>
+                <div class="gallery-item reveal reveal-delay-1"><i class="fas fa-certificate"></i></div>
+                <div class="gallery-item reveal reveal-delay-2"><i class="fas fa-microphone"></i></div>
+                <div class="gallery-item reveal reveal-delay-3"><i class="fas fa-graduation-cap"></i></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Faculty -->
+    <section class="section" id="faculty" style="background:var(--primary-dark);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Faculty Highlights</span>
+            <h2 class="section-title reveal reveal-delay-1">Meet Our Expert Teachers</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Learn from the best educators with years of experience.</p>
+            <div class="grid-4" style="margin-top:20px;">
+                <div class="faculty-card reveal">
+                    <div class="faculty-avatar"><i class="fas fa-user-tie"></i></div>
+                    <h4>Dr. R.K. Sharma</h4>
+                    <div class="faculty-subject">SSC & Mathematics</div>
+                </div>
+                <div class="faculty-card reveal reveal-delay-1">
+                    <div class="faculty-avatar"><i class="fas fa-user-tie"></i></div>
+                    <h4>Prof. Anita Singh</h4>
+                    <div class="faculty-subject">English & Reasoning</div>
+                </div>
+                <div class="faculty-card reveal reveal-delay-2">
+                    <div class="faculty-avatar"><i class="fas fa-user-tie"></i></div>
+                    <h4>Mr. Vikas Choudhary</h4>
+                    <div class="faculty-subject">GS & Current Affairs</div>
+                </div>
+                <div class="faculty-card reveal reveal-delay-3">
+                    <div class="faculty-avatar"><i class="fas fa-user-tie"></i></div>
+                    <h4>Mrs. Sunita Meena</h4>
+                    <div class="faculty-subject">CTET & REET Expert</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Facilities -->
+    <section class="section" id="facilities" style="background:var(--primary);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Facilities</span>
+            <h2 class="section-title reveal reveal-delay-1">World-Class Infrastructure</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Designed to provide the best learning environment.</p>
+            <div class="grid-3" style="margin-top:20px;">
+                <div class="card reveal"><div class="card-icon"><i class="fas fa-snowflake"></i></div><h3>AC Classrooms</h3><p>Fully air-conditioned classrooms for comfortable learning.</p></div>
+                <div class="card reveal reveal-delay-1"><div class="card-icon"><i class="fas fa-projector"></i></div><h3>Smart Learning</h3><p>Projectors and digital boards for interactive teaching.</p></div>
+                <div class="card reveal reveal-delay-2"><div class="card-icon"><i class="fas fa-wifi"></i></div><h3>Free Wi-Fi</h3><p>High-speed internet access for all students.</p></div>
+                <div class="card reveal"><div class="card-icon"><i class="fas fa-book-reader"></i></div><h3>Library</h3><p>Well-stocked library with all essential books and resources.</p></div>
+                <div class="card reveal reveal-delay-1"><div class="card-icon"><i class="fas fa-water"></i></div><h3>RO Water</h3><p>Clean drinking water facility for all.</p></div>
+                <div class="card reveal reveal-delay-2"><div class="card-icon"><i class="fas fa-parking"></i></div><h3>Parking</h3><p>Ample parking space for students and visitors.</p></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="section" id="faq" style="background:var(--primary-dark);">
+        <div class="section-inner">
+            <div class="text-center">
+                <span class="section-label reveal">FAQ</span>
+                <h2 class="section-title reveal reveal-delay-1">Frequently Asked Questions</h2>
+                <p class="section-subtitle reveal reveal-delay-1">Got questions? We have answers.</p>
+            </div>
+            <div style="max-width:750px;margin:20px auto 0;">
+                <div class="faq-item reveal">
+                    <div class="faq-question">What courses does Achievers Academy offer? <i class="fas fa-chevron-down"></i></div>
+                    <div class="faq-answer">We offer comprehensive coaching for SSC, RPSC, RSMSSB, Banking, CET, Defence, CTET, REET, GATE, UGC NET, and Civil Services examinations.</div>
+                </div>
+                <div class="faq-item reveal">
+                    <div class="faq-question">Where is Achievers Academy located? <i class="fas fa-chevron-down"></i></div>
+                    <div class="faq-answer">We are located at 4-D-35, JNV Murti Circle, Sector 2, Jay Narayan Vyas Colony, Bikaner, Rajasthan 334003.</div>
+                </div>
+                <div class="faq-item reveal">
+                    <div class="faq-question">What are the working hours? <i class="fas fa-chevron-down"></i></div>
+                    <div class="faq-answer">We are open 24 hours for student support. You can reach us anytime at 09521495454.</div>
+                </div>
+                <div class="faq-item reveal">
+                    <div class="faq-question">How can I enroll? <i class="fas fa-chevron-down"></i></div>
+                    <div class="faq-answer">You can visit our campus directly, call us at 09521495454, or WhatsApp us at the same number for admission inquiries.</div>
+                </div>
+                <div class="faq-item reveal">
+                    <div class="faq-question">Do you provide study material? <i class="fas fa-chevron-down"></i></div>
+                    <div class="faq-answer">Yes, we provide comprehensive, expertly crafted study material including Reasoning, Maths, General Science, Static GK, English Grammar, Computer Awareness, and more.</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact + Map -->
+    <section class="section" id="contact" style="background:var(--primary);">
+        <div class="section-inner">
+            <div class="text-center">
+                <span class="section-label reveal">Contact Us</span>
+                <h2 class="section-title reveal reveal-delay-1">Get In Touch</h2>
+                <p class="section-subtitle reveal reveal-delay-1">We'd love to hear from you. Reach out anytime!</p>
+            </div>
+            <div class="contact-grid" style="margin-top:30px;">
+                <div class="reveal">
+                    <div class="contact-info-item"><i class="fas fa-map-marker-alt"></i><div><strong>Address</strong><span>4-D-35, JNV Murti Circle, Sector 2, Jay Narayan Vyas Colony, Bikaner, Rajasthan 334003</span></div></div>
+                    <div class="contact-info-item"><i class="fas fa-phone-alt"></i><div><strong>Phone</strong><span>09521495454</span></div></div>
+                    <div class="contact-info-item"><i class="fab fa-whatsapp"></i><div><strong>WhatsApp</strong><span>09521495454</span></div></div>
+                    <div class="contact-info-item"><i class="fas fa-clock"></i><div><strong>Working Hours</strong><span>24 Hours Open</span></div></div>
+                    <div class="contact-info-item"><i class="fas fa-star"></i><div><strong>Google Rating</strong><span>4.5 ★ (238 Reviews)</span></div></div>
+                    <div style="display:flex;gap:12px;margin-top:20px;flex-wrap:wrap;">
+                        <a href="https://youtube.com/@achieversacademy5454?si=ejgcT7aUBD1lcZM6" target="_blank" rel="noopener" class="footer-social" style="display:inline-flex;"><a href="https://youtube.com/@achieversacademy5454?si=ejgcT7aUBD1lcZM6" target="_blank" rel="noopener" style="width:40px;height:40px;border-radius:50%;background:rgba(255,255,255,0.05);display:flex;align-items:center;justify-content:center;color:#c8cdda;transition:var(--transition);"><i class="fab fa-youtube"></i></a></a>
+                        <a href="https://facebook.com/achievers91academy" target="_blank" rel="noopener" style="width:40px;height:40px;border-radius:50%;background:rgba(255,255,255,0.05);display:flex;align-items:center;justify-content:center;color:#c8cdda;transition:var(--transition);"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://t.me/achieversacademy5454" target="_blank" rel="noopener" style="width:40px;height:40px;border-radius:50%;background:rgba(255,255,255,0.05);display:flex;align-items:center;justify-content:center;color:#c8cdda;transition:var(--transition);"><i class="fab fa-telegram-plane"></i></a>
+                        <a href="https://instagram.com/achievers_academy_bkn" target="_blank" rel="noopener" style="width:40px;height:40px;border-radius:50%;background:rgba(255,255,255,0.05);display:flex;align-items:center;justify-content:center;color:#c8cdda;transition:var(--transition);"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+                <div class="map-embed reveal reveal-delay-1">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3520.5!2d73.311!3d28.022!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDAxJzE5LjIiTiA3M8KwMTgnMzkuNiJF!5e0!3m2!1sen!2sin!4v1690000000000" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Achievers Academy Location"></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-grid">
+            <div>
+                <div style="display:flex;align-items:center;gap:10px;margin-bottom:14px;">
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231a1a3e'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-size='36' font-weight='bold' fill='%23ff6b2b'%3EAA%3C/text%3E%3C/svg%3E" alt="Logo" width="44" height="44" style="border-radius:8px;">
+                    <strong style="color:#fff;font-family:var(--font-primary);font-size:1.1rem;">Achievers <span style="color:var(--accent);">Academy</span></strong>
+                </div>
+                <p style="color:#9aa0b4;font-size:0.85rem;line-height:1.6;">Pioneer institute for competitive exam coaching in Bikaner. 5000+ students trained, 200+ SSC selections.</p>
+            </div>
+            <div>
+                <h5>Quick Links</h5>
+                <a href="#home">Home</a><a href="#about">About</a><a href="#courses">Courses</a><a href="#results">Results</a><a href="#contact">Contact</a>
+            </div>
+            <div>
+                <h5>Courses</h5>
+                <a href="#courses">SSC</a><a href="#courses">RPSC</a><a href="#courses">Banking</a><a href="#courses">Defence</a><a href="#courses">CTET / REET</a>
+            </div>
+            <div>
+                <h5>Contact</h5>
+                <p style="color:#9aa0b4;font-size:0.85rem;margin-bottom:6px;">📞 09521495454</p>
+                <p style="color:#9aa0b4;font-size:0.85rem;margin-bottom:6px;">📍 4-D-35, JNV Murti Circle, Bikaner</p>
+                <p style="color:#9aa0b4;font-size:0.85rem;margin-bottom:12px;">⭐ 4.5 ★ (238 Reviews)</p>
+                <div class="footer-social">
+                    <a href="https://youtube.com/@achieversacademy5454?si=ejgcT7aUBD1lcZM6" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
+                    <a href="https://facebook.com/achievers91academy" target="_blank" rel="noopener"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://t.me/achieversacademy5454" target="_blank" rel="noopener"><i class="fab fa-telegram-plane"></i></a>
+                    <a href="https://instagram.com/achievers_academy_bkn" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            &copy; 2026 Achievers Academy, Bikaner. All rights reserved. | Designed with ❤️ for student success.
+        </div>
+    </footer>
+
+    <!-- Floating Buttons -->
+    <div class="float-btns">
+        <a href="https://wa.me/919521495454" target="_blank" rel="noopener" class="float-btn float-whatsapp" aria-label="WhatsApp Chat"><i class="fab fa-whatsapp"></i></a>
+        <a href="tel:09521495454" class="float-btn float-call" aria-label="Call Now"><i class="fas fa-phone-alt"></i></a>
+        <button class="float-btn float-top" id="backToTop" aria-label="Back to Top"><i class="fas fa-chevron-up"></i></button>
+    </div>
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "EducationalOrganization",
+            "name": "Achievers Academy",
+            "description": "Pioneer coaching institute for SSC, RPSC, RSMSSB, Banking, CET, Defence, CTET, REET, GATE, UGC NET & Civil Services in Bikaner.",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "4-D-35, JNV Murti Circle, Sector 2, Jay Narayan Vyas Colony",
+                "addressLocality": "Bikaner",
+                "addressRegion": "Rajasthan",
+                "postalCode": "334003",
+                "addressCountry": "IN"
+            },
+            "telephone": "09521495454",
+            "openingHours": "Mo-Su 00:00-23:59",
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.5",
+                "reviewCount": "238"
+            }
+        }
+    </script>
+
+    <script>
+        (function() {
+            // Loader
+            const loader = document.getElementById('loader');
+            window.addEventListener('load', () => {
+                setTimeout(() => {
+                    loader.classList.add('hidden');
+                }, 600);
+            });
+
+            // Header scroll effect
+            const header = document.getElementById('header');
+            let lastScroll = 0;
+            window.addEventListener('scroll', () => {
+                const currentScroll = window.pageYOffset;
+                if (currentScroll > 60) {
+                    header.classList.add('scrolled');
+                } else {
+                    header.classList.remove('scrolled');
+                }
+                lastScroll = currentScroll;
+            });
+
+            // Mobile Navigation
+            const hamburger = document.getElementById('hamburger');
+            const mobileNav = document.getElementById('mobileNav');
+            const mobileOverlay = document.getElementById('mobileOverlay');
+            const body = document.body;
+
+            function openMobileNav() {
+                hamburger.classList.add('active');
+                mobileNav.classList.add('active');
+                mobileOverlay.classList.add('active');
+                body.style.overflow = 'hidden';
+            }
+
+            function closeMobileNav() {
+                hamburger.classList.remove('active');
+                mobileNav.classList.remove('active');
+                mobileOverlay.classList.remove('active');
+                body.style.overflow = '';
+            }
+            hamburger.addEventListener('click', () => {
+                if (mobileNav.classList.contains('active')) {
+                    closeMobileNav();
+                } else {
+                    openMobileNav();
+                }
+            });
+            mobileOverlay.addEventListener('click', closeMobileNav);
+            mobileNav.querySelectorAll('a').forEach(link => {
+                link.addEventListener('click', closeMobileNav);
+            });
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape') closeMobileNav();
+            });
+
+            // Back to Top
+            const backToTop = document.getElementById('backToTop');
+            backToTop.style.opacity = '0';
+            backToTop.style.visibility = 'hidden';
+            backToTop.style.transition = 'opacity 0.3s ease, visibility 0.3s ease';
+            window.addEventListener('scroll', () => {
+                if (window.pageYOffset > 500) {
+                    backToTop.style.opacity = '1';
+                    backToTop.style.visibility = 'visible';
+                } else {
+                    backToTop.style.opacity = '0';
+                    backToTop.style.visibility = 'hidden';
+                }
+            });
+            backToTop.addEventListener('click', () => {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+
+            // FAQ Accordion
+            const faqItems = document.querySelectorAll('.faq-item');
+            faqItems.forEach(item => {
+                const question = item.querySelector('.faq-question');
+                question.addEventListener('click', () => {
+                    const isActive = item.classList.contains('active');
+                    faqItems.forEach(i => i.classList.remove('active'));
+                    if (!isActive) {
+                        item.classList.add('active');
+                    }
+                });
+            });
+            // Open first FAQ by default
+            if (faqItems.length > 0) faqItems[0].classList.add('active');
+
+            // Scroll Reveal
+            const revealElements = document.querySelectorAll('.reveal');
+            const revealObserver = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('visible');
+                        revealObserver.unobserve(entry.target);
+                    }
+                });
+            }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
+            revealElements.forEach(el => revealObserver.observe(el));
+
+            // Counter Animation
+            const counterElements = document.querySelectorAll('.counter-num[data-target]');
+            let countersAnimated = false;
+            const counterObserver = new IntersectionObserver((entries) => {
+                if (entries[0].isIntersecting && !countersAnimated) {
+                    countersAnimated = true;
+                    counterElements.forEach(counter => {
+                        const target = parseFloat(counter.getAttribute('data-target'));
+                        const isDecimal = target % 1 !== 0;
+                        const duration = 2000;
+                        const startTime = performance.now();
+                        const startVal = 0;
+
+                        function updateCounter(currentTime) {
+                            const elapsed = currentTime - startTime;
+                            const progress = Math.min(elapsed / duration, 1);
+                            const eased = 1 - Math.pow(1 - progress, 3);
+                            const current = startVal + (target - startVal) * eased;
+                            counter.textContent = isDecimal ? current.toFixed(1) : Math.floor(
+                                current);
+                            if (progress < 1) {
+                                requestAnimationFrame(updateCounter);
+                            } else {
+                                counter.textContent = isDecimal ? target.toFixed(1) : target;
+                                if (target === 200) counter.textContent = '200+';
+                                if (target === 5000) counter.textContent = '5000+';
+                                if (target === 4.5) counter.textContent = '4.5★';
+                                if (target === 24) counter.textContent = '24×7';
+                            }
+                        }
+                        requestAnimationFrame(updateCounter);
+                    });
+                }
+            }, { threshold: 0.5 });
+            if (counterElements.length > 0) {
+                counterObserver.observe(counterElements[0].closest('.counters-section') || counterElements[
+                    0]);
+            }
+
+            // Smooth scroll for nav links
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function(e) {
+                    const href = this.getAttribute('href');
+                    if (href === '#') return;
+                    const target = document.querySelector(href);
+                    if (target) {
+                        e.preventDefault();
+                        const headerHeight = header.offsetHeight;
+                        const targetPosition = target.getBoundingClientRect().top + window
+                            .pageYOffset - headerHeight - 10;
+                        window.scrollTo({ top: targetPosition, behavior: 'smooth' });
+                    }
+                });
+            });
+
+            // Active nav link on scroll
+            const sections = document.querySelectorAll('section[id]');
+            const navLinksAll = document.querySelectorAll('.nav-links a, .mobile-nav a');
+            window.addEventListener('scroll', () => {
+                let current = '';
+                sections.forEach(section => {
+                    const sectionTop = section.offsetTop - 120;
+                    if (window.pageYOffset >= sectionTop) {
+                        current = section.getAttribute('id');
+                    }
+                });
+                navLinksAll.forEach(link => {
+                    link.classList.remove('active');
+                    if (link.getAttribute('href') === '#' + current) {
+                        link.classList.add('active');
+                    }
+                });
+            });
+
+            // Parallax effect for hero
+            const heroBg = document.querySelector('.hero-bg');
+            if (heroBg && heroBg.tagName === 'IMG') {
+                window.addEventListener('scroll', () => {
+                    const scrollY = window.pageYOffset;
+                    if (scrollY < window.innerHeight) {
+                        heroBg.style.transform = 'translateY(' + scrollY * 0.35 + 'px) scale(1.05)';
+                        heroBg.style.transition = 'transform 0.1s linear';
+                    }
+                });
+            }
+
+            console.log('%c🚀 Achievers Academy Website Ready %c| %cBikaner, Rajasthan',
+                'color:#ff6b2b;font-size:16px;font-weight:bold;',
+                '',
+                'color:#f0c040;');
+            console.log('%c⭐ 200+ SSC Selections | 5000+ Students Trained | 4.5★ Rating',
+                'color:#fff;font-size:12px;');
+        })();
+    </script>
+</body>
+</html>
+```
