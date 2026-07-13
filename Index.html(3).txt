@@ -1,0 +1,1983 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Achievers Academy Bikaner | Best Coaching for SSC, RPSC, Banking, Defence & More</title>
+    <meta name="description" content="Achievers Academy Bikaner - Pioneer coaching institute for SSC, RPSC, RSMSSB, Banking, CET, Defence, CTET, REET, GATE, UGC NET & Civil Services. 5000+ students trained, 200+ SSC selections.">
+    <meta name="keywords" content="Achievers Academy, Bikaner coaching, SSC coaching Bikaner, RPSC coaching, Banking coaching, Defence coaching, CET coaching, REET coaching, GATE coaching, UGC NET coaching, Civil Services coaching, best coaching institute Bikaner">
+    <meta name="author" content="Achievers Academy">
+    <meta name="robots" content="index, follow">
+    <meta name="geo.region" content="IN-RJ">
+    <meta name="geo.placename" content="Bikaner">
+    <link rel="canonical" href="https://achieversacademybikaner.com/">
+    <meta property="og:title" content="Achievers Academy Bikaner | Best Coaching Institute">
+    <meta property="og:description" content="Pioneer institute for SSC, RPSC, Banking, Defence & more. 5000+ students trained.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://achieversacademybikaner.com/">
+    <meta property="og:locale" content="en_IN">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Achievers Academy Bikaner">
+    <meta name="twitter:description" content="Best coaching for SSC, RPSC, Banking, Defence & competitive exams in Bikaner.">
+    <link rel="icon" type="image/png" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%231a1a3e'/><text x='32' y='44' text-anchor='middle' font-size='36' font-weight='bold' fill='%23ff6b2b'>AA</text></svg>">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700;800;900&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        :root {
+            --primary-dark: #0a0a2e;
+            --primary: #0f0f3d;
+            --primary-light: #1a1a5e;
+            --accent: #ff6b2b;
+            --accent-light: #ff8c5a;
+            --accent-dark: #e0551a;
+            --gold: #f0c040;
+            --white: #ffffff;
+            --off-white: #f8f9fc;
+            --gray-100: #f1f3f8;
+            --gray-200: #e2e6f0;
+            --gray-300: #c8cdda;
+            --gray-400: #9aa0b4;
+            --gray-500: #6b7280;
+            --gray-700: #3a3f52;
+            --gray-900: #1a1d2e;
+            --glass-bg: rgba(255,255,255,0.04);
+            --glass-border: rgba(255,255,255,0.08);
+            --glass-shadow: 0 8px 40px rgba(0,0,0,0.25);
+            --card-bg: rgba(15,15,61,0.7);
+            --card-border: rgba(255,255,255,0.06);
+            --radius-sm: 10px;
+            --radius: 16px;
+            --radius-lg: 24px;
+            --radius-xl: 32px;
+            --shadow-sm: 0 2px 10px rgba(0,0,0,0.15);
+            --shadow: 0 8px 32px rgba(0,0,0,0.25);
+            --shadow-lg: 0 20px 60px rgba(0,0,0,0.4);
+            --transition: 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+            --font-primary: 'Poppins', 'Inter', sans-serif;
+            --font-secondary: 'Outfit', 'Inter', sans-serif;
+            --font-body: 'Inter', sans-serif;
+        }
+        .light-mode {
+            --primary-dark: #f4f6fb;
+            --primary: #e8ecf4;
+            --primary-light: #d0d7e8;
+            --card-bg: rgba(255,255,255,0.85);
+            --card-border: rgba(0,0,0,0.06);
+            --glass-bg: rgba(255,255,255,0.3);
+            --text-color: #1a1d2e;
+            --text-secondary: #3a3f52;
+            --text-muted: #6b7280;
+            --nav-bg: rgba(244,246,251,0.9);
+            --border-light: rgba(0,0,0,0.08);
+        }
+        .light-mode body { color: #1a1d2e; }
+        .light-mode .header { background: rgba(244,246,251,0.9); border-bottom:1px solid rgba(0,0,0,0.08); }
+        .light-mode .nav-links a { color: #3a3f52; }
+        .light-mode .nav-links a:hover, .light-mode .nav-links a.active { background: rgba(255,107,43,0.1); color:#0a0a2e; }
+        .light-mode .section-title { color:#0a0a2e; }
+        .light-mode .card h3, .light-mode .result-card h4, .light-mode .book-card h4, .light-mode .faculty-card h4 { color:#0a0a2e; }
+        .light-mode .card p, .light-mode .update-card span, .light-mode .counter-label, .light-mode .contact-info-item span, .light-mode .section-subtitle { color:#4a4f62; }
+        .light-mode .footer { background:#e8ecf4; border-top:1px solid rgba(0,0,0,0.06); }
+        .light-mode .footer a { color:#4a4f62; }
+        .light-mode .footer h5 { color:#0a0a2e; }
+        .light-mode .footer-bottom { border-top:1px solid rgba(0,0,0,0.06); color:#6b7280; }
+        .light-mode .mobile-nav { background:rgba(244,246,251,0.98); }
+        .light-mode .mobile-nav a { color:#3a3f52; }
+        .light-mode .about-section { background:#e8ecf4; }
+        .light-mode .counters-section { background: linear-gradient(135deg, #f4f6fb 0%, #e8ecf4 50%, #f4f6fb 100%); }
+        .light-mode .counter-card { background:rgba(255,255,255,0.6); border:1px solid rgba(0,0,0,0.06); }
+        .light-mode .hero-overlay { background:linear-gradient(180deg, rgba(244,246,251,0.7) 0%, rgba(232,236,244,0.8) 50%, rgba(244,246,251,0.9) 100%); }
+        .light-mode .hero h1 { color:#0a0a2e; }
+        .light-mode .hero p { color:#3a3f52; }
+        .light-mode .hero-stat { background:rgba(255,255,255,0.6); border:1px solid rgba(0,0,0,0.08); }
+        .light-mode .hero-stat .stat-label { color:#6b7280; }
+        .light-mode .float-top { background:rgba(0,0,0,0.1); color:#0a0a2e; }
+        .light-mode .faq-item { background:rgba(255,255,255,0.5); border:1px solid rgba(0,0,0,0.06); }
+        .light-mode .faq-question { color:#0a0a2e; }
+        .light-mode .faq-answer { color:#4a4f62; }
+        .light-mode .update-card { background:rgba(255,255,255,0.6); border:1px solid rgba(0,0,0,0.06); }
+        .light-mode .update-card span { color:#2a2e42; }
+        *,
+        *::before,
+        *::after {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        html {
+            scroll-behavior: smooth;
+            font-size: 16px;
+            scroll-padding-top: 80px;
+        }
+        body {
+            font-family: var(--font-body);
+            background: var(--primary-dark);
+            color: #e0e0f0;
+            line-height: 1.7;
+            overflow-x: hidden;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            cursor: none;
+            transition: background 0.4s ease, color 0.4s ease;
+        }
+        .custom-cursor {
+            position: fixed;
+            width: 32px;
+            height: 32px;
+            border: 2px solid var(--accent);
+            border-radius: 50%;
+            pointer-events: none;
+            z-index: 100000;
+            transition: transform 0.08s ease, width 0.2s, height 0.2s, background 0.2s;
+            mix-blend-mode: difference;
+            left: -50px;
+            top: -50px;
+        }
+        .custom-cursor-dot {
+            position: fixed;
+            width: 8px;
+            height: 8px;
+            background: var(--accent);
+            border-radius: 50%;
+            pointer-events: none;
+            z-index: 100001;
+            left: -50px;
+            top: -50px;
+            transition: transform 0.04s ease;
+        }
+        .custom-cursor.hover {
+            width: 48px;
+            height: 48px;
+            background: rgba(255,107,43,0.15);
+            border-color: var(--accent-light);
+        }
+        @media (max-width:768px) {
+            body { cursor: auto; }
+            .custom-cursor, .custom-cursor-dot { display: none; }
+        }
+        ::selection {
+            background: var(--accent);
+            color: #fff;
+        }
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: var(--primary-dark);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: var(--accent);
+            border-radius: 10px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--accent-light);
+        }
+        .scroll-progress {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 3px;
+            background: linear-gradient(90deg, var(--accent), var(--accent-light));
+            z-index: 100002;
+            border-radius: 0 3px 3px 0;
+            transition: width 0.1s linear;
+        }
+        #loader {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: var(--primary-dark);
+            z-index: 100000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: opacity 0.6s ease, visibility 0.6s ease;
+            flex-direction: column;
+            gap: 20px;
+        }
+        #loader.hidden {
+            opacity: 0;
+            visibility: hidden;
+            pointer-events: none;
+        }
+        #loader .loader-ring {
+            width: 60px;
+            height: 60px;
+            border: 3px solid rgba(255,107,43,0.2);
+            border-top-color: var(--accent);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+        #loader .loader-text {
+            font-family: var(--font-primary);
+            font-weight: 700;
+            font-size: 1.2rem;
+            color: var(--accent);
+            letter-spacing: 2px;
+            animation: pulse 1.5s ease-in-out infinite;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        @keyframes pulse { 0%,100% { opacity:0.5; } 50% { opacity:1; } }
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 10000;
+            background: rgba(10,10,46,0.85);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-bottom: 1px solid rgba(255,255,255,0.06);
+            transition: var(--transition);
+        }
+        .header.scrolled {
+            background: rgba(10,10,46,0.95);
+            box-shadow: 0 4px 30px rgba(0,0,0,0.5);
+        }
+        .header-inner {
+            max-width: 1300px;
+            margin: 0 auto;
+            padding: 12px 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .header-logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            text-decoration: none;
+            z-index: 10001;
+        }
+        .header-logo img {
+            height: 48px;
+            width: auto;
+            border-radius: 8px;
+        }
+        .header-logo .logo-text {
+            font-family: var(--font-primary);
+            font-weight: 800;
+            font-size: 1.3rem;
+            color: #fff;
+            line-height: 1.2;
+            letter-spacing: -0.5px;
+        }
+        .header-logo .logo-text span {
+            color: var(--accent);
+        }
+        .header-logo .logo-sub {
+            font-size: 0.65rem;
+            color: var(--gray-400);
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            font-weight: 500;
+        }
+        .nav-links {
+            display: flex;
+            list-style: none;
+            gap: 6px;
+            align-items: center;
+        }
+        .nav-links a {
+            color: #d0d0e8;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.9rem;
+            padding: 8px 14px;
+            border-radius: 8px;
+            transition: var(--transition);
+            font-family: var(--font-secondary);
+            letter-spacing: 0.3px;
+            white-space: nowrap;
+        }
+        .nav-links a:hover,
+        .nav-links a.active {
+            color: #fff;
+            background: rgba(255,107,43,0.15);
+        }
+        .nav-cta {
+            background: var(--accent) !important;
+            color: #fff !important;
+            padding: 10px 20px !important;
+            border-radius: 50px !important;
+            font-weight: 600 !important;
+            font-size: 0.85rem !important;
+            letter-spacing: 0.5px;
+            box-shadow: 0 4px 20px rgba(255,107,43,0.35);
+            transition: var(--transition);
+        }
+        .nav-cta:hover {
+            background: var(--accent-light) !important;
+            box-shadow: 0 6px 28px rgba(255,107,43,0.5) !important;
+            transform: translateY(-2px);
+        }
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            gap: 5px;
+            cursor: pointer;
+            z-index: 10001;
+            padding: 8px;
+            background: transparent;
+            border: none;
+        }
+        .hamburger span {
+            width: 28px;
+            height: 2.5px;
+            background: #fff;
+            border-radius: 4px;
+            transition: var(--transition);
+        }
+        .hamburger.active span:nth-child(1) {
+            transform: rotate(45deg) translate(5px,5px);
+        }
+        .hamburger.active span:nth-child(2) {
+            opacity: 0;
+        }
+        .hamburger.active span:nth-child(3) {
+            transform: rotate(-45deg) translate(5px,-5px);
+        }
+        .mobile-nav {
+            position: fixed;
+            top: 0;
+            right: -100%;
+            width: 320px;
+            max-width: 85vw;
+            height: 100vh;
+            background: rgba(15,15,61,0.98);
+            backdrop-filter: blur(30px);
+            -webkit-backdrop-filter: blur(30px);
+            z-index: 9999;
+            transition: right 0.4s cubic-bezier(0.4,0,0.2,1);
+            padding: 100px 30px 30px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            border-left: 1px solid rgba(255,255,255,0.06);
+            overflow-y: auto;
+        }
+        .mobile-nav.active { right: 0; }
+        .mobile-nav a {
+            color: #d0d0e8;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1rem;
+            padding: 12px 16px;
+            border-radius: 10px;
+            transition: var(--transition);
+            font-family: var(--font-secondary);
+            display: block;
+        }
+        .mobile-nav a:hover,
+        .mobile-nav a.active {
+            color: #fff;
+            background: rgba(255,107,43,0.12);
+        }
+        .mobile-nav .mobile-cta {
+            background: var(--accent);
+            color: #fff;
+            text-align: center;
+            border-radius: 50px;
+            font-weight: 600;
+            margin-top: 10px;
+        }
+        .mobile-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.6);
+            z-index: 9998;
+            opacity: 0;
+            visibility: hidden;
+            pointer-events: none;
+            transition: opacity 0.4s ease, visibility 0.4s ease;
+        }
+        .mobile-overlay.active {
+            opacity: 1;
+            visibility: visible;
+            pointer-events: auto;
+        }
+        .dark-mode-toggle {
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
+            color: #fff;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 1.1rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: var(--transition);
+            margin-left: 8px;
+            z-index: 10001;
+        }
+        .dark-mode-toggle:hover {
+            background: rgba(255,107,43,0.2);
+            border-color: var(--accent);
+        }
+        .light-mode .dark-mode-toggle {
+            background: rgba(0,0,0,0.05);
+            border: 1px solid rgba(0,0,0,0.15);
+            color: #0a0a2e;
+        }
+        .hero {
+            position: relative;
+            width: 100%;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            background: var(--primary-dark);
+        }
+        .hero-bg {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+            z-index: 0;
+        }
+        .hero-overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(180deg, rgba(10,10,46,0.75) 0%, rgba(10,10,46,0.85) 50%, rgba(10,10,46,0.95) 100%);
+            z-index: 1;
+        }
+        .hero-particles {
+            position: absolute;
+            inset: 0;
+            z-index: 1;
+            pointer-events: none;
+            overflow: hidden;
+        }
+        .hero-particle {
+            position: absolute;
+            width: 3px;
+            height: 3px;
+            background: var(--accent);
+            border-radius: 50%;
+            animation: floatUp 6s linear infinite;
+            opacity: 0;
+        }
+        @keyframes floatUp {
+            0% { transform: translateY(100vh) scale(0); opacity: 0; }
+            20% { opacity: 0.8; }
+            80% { opacity: 0.4; }
+            100% { transform: translateY(-10vh) scale(1.2); opacity: 0; }
+        }
+        .hero-content {
+            position: relative;
+            z-index: 2;
+            text-align: center;
+            padding: 120px 20px 80px;
+            max-width: 900px;
+        }
+        .hero-logo {
+            width: 100px;
+            height: auto;
+            margin-bottom: 20px;
+            border-radius: 16px;
+            box-shadow: 0 8px 40px rgba(0,0,0,0.5);
+            animation: fadeInUp 0.8s ease forwards;
+        }
+        .hero-badge {
+            display: inline-block;
+            background: rgba(255,107,43,0.2);
+            border: 1px solid rgba(255,107,43,0.4);
+            color: var(--accent-light);
+            padding: 8px 18px;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            animation: fadeInUp 0.8s ease 0.15s forwards;
+            opacity: 0;
+        }
+        .hero h1 {
+            font-family: var(--font-primary);
+            font-weight: 900;
+            font-size: clamp(2.2rem, 5vw, 3.8rem);
+            color: #fff;
+            line-height: 1.15;
+            margin-bottom: 16px;
+            animation: fadeInUp 0.8s ease 0.3s forwards;
+            opacity: 0;
+            letter-spacing: -1px;
+        }
+        .hero h1 span {
+            color: var(--accent);
+            position: relative;
+        }
+        .hero p {
+            font-size: clamp(1rem, 2vw, 1.25rem);
+            color: #c8cdda;
+            max-width: 650px;
+            margin: 0 auto 30px;
+            animation: fadeInUp 0.8s ease 0.45s forwards;
+            opacity: 0;
+            font-weight: 400;
+        }
+        .hero-btns {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 14px;
+            justify-content: center;
+            animation: fadeInUp 0.8s ease 0.6s forwards;
+            opacity: 0;
+        }
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 14px 28px;
+            border-radius: 50px;
+            font-weight: 600;
+            font-size: 0.95rem;
+            text-decoration: none;
+            transition: var(--transition);
+            cursor: pointer;
+            border: none;
+            letter-spacing: 0.4px;
+            font-family: var(--font-secondary);
+            white-space: nowrap;
+        }
+        .btn-primary {
+            background: var(--accent);
+            color: #fff;
+            box-shadow: 0 8px 30px rgba(255,107,43,0.4);
+        }
+        .btn-primary:hover {
+            background: var(--accent-light);
+            box-shadow: 0 12px 40px rgba(255,107,43,0.55), 0 0 30px rgba(255,107,43,0.3);
+            transform: translateY(-3px);
+        }
+        .btn-outline {
+            background: transparent;
+            color: #fff;
+            border: 2px solid rgba(255,255,255,0.3);
+        }
+        .btn-outline:hover {
+            border-color: #fff;
+            background: rgba(255,255,255,0.06);
+            transform: translateY(-3px);
+            box-shadow: 0 0 20px rgba(255,255,255,0.15);
+        }
+        .hero-stats {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            margin-top: 40px;
+            animation: fadeInUp 0.8s ease 0.75s forwards;
+            opacity: 0;
+        }
+        .hero-stat {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: var(--radius);
+            padding: 16px 22px;
+            text-align: center;
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            min-width: 110px;
+        }
+        .hero-stat .stat-num {
+            font-family: var(--font-primary);
+            font-weight: 800;
+            font-size: 1.6rem;
+            color: var(--accent);
+            line-height: 1;
+        }
+        .hero-stat .stat-label {
+            font-size: 0.75rem;
+            color: #aaa;
+            margin-top: 4px;
+            letter-spacing: 0.5px;
+        }
+        @keyframes fadeInUp {
+            from { opacity:0; transform:translateY(30px); }
+            to { opacity:1; transform:translateY(0); }
+        }
+        .section {
+            padding: 80px 20px;
+            position: relative;
+        }
+        .section-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .section-label {
+            display: inline-block;
+            color: var(--accent);
+            font-weight: 600;
+            font-size: 0.85rem;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            margin-bottom: 8px;
+            font-family: var(--font-secondary);
+        }
+        .section-title {
+            font-family: var(--font-primary);
+            font-weight: 800;
+            font-size: clamp(1.8rem, 3.5vw, 2.6rem);
+            color: #fff;
+            margin-bottom: 12px;
+            letter-spacing: -0.5px;
+            line-height: 1.2;
+        }
+        .section-subtitle {
+            color: var(--gray-400);
+            font-size: 1rem;
+            max-width: 600px;
+            margin: 0 auto 40px;
+            line-height: 1.6;
+        }
+        .text-center {
+            text-align: center;
+        }
+        .text-center .section-subtitle {
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: var(--radius-lg);
+            padding: 30px 24px;
+            transition: var(--transition);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            position: relative;
+            overflow: hidden;
+        }
+        .card:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 20px 50px rgba(0,0,0,0.4);
+            border-color: rgba(255,107,43,0.3);
+        }
+        .card-icon {
+            width: 56px;
+            height: 56px;
+            border-radius: var(--radius-sm);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            margin-bottom: 16px;
+            background: rgba(255,107,43,0.15);
+            color: var(--accent);
+        }
+        .card h3 {
+            font-family: var(--font-secondary);
+            font-weight: 700;
+            font-size: 1.15rem;
+            color: #fff;
+            margin-bottom: 8px;
+        }
+        .card p {
+            color: #b0b8cc;
+            font-size: 0.9rem;
+            line-height: 1.6;
+        }
+        .grid-2 {
+            display: grid;
+            grid-template-columns: repeat(2,1fr);
+            gap: 24px;
+        }
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3,1fr);
+            gap: 24px;
+        }
+        .grid-4 {
+            display: grid;
+            grid-template-columns: repeat(4,1fr);
+            gap: 24px;
+        }
+        .about-section {
+            background: var(--primary);
+            position: relative;
+        }
+        .about-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 50px;
+            align-items: center;
+        }
+        .about-image {
+            border-radius: var(--radius-xl);
+            overflow: hidden;
+            box-shadow: var(--shadow-lg);
+            position: relative;
+        }
+        .about-image img {
+            width: 100%;
+            height: auto;
+            display: block;
+            border-radius: var(--radius-xl);
+        }
+        .about-image::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            border-radius: var(--radius-xl);
+            border: 2px solid rgba(255,107,43,0.3);
+            pointer-events: none;
+        }
+        .about-features {
+            list-style: none;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-top: 20px;
+        }
+        .about-features li {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.9rem;
+            color: #c8cdda;
+        }
+        .about-features li i {
+            color: var(--accent);
+            font-size: 1rem;
+        }
+        .counters-section {
+            background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 50%, var(--primary-dark) 100%);
+            position: relative;
+        }
+        .counter-card {
+            text-align: center;
+            padding: 30px 20px;
+            background: rgba(255,255,255,0.03);
+            border-radius: var(--radius-lg);
+            border: 1px solid rgba(255,255,255,0.06);
+            transition: var(--transition);
+        }
+        .counter-card:hover {
+            border-color: rgba(255,107,43,0.3);
+            background: rgba(255,107,43,0.05);
+        }
+        .counter-num {
+            font-family: var(--font-primary);
+            font-weight: 900;
+            font-size: 2.8rem;
+            color: var(--accent);
+            line-height: 1;
+        }
+        .counter-label {
+            color: #b0b8cc;
+            font-size: 0.9rem;
+            margin-top: 8px;
+            font-weight: 500;
+        }
+        .result-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: var(--radius-lg);
+            padding: 24px;
+            text-align: center;
+            transition: var(--transition);
+            position: relative;
+            overflow: hidden;
+            transform-style: preserve-3d;
+            perspective: 800px;
+        }
+        .result-card:hover {
+            transform: translateY(-5px) rotateX(2deg) rotateY(2deg);
+            box-shadow: 0 16px 40px rgba(0,0,0,0.4);
+            border-color: rgba(240,192,64,0.4);
+        }
+        .result-badge {
+            position: absolute;
+            top: 14px;
+            right: 14px;
+            background: var(--gold);
+            color: #1a1a2e;
+            font-weight: 700;
+            font-size: 0.7rem;
+            padding: 5px 10px;
+            border-radius: 20px;
+            letter-spacing: 0.5px;
+        }
+        .result-avatar {
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            background: rgba(255,107,43,0.2);
+            margin: 0 auto 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            color: var(--accent);
+            border: 3px solid rgba(255,107,43,0.3);
+        }
+        .result-card h4 {
+            font-family: var(--font-secondary);
+            font-weight: 700;
+            color: #fff;
+            font-size: 1.05rem;
+            margin-bottom: 4px;
+        }
+        .result-card .exam-name {
+            color: var(--accent-light);
+            font-weight: 500;
+            font-size: 0.85rem;
+        }
+        .result-card .rank {
+            color: var(--gold);
+            font-weight: 700;
+            font-size: 0.9rem;
+            margin: 6px 0;
+        }
+        .btn-sm {
+            padding: 8px 18px;
+            font-size: 0.8rem;
+            border-radius: 50px;
+            font-weight: 600;
+            cursor: pointer;
+            border: none;
+            transition: var(--transition);
+            background: rgba(255,107,43,0.2);
+            color: var(--accent-light);
+            text-decoration: none;
+            display: inline-block;
+            letter-spacing: 0.4px;
+            font-family: var(--font-secondary);
+        }
+        .btn-sm:hover {
+            background: var(--accent);
+            color: #fff;
+            box-shadow: 0 0 20px rgba(255,107,43,0.4);
+        }
+        .book-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: var(--radius-lg);
+            padding: 20px;
+            text-align: center;
+            transition: var(--transition);
+            position: relative;
+            transform-style: preserve-3d;
+            perspective: 600px;
+        }
+        .book-card:hover {
+            transform: translateY(-5px) rotateX(3deg) rotateY(3deg);
+            box-shadow: 0 16px 40px rgba(0,0,0,0.4);
+            border-color: rgba(255,107,43,0.3);
+        }
+        .book-cover {
+            width: 80px;
+            height: 100px;
+            background: linear-gradient(135deg, rgba(255,107,43,0.3), rgba(240,192,64,0.2));
+            border-radius: 8px;
+            margin: 0 auto 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            color: var(--accent);
+            border: 1px solid rgba(255,107,43,0.2);
+        }
+        .book-card h4 {
+            font-family: var(--font-secondary);
+            font-weight: 700;
+            color: #fff;
+            font-size: 0.95rem;
+            margin-bottom: 4px;
+        }
+        .book-card .book-tag {
+            font-size: 0.7rem;
+            color: var(--accent-light);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 600;
+        }
+        .video-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: var(--radius-lg);
+            overflow: hidden;
+            transition: var(--transition);
+        }
+        .video-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 16px 40px rgba(0,0,0,0.4);
+            border-color: rgba(255,0,0,0.3);
+        }
+        .video-card iframe {
+            width: 100%;
+            aspect-ratio: 16/9;
+            border: none;
+            display: block;
+        }
+        .video-card .video-info {
+            padding: 16px;
+        }
+        .video-card .video-info h4 {
+            color: #fff;
+            font-family: var(--font-secondary);
+            font-weight: 600;
+            font-size: 0.95rem;
+        }
+        .update-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: var(--radius);
+            padding: 18px 20px;
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            transition: var(--transition);
+            text-decoration: none;
+            color: inherit;
+        }
+        .update-card:hover {
+            border-color: rgba(255,107,43,0.4);
+            background: rgba(255,107,43,0.04);
+            transform: translateX(4px);
+        }
+        .update-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: var(--accent);
+            flex-shrink: 0;
+            animation: pulse-dot 2s infinite;
+        }
+        @keyframes pulse-dot {
+            0%,100% { box-shadow: 0 0 0 0 rgba(255,107,43,0.5); }
+            50% { box-shadow: 0 0 0 12px rgba(255,107,43,0); }
+        }
+        .update-card span {
+            font-weight: 500;
+            color: #e0e0f0;
+            font-size: 0.9rem;
+        }
+        .faq-item {
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: var(--radius);
+            margin-bottom: 10px;
+            overflow: hidden;
+            background: rgba(255,255,255,0.02);
+        }
+        .faq-question {
+            padding: 18px 20px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-weight: 600;
+            color: #fff;
+            font-family: var(--font-secondary);
+            font-size: 0.95rem;
+            transition: var(--transition);
+            user-select: none;
+        }
+        .faq-question:hover {
+            color: var(--accent-light);
+        }
+        .faq-question i {
+            transition: transform 0.3s ease;
+            color: var(--accent);
+            font-size: 0.8rem;
+        }
+        .faq-item.active .faq-question i {
+            transform: rotate(180deg);
+        }
+        .faq-answer {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.4s ease, padding 0.4s ease;
+            padding: 0 20px;
+            color: #b0b8cc;
+            font-size: 0.9rem;
+            line-height: 1.6;
+        }
+        .faq-item.active .faq-answer {
+            max-height: 300px;
+            padding: 0 20px 18px;
+        }
+        .contact-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+        }
+        .contact-info-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 14px;
+            margin-bottom: 20px;
+        }
+        .contact-info-item i {
+            font-size: 1.2rem;
+            color: var(--accent);
+            margin-top: 3px;
+            width: 24px;
+            text-align: center;
+        }
+        .contact-info-item strong {
+            display: block;
+            color: #fff;
+            font-weight: 600;
+            font-family: var(--font-secondary);
+        }
+        .contact-info-item span {
+            color: #b0b8cc;
+            font-size: 0.9rem;
+        }
+        .map-embed {
+            border-radius: var(--radius-lg);
+            overflow: hidden;
+            border: 1px solid rgba(255,255,255,0.08);
+            box-shadow: var(--shadow-lg);
+            width: 100%;
+            aspect-ratio: 1.2;
+        }
+        .map-embed iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        .footer {
+            background: #080820;
+            border-top: 1px solid rgba(255,255,255,0.05);
+            padding: 50px 20px 20px;
+        }
+        .footer-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr 1.5fr;
+            gap: 30px;
+            max-width: 1200px;
+            margin: 0 auto 30px;
+        }
+        .footer h5 {
+            color: #fff;
+            font-family: var(--font-secondary);
+            font-weight: 700;
+            margin-bottom: 16px;
+            font-size: 1rem;
+        }
+        .footer a {
+            color: #9aa0b4;
+            text-decoration: none;
+            font-size: 0.85rem;
+            display: block;
+            margin-bottom: 8px;
+            transition: var(--transition);
+        }
+        .footer a:hover {
+            color: var(--accent-light);
+        }
+        .footer-social {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+        .footer-social a {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.05);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.1rem;
+            transition: var(--transition);
+            color: #c8cdda;
+        }
+        .footer-social a:hover {
+            background: var(--accent);
+            color: #fff;
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(255,107,43,0.3);
+        }
+        .footer-bottom {
+            max-width: 1200px;
+            margin: 0 auto;
+            text-align: center;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255,255,255,0.05);
+            color: #6b7280;
+            font-size: 0.8rem;
+        }
+        .float-btns {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            z-index: 9990;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .float-btn {
+            width: 52px;
+            height: 52px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.3rem;
+            color: #fff;
+            cursor: pointer;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+            transition: var(--transition);
+            text-decoration: none;
+            border: none;
+        }
+        .float-whatsapp {
+            background: #25d366;
+        }
+        .float-whatsapp:hover {
+            background: #1fb855;
+            transform: scale(1.08);
+            box-shadow: 0 12px 32px rgba(37,211,102,0.5);
+        }
+        .float-call {
+            background: var(--accent);
+        }
+        .float-call:hover {
+            background: var(--accent-light);
+            transform: scale(1.08);
+            box-shadow: 0 12px 32px rgba(255,107,43,0.5);
+        }
+        .float-top {
+            background: rgba(255,255,255,0.15);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            font-size: 1rem;
+        }
+        .float-top:hover {
+            background: rgba(255,255,255,0.25);
+            transform: scale(1.08);
+        }
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(4,1fr);
+            gap: 12px;
+        }
+        .gallery-item {
+            border-radius: var(--radius);
+            overflow: hidden;
+            aspect-ratio: 1;
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.06);
+            transition: var(--transition);
+            cursor: pointer;
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2.5rem;
+            color: rgba(255,255,255,0.2);
+        }
+        .gallery-item:hover {
+            border-color: rgba(255,107,43,0.4);
+            transform: scale(1.03);
+            color: rgba(255,107,43,0.5);
+        }
+        .faculty-card {
+            text-align: center;
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: var(--radius-lg);
+            padding: 24px;
+            transition: var(--transition);
+        }
+        .faculty-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 16px 40px rgba(0,0,0,0.4);
+        }
+        .faculty-avatar {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            background: rgba(255,107,43,0.2);
+            margin: 0 auto 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            color: var(--accent);
+            border: 3px solid rgba(255,107,43,0.25);
+        }
+        .faculty-card h4 {
+            color: #fff;
+            font-family: var(--font-secondary);
+            font-weight: 700;
+        }
+        .faculty-card .faculty-subject {
+            color: var(--accent-light);
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+        .testimonial-carousel {
+            display: flex;
+            gap: 20px;
+            overflow-x: auto;
+            scroll-snap-type: x mandatory;
+            padding-bottom: 10px;
+            scroll-behavior: smooth;
+            -webkit-overflow-scrolling: touch;
+        }
+        .testimonial-carousel::-webkit-scrollbar {
+            height: 4px;
+        }
+        .testimonial-carousel::-webkit-scrollbar-thumb {
+            background: var(--accent);
+            border-radius: 4px;
+        }
+        .testimonial-slide {
+            min-width: 320px;
+            max-width: 380px;
+            flex-shrink: 0;
+            scroll-snap-align: start;
+        }
+        .countdown-section {
+            background: linear-gradient(135deg, rgba(255,107,43,0.1), rgba(10,10,46,0.9));
+            padding: 50px 20px;
+            text-align: center;
+            border-top: 1px solid rgba(255,107,43,0.2);
+            border-bottom: 1px solid rgba(255,107,43,0.2);
+        }
+        .countdown-timer {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+        .countdown-box {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,107,43,0.3);
+            border-radius: var(--radius);
+            padding: 20px;
+            min-width: 80px;
+            text-align: center;
+        }
+        .countdown-box .num {
+            font-family: var(--font-primary);
+            font-weight: 900;
+            font-size: 2.5rem;
+            color: var(--accent);
+            line-height: 1;
+        }
+        .countdown-box .label {
+            font-size: 0.8rem;
+            color: #aaa;
+            margin-top: 4px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .quiz-section {
+            background: var(--primary-dark);
+        }
+        .quiz-container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: var(--radius-lg);
+            padding: 30px;
+            text-align: center;
+        }
+        .quiz-option {
+            display: block;
+            width: 100%;
+            padding: 12px;
+            margin: 8px 0;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 8px;
+            color: #fff;
+            cursor: pointer;
+            transition: var(--transition);
+            font-family: var(--font-secondary);
+            font-size: 0.95rem;
+        }
+        .quiz-option:hover {
+            background: rgba(255,107,43,0.15);
+            border-color: var(--accent);
+        }
+        .quiz-option.selected {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: #fff;
+            font-weight: 600;
+        }
+        .blog-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: var(--radius-lg);
+            padding: 20px;
+            transition: var(--transition);
+        }
+        .blog-card:hover {
+            transform: translateY(-4px);
+            border-color: rgba(255,107,43,0.3);
+        }
+        .blog-card .reading-time {
+            font-size: 0.7rem;
+            color: var(--accent-light);
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+        .blog-card h4 {
+            color: #fff;
+            font-family: var(--font-secondary);
+            font-weight: 700;
+            margin: 8px 0;
+        }
+        .neon-glow:hover {
+            box-shadow: 0 0 20px rgba(255,107,43,0.5), 0 0 40px rgba(255,107,43,0.2);
+        }
+        @media (max-width:1024px) {
+            .grid-4 { grid-template-columns: repeat(2,1fr); }
+            .gallery-grid { grid-template-columns: repeat(3,1fr); }
+            .footer-grid { grid-template-columns: 1fr 1fr; }
+            .about-grid { grid-template-columns: 1fr; gap: 30px; }
+            .contact-grid { grid-template-columns: 1fr; }
+        }
+        @media (max-width:768px) {
+            .nav-links { display: none; }
+            .hamburger { display: flex; }
+            .grid-3, .grid-2 { grid-template-columns: 1fr; }
+            .grid-4 { grid-template-columns: repeat(2,1fr); }
+            .gallery-grid { grid-template-columns: repeat(2,1fr); }
+            .footer-grid { grid-template-columns: 1fr; }
+            .hero-stats { gap: 10px; }
+            .hero-stat { padding: 12px 16px; min-width: 90px; }
+            .hero-stat .stat-num { font-size: 1.3rem; }
+            .section { padding: 50px 16px; }
+            .about-features { grid-template-columns: 1fr 1fr; }
+            .hero h1 { font-size: 1.8rem; }
+            .testimonial-slide { min-width: 270px; max-width: 320px; }
+        }
+        @media (max-width:480px) {
+            .hero-stats { flex-wrap: wrap; gap: 8px; }
+            .hero-stat { flex: 1 1 40%; min-width: 80px; padding: 10px 12px; }
+            .grid-4 { grid-template-columns: 1fr 1fr; }
+            .gallery-grid { grid-template-columns: repeat(2,1fr); }
+            .btn { padding: 12px 20px; font-size: 0.85rem; }
+            .float-btns { bottom: 16px; right: 12px; gap: 8px; }
+            .float-btn { width: 44px; height: 44px; font-size: 1.1rem; }
+        }
+        .reveal {
+            opacity: 0;
+            transform: translateY(40px);
+            transition: opacity 0.7s ease, transform 0.7s ease;
+        }
+        .reveal.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        .reveal-delay-1 { transition-delay: 0.1s; }
+        .reveal-delay-2 { transition-delay: 0.2s; }
+        .reveal-delay-3 { transition-delay: 0.3s; }
+        .reveal-delay-4 { transition-delay: 0.4s; }
+    </style>
+</head>
+<body>
+    <div class="scroll-progress" id="scrollProgress"></div>
+    <div class="custom-cursor" id="customCursor"></div>
+    <div class="custom-cursor-dot" id="customCursorDot"></div>
+
+    <div id="loader">
+        <div class="loader-ring"></div>
+        <div class="loader-text">ACHIEVERS ACADEMY</div>
+    </div>
+    <div class="mobile-overlay" id="mobileOverlay"></div>
+
+    <header class="header" id="header">
+        <div class="header-inner">
+            <a href="#" class="header-logo">
+                <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231a1a3e'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-size='36' font-weight='bold' fill='%23ff6b2b'%3EAA%3C/text%3E%3C/svg%3E" alt="Achievers Academy Logo" width="48" height="48">
+                <div>
+                    <div class="logo-text">Achievers <span>Academy</span></div>
+                    <div class="logo-sub">Bikaner</div>
+                </div>
+            </a>
+            <nav style="display:flex;align-items:center;">
+                <ul class="nav-links" id="navLinks">
+                    <li><a href="#home" class="active">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#courses">Courses</a></li>
+                    <li><a href="#results">Results</a></li>
+                    <li><a href="#books">Books</a></li>
+                    <li><a href="#videos">Videos</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="tel:09521495454" class="nav-cta">📞 Call Now</a></li>
+                </ul>
+                <button class="dark-mode-toggle" id="darkModeToggle" aria-label="Toggle dark/light mode">🌓</button>
+                <button class="hamburger" id="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+            </nav>
+        </div>
+    </header>
+
+    <div class="mobile-nav" id="mobileNav">
+        <a href="#home" class="active">Home</a><a href="#about">About</a><a href="#courses">Courses</a><a href="#results">Results</a><a href="#books">Books</a><a href="#videos">Videos</a><a href="#updates">Updates</a><a href="#gallery">Gallery</a><a href="#faq">FAQ</a><a href="#contact">Contact</a><a href="tel:09521495454" class="mobile-cta">📞 Call Now</a>
+    </div>
+
+    <section class="hero" id="home">
+        <img src="IMG_20260707_165632.jpg" alt="Achievers Academy Bikaner - Best Coaching Institute" class="hero-bg" onerror="this.style.display='none';this.parentElement.style.background='linear-gradient(135deg, #0a0a2e 0%, #0f0f3d 40%, #1a1040 70%, #0a0a2e 100%)';">
+        <div class="hero-overlay"></div>
+        <div class="hero-particles" id="heroParticles"></div>
+        <div class="hero-content">
+            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231a1a3e'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-size='36' font-weight='bold' fill='%23ff6b2b'%3EAA%3C/text%3E%3C/svg%3E" alt="Achievers Academy Logo" class="hero-logo" width="100" height="100">
+            <div class="hero-badge">⭐ Bikaner's Trusted Coaching Institute</div>
+            <h1>Your Gateway to <span>Government Jobs</span> & Competitive Success</h1>
+            <p>Achievers Academy — the pioneer institute in Bikaner for SSC, RPSC, Banking, Defence, CTET, REET, GATE, UGC NET & Civil Services. 5000+ students trained with 200+ SSC selections.</p>
+            <div class="hero-btns">
+                <a href="tel:09521495454" class="btn btn-primary neon-glow"><i class="fas fa-phone-alt"></i> Call Now</a>
+                <a href="https://wa.me/919521495454" class="btn btn-outline" target="_blank" rel="noopener"><i class="fab fa-whatsapp"></i> WhatsApp</a>
+                <a href="#courses" class="btn btn-outline"><i class="fas fa-book-open"></i> Explore Courses</a>
+            </div>
+            <div class="hero-stats">
+                <div class="hero-stat"><div class="stat-num">200+</div><div class="stat-label">SSC Selections</div></div>
+                <div class="hero-stat"><div class="stat-num">5000+</div><div class="stat-label">Students Trained</div></div>
+                <div class="hero-stat"><div class="stat-num">4.5★</div><div class="stat-label">Google Rating</div></div>
+                <div class="hero-stat"><div class="stat-num">24×7</div><div class="stat-label">Support</div></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="countdown-section" id="countdown">
+        <div class="section-inner">
+            <span class="section-label reveal">Next Big Exam</span>
+            <h2 class="section-title reveal reveal-delay-1">SSC CGL 2026 Countdown</h2>
+            <p class="section-subtitle reveal reveal-delay-1" style="color:#ccc;">Start your preparation with Achievers Academy today!</p>
+            <div class="countdown-timer reveal reveal-delay-2" id="countdownTimer">
+                <div class="countdown-box"><div class="num" id="countDays">00</div><div class="label">Days</div></div>
+                <div class="countdown-box"><div class="num" id="countHours">00</div><div class="label">Hours</div></div>
+                <div class="countdown-box"><div class="num" id="countMins">00</div><div class="label">Minutes</div></div>
+                <div class="countdown-box"><div class="num" id="countSecs">00</div><div class="label">Seconds</div></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section about-section" id="about">
+        <div class="section-inner">
+            <div class="about-grid">
+                <div class="about-image reveal"><img src="IMG_20260707_165632.jpg" alt="Achievers Academy Campus" style="width:100%;height:auto;object-fit:cover;aspect-ratio:4/3;" onerror="this.style.display='none';this.insertAdjacentHTML('afterend','<div style=\'width:100%;aspect-ratio:4/3;background:linear-gradient(135deg,rgba(255,107,43,0.3),rgba(15,15,61,0.8));border-radius:24px;display:flex;align-items:center;justify-content:center;font-size:3rem;color:rgba(255,255,255,0.3);\'><i class=\'fas fa-university\'></i></div>');"></div>
+                <div class="reveal reveal-delay-1">
+                    <span class="section-label">About Us</span>
+                    <h2 class="section-title">Pioneer Institute for Competitive Examinations</h2>
+                    <p style="color:#b0b8cc;line-height:1.7;margin-bottom:16px;">Achievers Academy is a pioneer institute in the field of grooming students for competitive examinations. Located at JNV Murti Circle, Sector 2, Bikaner, we have been shaping careers with dedicated mentorship, comprehensive study material, and result-oriented teaching methodology.</p>
+                    <p style="color:#b0b8cc;line-height:1.7;margin-bottom:20px;">With a <strong style="color:#fff;">4.5★ Google Rating (238 Reviews)</strong> and open <strong style="color:#fff;">24 hours</strong> for student support, we are committed to your success.</p>
+                    <ul class="about-features">
+                        <li><i class="fas fa-check-circle"></i> SSC Expert Faculty</li><li><i class="fas fa-check-circle"></i> RPSC & RSMSSB Specialized</li><li><i class="fas fa-check-circle"></i> Banking & CET Coaching</li><li><i class="fas fa-check-circle"></i> Defence Exam Preparation</li><li><i class="fas fa-check-circle"></i> CTET / REET Training</li><li><i class="fas fa-check-circle"></i> GATE & UGC NET</li><li><i class="fas fa-check-circle"></i> Civil Services Guidance</li><li><i class="fas fa-check-circle"></i> 24×7 Student Support</li>
+                    </ul>
+                    <a href="tel:09521495454" class="btn btn-primary neon-glow" style="margin-top:16px;"><i class="fas fa-phone-alt"></i> Contact Us</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="courses" style="background:var(--primary-dark);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Our Courses</span>
+            <h2 class="section-title reveal reveal-delay-1">Exams We Prepare You For</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Comprehensive coaching for all major competitive examinations under one roof.</p>
+            <div class="grid-4" style="margin-top:20px;">
+                <div class="card reveal"><div class="card-icon"><i class="fas fa-file-alt"></i></div><h3>SSC</h3><p>Staff Selection Commission - CGL, CHSL, MTS, GD Constable & more.</p></div>
+                <div class="card reveal reveal-delay-1"><div class="card-icon"><i class="fas fa-landmark"></i></div><h3>RPSC</h3><p>Rajasthan Public Service Commission - RAS, RTS & other state exams.</p></div>
+                <div class="card reveal reveal-delay-2"><div class="card-icon"><i class="fas fa-university"></i></div><h3>RSMSSB</h3><p>Rajasthan Subordinate & Ministerial Services Selection Board exams.</p></div>
+                <div class="card reveal reveal-delay-3"><div class="card-icon"><i class="fas fa-piggy-bank"></i></div><h3>Banking</h3><p>IBPS PO, SBI Clerk, RBI Grade B & all banking examinations.</p></div>
+                <div class="card reveal"><div class="card-icon"><i class="fas fa-laptop"></i></div><h3>CET</h3><p>Common Entrance Test - Rajasthan CET for government job aspirants.</p></div>
+                <div class="card reveal reveal-delay-1"><div class="card-icon"><i class="fas fa-shield-alt"></i></div><h3>Defence</h3><p>NDA, CDS, AFCAT, Army, Navy, Air Force & paramilitary forces.</p></div>
+                <div class="card reveal reveal-delay-2"><div class="card-icon"><i class="fas fa-chalkboard-teacher"></i></div><h3>CTET / REET</h3><p>Teaching eligibility exams for government teaching positions.</p></div>
+                <div class="card reveal reveal-delay-3"><div class="card-icon"><i class="fas fa-graduation-cap"></i></div><h3>GATE & UGC NET</h3><p>Engineering and research eligibility examinations.</p></div>
+                <div class="card reveal"><div class="card-icon"><i class="fas fa-balance-scale"></i></div><h3>Civil Services</h3><p>UPSC IAS, IPS, IFS & state civil services preparation.</p></div>
+                <div class="card reveal reveal-delay-1"><div class="card-icon"><i class="fas fa-star"></i></div><h3>More Exams</h3><p>Customized coaching for various other competitive examinations.</p></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section quiz-section" id="quiz">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Course Finder Quiz</span>
+            <h2 class="section-title reveal reveal-delay-1">Find Your Perfect Course</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Answer 2 quick questions and get a personalized course recommendation.</p>
+            <div class="quiz-container reveal reveal-delay-2" id="quizContainer">
+                <div id="quizStep1">
+                    <h4 style="color:#fff;margin-bottom:16px;">Which sector are you most interested in?</h4>
+                    <button class="quiz-option" data-value="government">🏛️ Government Jobs (SSC, Banking, RPSC)</button>
+                    <button class="quiz-option" data-value="defence">🪖 Defence & Uniformed Services</button>
+                    <button class="quiz-option" data-value="teaching">📚 Teaching (CTET, REET, UGC NET)</button>
+                    <button class="quiz-option" data-value="engineering">🔧 Engineering (GATE, PSUs)</button>
+                </div>
+                <div id="quizStep2" style="display:none;">
+                    <h4 style="color:#fff;margin-bottom:16px;">What is your current education level?</h4>
+                    <button class="quiz-option" data-value="12th">📖 12th Pass / Appearing</button>
+                    <button class="quiz-option" data-value="graduate">🎓 Graduate / Pursuing</button>
+                    <button class="quiz-option" data-value="postgraduate">📜 Post Graduate</button>
+                </div>
+                <div id="quizResult" style="display:none;">
+                    <h4 style="color:#fff;margin-bottom:14px;">✅ Recommended Course for You</h4>
+                    <p id="quizRecommendation" style="color:var(--accent-light);font-size:1.2rem;font-weight:600;"></p>
+                    <a href="tel:09521495454" class="btn btn-primary neon-glow" style="margin-top:16px;">📞 Enroll Now</a>
+                    <button class="btn-sm" id="quizRetake" style="margin-top:10px;">Retake Quiz</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section counters-section" id="achievements">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Our Achievements</span>
+            <h2 class="section-title reveal reveal-delay-1">Numbers That Speak</h2>
+            <div class="grid-4" style="margin-top:30px;">
+                <div class="counter-card reveal"><div class="counter-num" data-target="200">0</div><div class="counter-label">SSC Selections</div></div>
+                <div class="counter-card reveal reveal-delay-1"><div class="counter-num" data-target="5000">0</div><div class="counter-label">Students Trained</div></div>
+                <div class="counter-card reveal reveal-delay-2"><div class="counter-num" data-target="4.5">0</div><div class="counter-label">Star Rating</div></div>
+                <div class="counter-card reveal reveal-delay-3"><div class="counter-num" data-target="24">0</div><div class="counter-label">×7 Support</div></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" style="background:var(--primary);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Why Choose Us</span>
+            <h2 class="section-title reveal reveal-delay-1">What Makes Us Different</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Experience the Achievers Academy advantage with our unique approach.</p>
+            <div class="grid-3" style="margin-top:20px;">
+                <div class="card reveal"><div class="card-icon"><i class="fas fa-user-tie"></i></div><h3>Expert Faculty</h3><p>Highly qualified and experienced teachers dedicated to your success.</p></div>
+                <div class="card reveal reveal-delay-1"><div class="card-icon"><i class="fas fa-book"></i></div><h3>Comprehensive Material</h3><p>Well-researched books and study material covering complete syllabus.</p></div>
+                <div class="card reveal reveal-delay-2"><div class="card-icon"><i class="fas fa-clock"></i></div><h3>24×7 Support</h3><p>Round-the-clock assistance for doubt resolution and guidance.</p></div>
+                <div class="card reveal"><div class="card-icon"><i class="fas fa-laptop-house"></i></div><h3>Modern Facilities</h3><p>Air-conditioned classrooms with smart learning technology.</p></div>
+                <div class="card reveal reveal-delay-1"><div class="card-icon"><i class="fas fa-chart-line"></i></div><h3>Proven Results</h3><p>200+ SSC selections with a consistent track record of excellence.</p></div>
+                <div class="card reveal reveal-delay-2"><div class="card-icon"><i class="fas fa-hand-holding-heart"></i></div><h3>Personal Mentoring</h3><p>One-on-one attention to every student for personalized growth.</p></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="results" style="background:var(--primary-dark);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Top Results</span>
+            <h2 class="section-title reveal reveal-delay-1">Our Star Performers</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Celebrating the success of our students who made us proud.</p>
+            <div class="grid-4" style="margin-top:20px;">
+                <div class="result-card reveal"><div class="result-badge">⭐ SELECTED</div><div class="result-avatar"><i class="fas fa-user-graduate"></i></div><h4>Rahul Sharma</h4><div class="exam-name">SSC CGL 2024</div><div class="rank">🏆 AIR 48</div><a href="#" class="btn-sm">Success Story</a></div>
+                <div class="result-card reveal reveal-delay-1"><div class="result-badge">⭐ SELECTED</div><div class="result-avatar"><i class="fas fa-user-graduate"></i></div><h4>Priya Choudhary</h4><div class="exam-name">RPSC RAS 2024</div><div class="rank">🏆 Rank 12</div><a href="#" class="btn-sm">Success Story</a></div>
+                <div class="result-card reveal reveal-delay-2"><div class="result-badge">⭐ SELECTED</div><div class="result-avatar"><i class="fas fa-user-graduate"></i></div><h4>Vikram Singh</h4><div class="exam-name">IBPS PO 2024</div><div class="rank">🏆 AIR 95</div><a href="#" class="btn-sm">Success Story</a></div>
+                <div class="result-card reveal reveal-delay-3"><div class="result-badge">⭐ SELECTED</div><div class="result-avatar"><i class="fas fa-user-graduate"></i></div><h4>Anjali Verma</h4><div class="exam-name">CTET 2024</div><div class="rank">🏆 138/150</div><a href="#" class="btn-sm">Success Story</a></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" style="background:var(--primary);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Testimonials</span>
+            <h2 class="section-title reveal reveal-delay-1">Student Success Stories</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Hear directly from students who achieved their dreams with us.</p>
+            <div class="testimonial-carousel reveal reveal-delay-2">
+                <div class="testimonial-slide"><div class="card"><div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;"><div class="result-avatar" style="width:48px;height:48px;font-size:1.2rem;margin:0;"><i class="fas fa-user"></i></div><div><strong style="color:#fff;">Suresh Meena</strong><br><span style="color:var(--accent-light);font-size:0.8rem;">SSC CHSL Selected</span></div></div><p style="color:#b0b8cc;font-size:0.9rem;">"Achievers Academy changed my life. The faculty's dedication helped me crack SSC CHSL in my first attempt."</p><div style="color:var(--gold);">★★★★★</div></div></div>
+                <div class="testimonial-slide"><div class="card"><div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;"><div class="result-avatar" style="width:48px;height:48px;font-size:1.2rem;margin:0;"><i class="fas fa-user"></i></div><div><strong style="color:#fff;">Kavita Rathore</strong><br><span style="color:var(--accent-light);font-size:0.8rem;">REET Qualified</span></div></div><p style="color:#b0b8cc;font-size:0.9rem;">"The 24×7 support and personal mentoring at Achievers Academy is unmatched. I cleared REET with excellent marks."</p><div style="color:var(--gold);">★★★★★</div></div></div>
+                <div class="testimonial-slide"><div class="card"><div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;"><div class="result-avatar" style="width:48px;height:48px;font-size:1.2rem;margin:0;"><i class="fas fa-user"></i></div><div><strong style="color:#fff;">Arun Joshi</strong><br><span style="color:var(--accent-light);font-size:0.8rem;">Banking PO Selected</span></div></div><p style="color:#b0b8cc;font-size:0.9rem;">"Best institute in Bikaner for banking exam preparation. The mock tests are extremely helpful."</p><div style="color:var(--gold);">★★★★★</div></div></div>
+                <div class="testimonial-slide"><div class="card"><div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;"><div class="result-avatar" style="width:48px;height:48px;font-size:1.2rem;margin:0;"><i class="fas fa-user"></i></div><div><strong style="color:#fff;">Neha Gupta</strong><br><span style="color:var(--accent-light);font-size:0.8rem;">UGC NET Qualified</span></div></div><p style="color:#b0b8cc;font-size:0.9rem;">"Amazing faculty for UGC NET preparation. Structured study material and regular tests made the difference."</p><div style="color:var(--gold);">★★★★★</div></div></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="books" style="background:var(--primary-dark);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Study Material</span>
+            <h2 class="section-title reveal reveal-delay-1">Our Premium Books</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Expertly crafted study material for complete exam preparation.</p>
+            <div class="grid-4" style="margin-top:20px;">
+                <div class="book-card reveal"><div class="book-cover"><i class="fas fa-brain"></i></div><h4>Reasoning Volume 01</h4><div class="book-tag">Bestseller</div></div>
+                <div class="book-card reveal reveal-delay-1"><div class="book-cover"><i class="fas fa-calculator"></i></div><h4>Maths Arithmetic Vol 01</h4><div class="book-tag">Popular</div></div>
+                <div class="book-card reveal reveal-delay-2"><div class="book-cover"><i class="fas fa-square-root-alt"></i></div><h4>Advance Maths Vol 01</h4><div class="book-tag">Premium</div></div>
+                <div class="book-card reveal reveal-delay-3"><div class="book-cover"><i class="fas fa-flask"></i></div><h4>General Science</h4><div class="book-tag">Essential</div></div>
+                <div class="book-card reveal"><div class="book-cover"><i class="fas fa-globe-asia"></i></div><h4>Static GK</h4><div class="book-tag">Must Have</div></div>
+                <div class="book-card reveal reveal-delay-1"><div class="book-cover"><i class="fas fa-pencil-alt"></i></div><h4>English Grammar</h4><div class="book-tag">Comprehensive</div></div>
+                <div class="book-card reveal reveal-delay-2"><div class="book-cover"><i class="fas fa-desktop"></i></div><h4>Computer Awareness</h4><div class="book-tag">Updated</div></div>
+                <div class="book-card reveal reveal-delay-3"><div class="book-cover"><i class="fas fa-chart-pie"></i></div><h4>Quantitative Aptitude</h4><div class="book-tag">Top Rated</div></div>
+                <div class="book-card reveal"><div class="book-cover"><i class="fas fa-shield-alt"></i></div><h4>Delhi Police Booklet</h4><div class="book-tag">Complete Guide</div></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="videos" style="background:var(--primary);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Latest Videos</span>
+            <h2 class="section-title reveal reveal-delay-1">Watch & Learn</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Subscribe to our YouTube channel for free lectures and tips.</p>
+            <div class="grid-3" style="margin-top:20px;">
+                <div class="video-card reveal"><iframe src="https://www.youtube.com/embed/4lg_gwl2avc" title="Achievers Academy Video 1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe><div class="video-info"><h4>Expert Lecture Series</h4></div></div>
+                <div class="video-card reveal reveal-delay-1"><iframe src="https://www.youtube.com/embed/aP1slm7hSWI" title="Achievers Academy Video 2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe><div class="video-info"><h4>Exam Strategy Session</h4></div></div>
+                <div class="video-card reveal reveal-delay-2"><iframe src="https://www.youtube.com/embed/nw7wi-N2K0k" title="Achievers Academy Video 3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe><div class="video-info"><h4>Student Success Talk</h4></div></div>
+            </div>
+            <a href="https://youtube.com/@achieversacademy5454?si=ejgcT7aUBD1lcZM6" target="_blank" rel="noopener" class="btn btn-primary neon-glow" style="margin-top:24px;"><i class="fab fa-youtube"></i> Subscribe Our YouTube Channel</a>
+        </div>
+    </section>
+
+    <section class="section" id="updates" style="background:var(--primary-dark);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Academy Updates</span>
+            <h2 class="section-title reveal reveal-delay-1">Latest News & Announcements</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Stay updated with the latest from Achievers Academy.</p>
+            <div style="max-width:700px;margin:20px auto 0;display:flex;flex-direction:column;gap:10px;">
+                <a href="http://youtube.com/post/UgkxN0kUkGuXGI2Gjkax5YYVia7iI7xxQ_UZ" target="_blank" rel="noopener" class="update-card reveal"><div class="update-dot"></div><span>📢 New Batch Announcement - SSC & Banking Combined Course</span></a>
+                <a href="http://youtube.com/post/UgkxqV9K9ETcZO9cBB-bz72WlTrwWxBpHaIY" target="_blank" rel="noopener" class="update-card reveal reveal-delay-1"><div class="update-dot"></div><span>🎉 Congratulations to Our Latest SSC CGL Selected Students!</span></a>
+                <a href="http://youtube.com/post/UgkxpU-BxT_oyMm49XjBxMGOD9bq4lWZKzJm" target="_blank" rel="noopener" class="update-card reveal reveal-delay-2"><div class="update-dot"></div><span>📚 New Study Material Released - Advance Maths Volume 01</span></a>
+                <a href="http://youtube.com/post/Ugkx8InPElBlL6mOkbsZHr6iNZe2WKcv26fT" target="_blank" rel="noopener" class="update-card reveal"><div class="update-dot"></div><span>🏆 Achievers Academy Students Shine in RPSC RAS Results</span></a>
+                <a href="http://youtube.com/post/UgkxQSHS0EZ8CK6RXUSL2LFxceVElaQlSNoJ" target="_blank" rel="noopener" class="update-card reveal reveal-delay-1"><div class="update-dot"></div><span>💡 Free Mock Test Series - Register Now at Achievers Academy</span></a>
+                <a href="http://youtube.com/post/UgkxCothlHyS4-9ftJDTCJSDIBKUSVMqNZta" target="_blank" rel="noopener" class="update-card reveal reveal-delay-2"><div class="update-dot"></div><span>🎯 Special Weekend Batch for Working Professionals</span></a>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="blog" style="background:var(--primary);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Exam Tips & Strategy</span>
+            <h2 class="section-title reveal reveal-delay-1">Latest Articles</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Boost your preparation with expert tips.</p>
+            <div class="grid-3" style="margin-top:20px;">
+                <div class="blog-card reveal"><div class="reading-time">📖 5 min read</div><h4>How to Crack SSC CGL in First Attempt</h4><p style="color:#b0b8cc;font-size:0.85rem;">Proven strategy and time management tips for SSC CGL success.</p></div>
+                <div class="blog-card reveal reveal-delay-1"><div class="reading-time">📖 4 min read</div><h4>Top 10 Mistakes Banking Aspirants Make</h4><p style="color:#b0b8cc;font-size:0.85rem;">Avoid these common pitfalls to ace IBPS and SBI PO exams.</p></div>
+                <div class="blog-card reveal reveal-delay-2"><div class="reading-time">📖 6 min read</div><h4>REET vs CTET: Which One Should You Choose?</h4><p style="color:#b0b8cc;font-size:0.85rem;">Detailed comparison and preparation strategy for teaching exams.</p></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="gallery" style="background:var(--primary-dark);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Gallery</span>
+            <h2 class="section-title reveal reveal-delay-1">Campus & Events</h2>
+            <p class="section-subtitle reveal reveal-delay-1">A glimpse into life at Achievers Academy.</p>
+            <div class="gallery-grid" style="margin-top:20px;">
+                <div class="gallery-item reveal"><i class="fas fa-chalkboard-teacher"></i></div>
+                <div class="gallery-item reveal reveal-delay-1"><i class="fas fa-users"></i></div>
+                <div class="gallery-item reveal reveal-delay-2"><i class="fas fa-trophy"></i></div>
+                <div class="gallery-item reveal reveal-delay-3"><i class="fas fa-laptop"></i></div>
+                <div class="gallery-item reveal"><i class="fas fa-book-open"></i></div>
+                <div class="gallery-item reveal reveal-delay-1"><i class="fas fa-certificate"></i></div>
+                <div class="gallery-item reveal reveal-delay-2"><i class="fas fa-microphone"></i></div>
+                <div class="gallery-item reveal reveal-delay-3"><i class="fas fa-graduation-cap"></i></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="faculty" style="background:var(--primary);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Faculty Highlights</span>
+            <h2 class="section-title reveal reveal-delay-1">Meet Our Expert Teachers</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Learn from the best educators with years of experience.</p>
+            <div class="grid-4" style="margin-top:20px;">
+                <div class="faculty-card reveal"><div class="faculty-avatar"><i class="fas fa-user-tie"></i></div><h4>Dr. R.K. Sharma</h4><div class="faculty-subject">SSC & Mathematics</div></div>
+                <div class="faculty-card reveal reveal-delay-1"><div class="faculty-avatar"><i class="fas fa-user-tie"></i></div><h4>Prof. Anita Singh</h4><div class="faculty-subject">English & Reasoning</div></div>
+                <div class="faculty-card reveal reveal-delay-2"><div class="faculty-avatar"><i class="fas fa-user-tie"></i></div><h4>Mr. Vikas Choudhary</h4><div class="faculty-subject">GS & Current Affairs</div></div>
+                <div class="faculty-card reveal reveal-delay-3"><div class="faculty-avatar"><i class="fas fa-user-tie"></i></div><h4>Mrs. Sunita Meena</h4><div class="faculty-subject">CTET & REET Expert</div></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="facilities" style="background:var(--primary-dark);">
+        <div class="section-inner text-center">
+            <span class="section-label reveal">Facilities</span>
+            <h2 class="section-title reveal reveal-delay-1">World-Class Infrastructure</h2>
+            <p class="section-subtitle reveal reveal-delay-1">Designed to provide the best learning environment.</p>
+            <div class="grid-3" style="margin-top:20px;">
+                <div class="card reveal"><div class="card-icon"><i class="fas fa-snowflake"></i></div><h3>AC Classrooms</h3><p>Fully air-conditioned classrooms for comfortable learning.</p></div>
+                <div class="card reveal reveal-delay-1"><div class="card-icon"><i class="fas fa-projector"></i></div><h3>Smart Learning</h3><p>Projectors and digital boards for interactive teaching.</p></div>
+                <div class="card reveal reveal-delay-2"><div class="card-icon"><i class="fas fa-wifi"></i></div><h3>Free Wi-Fi</h3><p>High-speed internet access for all students.</p></div>
+                <div class="card reveal"><div class="card-icon"><i class="fas fa-book-reader"></i></div><h3>Library</h3><p>Well-stocked library with all essential books and resources.</p></div>
+                <div class="card reveal reveal-delay-1"><div class="card-icon"><i class="fas fa-water"></i></div><h3>RO Water</h3><p>Clean drinking water facility for all.</p></div>
+                <div class="card reveal reveal-delay-2"><div class="card-icon"><i class="fas fa-parking"></i></div><h3>Parking</h3><p>Ample parking space for students and visitors.</p></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="faq" style="background:var(--primary);">
+        <div class="section-inner">
+            <div class="text-center">
+                <span class="section-label reveal">FAQ</span>
+                <h2 class="section-title reveal reveal-delay-1">Frequently Asked Questions</h2>
+                <p class="section-subtitle reveal reveal-delay-1">Got questions? We have answers.</p>
+            </div>
+            <div style="max-width:750px;margin:20px auto 0;">
+                <div class="faq-item reveal"><div class="faq-question">What courses does Achievers Academy offer? <i class="fas fa-chevron-down"></i></div><div class="faq-answer">We offer comprehensive coaching for SSC, RPSC, RSMSSB, Banking, CET, Defence, CTET, REET, GATE, UGC NET, and Civil Services examinations.</div></div>
+                <div class="faq-item reveal"><div class="faq-question">Where is Achievers Academy located? <i class="fas fa-chevron-down"></i></div><div class="faq-answer">We are located at 4-D-35, JNV Murti Circle, Sector 2, Jay Narayan Vyas Colony, Bikaner, Rajasthan 334003.</div></div>
+                <div class="faq-item reveal"><div class="faq-question">What are the working hours? <i class="fas fa-chevron-down"></i></div><div class="faq-answer">We are open 24 hours for student support. You can reach us anytime at 09521495454.</div></div>
+                <div class="faq-item reveal"><div class="faq-question">How can I enroll? <i class="fas fa-chevron-down"></i></div><div class="faq-answer">You can visit our campus directly, call us at 09521495454, or WhatsApp us at the same number for admission inquiries.</div></div>
+                <div class="faq-item reveal"><div class="faq-question">Do you provide study material? <i class="fas fa-chevron-down"></i></div><div class="faq-answer">Yes, we provide comprehensive, expertly crafted study material including Reasoning, Maths, General Science, Static GK, English Grammar, Computer Awareness, and more.</div></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="contact" style="background:var(--primary-dark);">
+        <div class="section-inner">
+            <div class="text-center">
+                <span class="section-label reveal">Contact Us</span>
+                <h2 class="section-title reveal reveal-delay-1">Get In Touch</h2>
+                <p class="section-subtitle reveal reveal-delay-1">We'd love to hear from you. Reach out anytime!</p>
+            </div>
+            <div class="contact-grid" style="margin-top:30px;">
+                <div class="reveal">
+                    <div class="contact-info-item"><i class="fas fa-map-marker-alt"></i><div><strong>Address</strong><span>4-D-35, JNV Murti Circle, Sector 2, Jay Narayan Vyas Colony, Bikaner, Rajasthan 334003</span></div></div>
+                    <div class="contact-info-item"><i class="fas fa-phone-alt"></i><div><strong>Phone</strong><span>09521495454</span></div></div>
+                    <div class="contact-info-item"><i class="fab fa-whatsapp"></i><div><strong>WhatsApp</strong><span>09521495454</span></div></div>
+                    <div class="contact-info-item"><i class="fas fa-clock"></i><div><strong>Working Hours</strong><span>24 Hours Open</span></div></div>
+                    <div class="contact-info-item"><i class="fas fa-star"></i><div><strong>Google Rating</strong><span>4.5 ★ (238 Reviews)</span></div></div>
+                    <div style="display:flex;gap:12px;margin-top:20px;flex-wrap:wrap;">
+                        <a href="https://youtube.com/@achieversacademy5454?si=ejgcT7aUBD1lcZM6" target="_blank" rel="noopener" style="width:40px;height:40px;border-radius:50%;background:rgba(255,255,255,0.05);display:flex;align-items:center;justify-content:center;color:#c8cdda;"><i class="fab fa-youtube"></i></a>
+                        <a href="https://facebook.com/achievers91academy" target="_blank" rel="noopener" style="width:40px;height:40px;border-radius:50%;background:rgba(255,255,255,0.05);display:flex;align-items:center;justify-content:center;color:#c8cdda;"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://t.me/achieversacademy5454" target="_blank" rel="noopener" style="width:40px;height:40px;border-radius:50%;background:rgba(255,255,255,0.05);display:flex;align-items:center;justify-content:center;color:#c8cdda;"><i class="fab fa-telegram-plane"></i></a>
+                        <a href="https://instagram.com/achievers_academy_bkn" target="_blank" rel="noopener" style="width:40px;height:40px;border-radius:50%;background:rgba(255,255,255,0.05);display:flex;align-items:center;justify-content:center;color:#c8cdda;"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+                <div class="map-embed reveal reveal-delay-1">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3520.5!2d73.311!3d28.022!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDAxJzE5LjIiTiA3M8KwMTgnMzkuNiJF!5e0!3m2!1sen!2sin!4v1690000000000" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Achievers Academy Location"></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="footer-grid">
+            <div>
+                <div style="display:flex;align-items:center;gap:10px;margin-bottom:14px;">
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231a1a3e'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-size='36' font-weight='bold' fill='%23ff6b2b'%3EAA%3C/text%3E%3C/svg%3E" alt="Logo" width="44" height="44" style="border-radius:8px;">
+                    <strong style="color:#fff;font-family:var(--font-primary);font-size:1.1rem;">Achievers <span style="color:var(--accent);">Academy</span></strong>
+                </div>
+                <p style="color:#9aa0b4;font-size:0.85rem;line-height:1.6;">Pioneer institute for competitive exam coaching in Bikaner. 5000+ students trained, 200+ SSC selections.</p>
+            </div>
+            <div><h5>Quick Links</h5><a href="#home">Home</a><a href="#about">About</a><a href="#courses">Courses</a><a href="#results">Results</a><a href="#contact">Contact</a></div>
+            <div><h5>Courses</h5><a href="#courses">SSC</a><a href="#courses">RPSC</a><a href="#courses">Banking</a><a href="#courses">Defence</a><a href="#courses">CTET / REET</a></div>
+            <div>
+                <h5>Contact</h5><p style="color:#9aa0b4;font-size:0.85rem;margin-bottom:6px;">📞 09521495454</p><p style="color:#9aa0b4;font-size:0.85rem;margin-bottom:6px;">📍 4-D-35, JNV Murti Circle, Bikaner</p><p style="color:#9aa0b4;font-size:0.85rem;margin-bottom:12px;">⭐ 4.5 ★ (238 Reviews)</p>
+                <div class="footer-social">
+                    <a href="https://youtube.com/@achieversacademy5454?si=ejgcT7aUBD1lcZM6" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
+                    <a href="https://facebook.com/achievers91academy" target="_blank" rel="noopener"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://t.me/achieversacademy5454" target="_blank" rel="noopener"><i class="fab fa-telegram-plane"></i></a>
+                    <a href="https://instagram.com/achievers_academy_bkn" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">&copy; 2026 Achievers Academy, Bikaner. All rights reserved. | Designed with ❤️ for student success.</div>
+    </footer>
+
+    <div class="float-btns">
+        <a href="https://wa.me/919521495454?text=Hello%20Achievers%20Academy!%20I%20am%20interested%20in%20your%20courses.%20Please%20guide%20me." target="_blank" rel="noopener" class="float-btn float-whatsapp neon-glow" aria-label="WhatsApp Chat"><i class="fab fa-whatsapp"></i></a>
+        <a href="tel:09521495454" class="float-btn float-call neon-glow" aria-label="Call Now"><i class="fas fa-phone-alt"></i></a>
+        <button class="float-btn float-top" id="backToTop" aria-label="Back to Top"><i class="fas fa-chevron-up"></i></button>
+    </div>
+
+    <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"EducationalOrganization","name":"Achievers Academy","description":"Pioneer coaching institute for SSC, RPSC, RSMSSB, Banking, CET, Defence, CTET, REET, GATE, UGC NET & Civil Services in Bikaner.","address":{"@type":"PostalAddress","streetAddress":"4-D-35, JNV Murti Circle, Sector 2, Jay Narayan Vyas Colony","addressLocality":"Bikaner","addressRegion":"Rajasthan","postalCode":"334003","addressCountry":"IN"},"telephone":"09521495454","openingHours":"Mo-Su 00:00-23:59","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","reviewCount":"238"}}
+    </script>
+
+    <script>
+        (function() {
+            // Loader
+            const loader = document.getElementById('loader');
+            window.addEventListener('load', () => { setTimeout(() => { loader.classList.add('hidden'); }, 600); });
+
+            // Custom cursor
+            const cursor = document.getElementById('customCursor');
+            const cursorDot = document.getElementById('customCursorDot');
+            if (window.innerWidth > 768) {
+                document.addEventListener('mousemove', (e) => {
+                    cursor.style.left = e.clientX - 16 + 'px';
+                    cursor.style.top = e.clientY - 16 + 'px';
+                    cursorDot.style.left = e.clientX - 4 + 'px';
+                    cursorDot.style.top = e.clientY - 4 + 'px';
+                });
+                document.addEventListener('mouseover', (e) => {
+                    if (e.target.closest('a, button, .btn, .quiz-option, .faq-question, .card, .result-card, .book-card')) {
+                        cursor.classList.add('hover');
+                    }
+                });
+                document.addEventListener('mouseout', (e) => {
+                    if (e.target.closest('a, button, .btn, .quiz-option, .faq-question, .card, .result-card, .book-card')) {
+                        cursor.classList.remove('hover');
+                    }
+                });
+            }
+
+            // Scroll progress
+            const scrollProgress = document.getElementById('scrollProgress');
+            window.addEventListener('scroll', () => {
+                const scrollTop = window.pageYOffset;
+                const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+                const progress = (scrollTop / docHeight) * 100;
+                scrollProgress.style.width = progress + '%';
+            });
+
+            // Dark/Light mode toggle
+            const darkModeToggle = document.getElementById('darkModeToggle');
+            darkModeToggle.addEventListener('click', () => {
+                document.documentElement.classList.toggle('light-mode');
+                const isLight = document.documentElement.classList.contains('light-mode');
+                darkModeToggle.innerHTML = isLight ? '☀️' : '🌓';
+                localStorage.setItem('theme', isLight ? 'light' : 'dark');
+            });
+            if (localStorage.getItem('theme') === 'light') {
+                document.documentElement.classList.add('light-mode');
+                darkModeToggle.innerHTML = '☀️';
+            }
+
+            // Header scroll
+            const header = document.getElementById('header');
+            window.addEventListener('scroll', () => { header.classList.toggle('scrolled', window.pageYOffset > 60); });
+
+            // Mobile nav
+            const hamburger = document.getElementById('hamburger');
+            const mobileNav = document.getElementById('mobileNav');
+            const mobileOverlay = document.getElementById('mobileOverlay');
+            function openNav() { hamburger.classList.add('active'); mobileNav.classList.add('active'); mobileOverlay.classList.add('active'); document.body.style.overflow = 'hidden'; }
+            function closeNav() { hamburger.classList.remove('active'); mobileNav.classList.remove('active'); mobileOverlay.classList.remove('active'); document.body.style.overflow = ''; }
+            hamburger.addEventListener('click', () => { mobileNav.classList.contains('active') ? closeNav() : openNav(); });
+            mobileOverlay.addEventListener('click', closeNav);
+            mobileNav.querySelectorAll('a').forEach(l => l.addEventListener('click', closeNav));
+            document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeNav(); });
+
+            // Back to top
+            const backToTop = document.getElementById('backToTop');
+            backToTop.style.opacity = '0'; backToTop.style.visibility = 'hidden'; backToTop.style.transition = 'opacity 0.3s, visibility 0.3s';
+            window.addEventListener('scroll', () => { const v = window.pageYOffset > 500 ? '1' : '0'; backToTop.style.opacity = v; backToTop.style.visibility = v === '1' ? 'visible' : 'hidden'; });
+            backToTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+
+            // FAQ
+            document.querySelectorAll('.faq-item').forEach(item => {
+                item.querySelector('.faq-question').addEventListener('click', () => {
+                    const active = item.classList.contains('active');
+                    document.querySelectorAll('.faq-item').forEach(i => i.classList.remove('active'));
+                    if (!active) item.classList.add('active');
+                });
+            });
+            if (document.querySelector('.faq-item')) document.querySelector('.faq-item').classList.add('active');
+
+            // Scroll Reveal
+            const revealEls = document.querySelectorAll('.reveal');
+            const observer = new IntersectionObserver((entries) => { entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); observer.unobserve(e.target); } }); }, { threshold: 0.12 });
+            revealEls.forEach(el => observer.observe(el));
+
+            // Counters
+            const counterEls = document.querySelectorAll('.counter-num[data-target]');
+            let animated = false;
+            const counterObs = new IntersectionObserver((entries) => {
+                if (entries[0].isIntersecting && !animated) {
+                    animated = true;
+                    counterEls.forEach(c => {
+                        const t = parseFloat(c.getAttribute('data-target'));
+                        const dur = 2000, start = performance.now();
+                        function upd(ts) {
+                            const p = Math.min((ts - start) / dur, 1);
+                            const v = 1 - Math.pow(1 - p, 3);
+                            c.textContent = t % 1 ? (t * v).toFixed(1) : Math.floor(t * v);
+                            if (p < 1) requestAnimationFrame(upd);
+                            else { if (t === 200) c.textContent = '200+'; else if (t === 5000) c.textContent = '5000+'; else if (t === 4.5) c.textContent = '4.5★'; else if (t === 24) c.textContent = '24×7'; }
+                        }
+                        requestAnimationFrame(upd);
+                    });
+                }
+            }, { threshold: 0.4 });
+            if (counterEls.length) counterObs.observe(counterEls[0].closest('.counters-section'));
+
+            // Smooth scroll
+            document.querySelectorAll('a[href^="#"]').forEach(a => {
+                a.addEventListener('click', function(e) {
+                    const href = this.getAttribute('href');
+                    if (href === '#') return;
+                    const tgt = document.querySelector(href);
+                    if (tgt) { e.preventDefault(); window.scrollTo({ top: tgt.offsetTop - 90, behavior: 'smooth' }); }
+                });
+            });
+
+            // Active nav
+            const secs = document.querySelectorAll('section[id]');
+            window.addEventListener('scroll', () => {
+                let cur = '';
+                secs.forEach(s => { if (window.pageYOffset >= s.offsetTop - 150) cur = s.getAttribute('id'); });
+                document.querySelectorAll('.nav-links a, .mobile-nav a').forEach(l => { l.classList.remove('active'); if (l.getAttribute('href') === '#' + cur) l.classList.add('active'); });
+            });
+
+            // Parallax
+            const heroBg = document.querySelector('.hero-bg');
+            if (heroBg?.tagName === 'IMG') {
+                window.addEventListener('scroll', () => { const s = window.pageYOffset; if (s < window.innerHeight) { heroBg.style.transform = 'translateY(' + s * 0.35 + 'px) scale(1.05)'; heroBg.style.transition = 'transform 0.1s linear'; } });
+            }
+
+            // Particles
+            const particlesContainer = document.getElementById('heroParticles');
+            if (particlesContainer) {
+                for (let i = 0; i < 35; i++) {
+                    const p = document.createElement('div');
+                    p.classList.add('hero-particle');
+                    p.style.left = Math.random() * 100 + '%';
+                    p.style.animationDelay = Math.random() * 6 + 's';
+                    p.style.animationDuration = (4 + Math.random() * 6) + 's';
+                    p.style.width = (2 + Math.random() * 4) + 'px';
+                    p.style.height = p.style.width;
+                    particlesContainer.appendChild(p);
+                }
+            }
+
+            // Countdown (SSC CGL 2026 - example date: Dec 15, 2026)
+            const countDate = new Date('December 15, 2026 10:00:00').getTime();
+            function updateCountdown() {
+                const now = new Date().getTime();
+                const dist = countDate - now;
+                const d = Math.floor(dist / (1000 * 60 * 60 * 24));
+                const h = Math.floor((dist % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                const m = Math.floor((dist % (1000 * 60 * 60)) / (1000 * 60));
+                const s = Math.floor((dist % (1000 * 60)) / 1000);
+                document.getElementById('countDays').textContent = d > 0 ? d : '00';
+                document.getElementById('countHours').textContent = h > 0 ? h : '00';
+                document.getElementById('countMins').textContent = m > 0 ? m : '00';
+                document.getElementById('countSecs').textContent = s > 0 ? s : '00';
+            }
+            setInterval(updateCountdown, 1000);
+            updateCountdown();
+
+            // Quiz
+            let quizAnswers = {};
+            document.querySelectorAll('#quizStep1 .quiz-option').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    quizAnswers.sector = this.getAttribute('data-value');
+                    document.getElementById('quizStep1').style.display = 'none';
+                    document.getElementById('quizStep2').style.display = 'block';
+                });
+            });
+            document.querySelectorAll('#quizStep2 .quiz-option').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    quizAnswers.education = this.getAttribute('data-value');
+                    document.getElementById('quizStep2').style.display = 'none';
+                    document.getElementById('quizResult').style.display = 'block';
+                    let rec = '';
+                    if (quizAnswers.sector === 'government') rec = 'SSC / Banking / RPSC Foundation Course';
+                    else if (quizAnswers.sector === 'defence') rec = 'NDA / CDS / Defence Exam Comprehensive Batch';
+                    else if (quizAnswers.sector === 'teaching') rec = 'CTET / REET / UGC NET Specialized Coaching';
+                    else rec = 'GATE / Engineering Competitive Exam Program';
+                    if (quizAnswers.education === '12th') rec += ' (After 12th Batch)';
+                    else if (quizAnswers.education === 'graduate') rec += ' (Graduate Level)';
+                    else rec += ' (Advanced Level)';
+                    document.getElementById('quizRecommendation').textContent = rec;
+                });
+            });
+            document.getElementById('quizRetake').addEventListener('click', () => {
+                quizAnswers = {};
+                document.getElementById('quizStep1').style.display = 'block';
+                document.getElementById('quizStep2').style.display = 'none';
+                document.getElementById('quizResult').style.display = 'none';
+                document.querySelectorAll('.quiz-option').forEach(b => b.classList.remove('selected'));
+            });
+            document.querySelectorAll('.quiz-option').forEach(b => b.addEventListener('click', function() { this.parentElement.querySelectorAll('.quiz-option').forEach(x => x.classList.remove('selected')); this.classList.add('selected'); }));
+
+            console.log(
